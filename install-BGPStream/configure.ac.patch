@@ -1,0 +1,46 @@
+65c65
+< AM_INIT_AUTOMAKE
+---
+> # AM_INIT_AUTOMAKE
+118,124c118,149
+< STASH_CFLAGS="$CFLAGS"
+< CFLAGS=
+< AX_PTHREAD(, [AC_MSG_ERROR([pthreads required])])
+< CFLAGS="$STASH_CFLAGS"
+< LIBS="$PTHREAD_LIBS $LIBS"
+< CFLAGS="$CFLAGS $PTHREAD_CFLAGS"
+< CC="$PTHREAD_CC"
+---
+> AC_CANONICAL_HOST
+> 
+> build_linux=no
+> build_windows=no
+> build_mac=no
+> 
+> # Detect the target system
+> case "${host_os}" in
+>     linux*)
+>         build_linux=yes
+>         ;;
+>     cygwin*|mingw*)
+>         build_windows=yes
+>         ;;
+>     darwin*)
+>         build_mac=yes
+>         ;;
+>     *)
+>         AC_MSG_ERROR(["OS $host_os is not supported"])
+>         ;;
+> esac
+> 
+> if test "x$build_mac" = "xyes"
+> then
+>   STASH_CFLAGS="$CFLAGS"
+>   CFLAGS=
+>   AX_PTHREAD(, [AC_MSG_ERROR([pthreads required])])
+>   CFLAGS="$STASH_CFLAGS"
+>   LIBS="$PTHREAD_LIBS $LIBS"
+>   CFLAGS="$CFLAGS $PTHREAD_CFLAGS"
+>   CC="$PTHREAD_CC"
+> fi
+
