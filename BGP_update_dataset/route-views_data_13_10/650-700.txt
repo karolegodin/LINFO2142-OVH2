@@ -1,0 +1,98 @@
+update|A|1634107800.091594|routeviews|route-views2.saopaulo|None|None|61595|187.16.210.50|15.235.128.0/17|187.16.210.50|61595 53013 16735 16276||None|None
+update|A|1634107821.426714|routeviews|route-views.amsix|None|None|34968|2001:7f8:1::a503:4968:1|2001:41d0::/32|2001:7f8:1::a501:6276:2|34968 16276||None|None
+update|A|1634107821.504022|routeviews|route-views.amsix|None|None|34968|2001:7f8:1::a503:4968:1|2402:1f00::/32|2001:7f8:1::a501:6276:2|34968 16276||None|None
+update|A|1634107821.697193|routeviews|route-views.amsix|None|None|34968|2001:7f8:1::a503:4968:1|2604:2dc0::/32|2001:7f8:1::a501:6276:2|34968 16276||None|None
+update|A|1634107821.731636|routeviews|route-views.amsix|None|None|34968|2001:7f8:1::a503:4968:1|2607:5300::/32|2001:7f8:1::a501:6276:2|34968 16276||None|None
+update|A|1634107831.866790|routeviews|route-views.amsix|None|None|208753|2001:7f8:f2:e1:0:a520:8753:1|2001:41d0::/32|2001:7f8:f2:e1:0:a520:8753:1|208753 6939 16276||None|None
+update|A|1634107831.866790|routeviews|route-views.amsix|None|None|208753|2001:7f8:f2:e1:0:a520:8753:1|2604:2dc0::/32|2001:7f8:f2:e1:0:a520:8753:1|208753 6939 16276||None|None
+update|A|1634107852.520546|routeviews|route-views.amsix|None|None|34968|2001:7f8:1::a503:4968:1|2001:41d0::/32|2001:7f8:1::a501:6276:2|34968 16276||None|None
+update|A|1634107852.616880|routeviews|route-views.amsix|None|None|34968|2001:7f8:1::a503:4968:1|2402:1f00::/32|2001:7f8:1::a501:6276:2|34968 16276||None|None
+update|A|1634107852.761237|routeviews|route-views.amsix|None|None|34968|2001:7f8:1::a503:4968:1|2604:2dc0::/32|2001:7f8:1::a501:6276:2|34968 16276||None|None
+update|A|1634107852.810482|routeviews|route-views.amsix|None|None|34968|2001:7f8:1::a503:4968:1|2607:5300::/32|2001:7f8:1::a501:6276:2|34968 16276||None|None
+update|A|1634107856.921701|routeviews|route-views2.saopaulo|None|None|61595|187.16.210.50|15.235.128.0/17|187.16.210.50|61595 174 6453 16276||None|None
+update|A|1634107883.188813|routeviews|route-views.amsix|None|None|34968|2001:7f8:1::a503:4968:1|2001:41d0::/32|2001:7f8:1::a501:6276:2|34968 16276||None|None
+update|A|1634107883.230258|routeviews|route-views.amsix|None|None|34968|2001:7f8:1::a503:4968:1|2402:1f00::/32|2001:7f8:1::a501:6276:2|34968 16276||None|None
+update|A|1634107883.427648|routeviews|route-views.amsix|None|None|34968|2001:7f8:1::a503:4968:1|2604:2dc0::/32|2001:7f8:1::a501:6276:2|34968 16276||None|None
+update|A|1634107883.499581|routeviews|route-views.amsix|None|None|34968|2001:7f8:1::a503:4968:1|2607:5300::/32|2001:7f8:1::a501:6276:2|34968 16276||None|None
+update|A|1634107914.042182|routeviews|route-views.amsix|None|None|34968|2001:7f8:1::a503:4968:1|2001:41d0::/32|2001:7f8:1::a501:6276:2|34968 16276||None|None
+update|A|1634107914.118411|routeviews|route-views.amsix|None|None|34968|2001:7f8:1::a503:4968:1|2402:1f00::/32|2001:7f8:1::a501:6276:2|34968 16276||None|None
+update|A|1634107914.321120|routeviews|route-views.amsix|None|None|34968|2001:7f8:1::a503:4968:1|2604:2dc0::/32|2001:7f8:1::a501:6276:2|34968 16276||None|None
+update|A|1634107914.402241|routeviews|route-views.amsix|None|None|34968|2001:7f8:1::a503:4968:1|2607:5300::/32|2001:7f8:1::a501:6276:2|34968 16276||None|None
+update|A|1634107943.994320|routeviews|route-views.amsix|None|None|34968|2001:7f8:1::a503:4968:1|2001:41d0::/32|2001:7f8:1::a501:6276:2|34968 16276||None|None
+update|A|1634107944.036360|routeviews|route-views.amsix|None|None|34968|2001:7f8:1::a503:4968:1|2402:1f00::/32|2001:7f8:1::a501:6276:2|34968 16276||None|None
+update|A|1634107944.223586|routeviews|route-views.amsix|None|None|34968|2001:7f8:1::a503:4968:1|2604:2dc0::/32|2001:7f8:1::a501:6276:2|34968 16276||None|None
+update|A|1634107944.297210|routeviews|route-views.amsix|None|None|34968|2001:7f8:1::a503:4968:1|2607:5300::/32|2001:7f8:1::a501:6276:2|34968 16276||None|None
+update|A|1634107961.609142|routeviews|route-views3|None|None|9268|2402:c00::102|2604:2dc0::/32|2402:c00::102|9268 6461 16276|6461:5997 9268:3311|None|None
+update|A|1634107961.609142|routeviews|route-views3|None|None|9268|2402:c00::102|2402:1f00::/32|2402:c00::102|9268 6461 16276|6461:5997 9268:3311|None|None
+update|A|1634107961.609142|routeviews|route-views3|None|None|9268|2402:c00::102|2001:41d0::/32|2402:c00::102|9268 6461 16276|6461:5997 9268:3311|None|None
+update|A|1634107978.000000|routeviews|route-views.sg|None|None|3491|2001:de8:4::3491:1|2402:1f00:8100::/40|2001:de8:4::3491:1|3491 174 16276|3491:4012 3491:4000 3491:9002|None|None
+update|A|1634107978.000000|routeviews|route-views.sg|None|None|3491|2001:de8:4::3491:1|2402:1f00:8000::/40|2001:de8:4::3491:1|3491 174 16276|3491:4012 3491:4000 3491:9002|None|None
+update|A|1634108001.837428|routeviews|route-views2.saopaulo|None|None|61595|187.16.210.50|15.235.128.0/17|187.16.210.50|61595 53013 16735 16276||None|None
+update|A|1634108001.837428|routeviews|route-views2.saopaulo|None|None|61595|187.16.210.50|51.79.128.0/17|187.16.210.50|61595 53013 16735 16276||None|None
+update|A|1634108016.262815|routeviews|route-views.amsix|None|None|208753|2001:7f8:f2:e1:0:a520:8753:1|2402:1f00:8200::/40|2001:7f8:f2:e1:0:a520:8753:1|208753 6939 16276||None|None
+update|A|1634108016.262815|routeviews|route-views.amsix|None|None|208753|2001:7f8:f2:e1:0:a520:8753:1|2402:1f00:8100::/40|2001:7f8:f2:e1:0:a520:8753:1|208753 6939 16276||None|None
+update|A|1634108036.189412|routeviews|route-views.amsix|None|None|34968|2001:7f8:1::a503:4968:1|2001:41d0::/32|2001:7f8:1::a501:6276:2|34968 16276||None|None
+update|A|1634108036.232949|routeviews|route-views.amsix|None|None|34968|2001:7f8:1::a503:4968:1|2402:1f00::/32|2001:7f8:1::a501:6276:2|34968 16276||None|None
+update|A|1634108036.482026|routeviews|route-views.amsix|None|None|34968|2001:7f8:1::a503:4968:1|2604:2dc0::/32|2001:7f8:1::a501:6276:2|34968 16276||None|None
+update|A|1634108036.515855|routeviews|route-views.amsix|None|None|34968|2001:7f8:1::a503:4968:1|2607:5300::/32|2001:7f8:1::a501:6276:2|34968 16276||None|None
+update|A|1634108037.293433|routeviews|route-views2.saopaulo|None|None|61595|187.16.210.50|15.235.128.0/17|187.16.210.50|61595 174 6453 16276||None|None
+update|A|1634108037.293433|routeviews|route-views2.saopaulo|None|None|61595|187.16.210.50|51.79.128.0/17|187.16.210.50|61595 174 6453 16276||None|None
+update|A|1634108052.162462|routeviews|route-views.amsix|None|None|208753|2001:7f8:f2:e1:0:a520:8753:1|2402:1f00:8000::/40|2001:7f8:f2:e1:0:a520:8753:1|208753 6939 16276||None|None
+update|A|1634108060.000000|routeviews|route-views.telxatl|None|None|19151|198.32.132.12|167.114.224.0/19|198.32.132.12|19151 16276||None|None
+update|A|1634108060.000000|routeviews|route-views.telxatl|None|None|19151|198.32.132.12|167.114.192.0/19|198.32.132.12|19151 16276||None|None
+update|A|1634108060.000000|routeviews|route-views.telxatl|None|None|19151|198.32.132.12|147.135.0.0/17|198.32.132.12|19151 16276||None|None
+update|A|1634108060.000000|routeviews|route-views.telxatl|None|None|19151|198.32.132.12|135.148.128.0/17|198.32.132.12|19151 16276||None|None
+update|A|1634108060.000000|routeviews|route-views.telxatl|None|None|19151|198.32.132.12|135.148.0.0/17|198.32.132.12|19151 16276||None|None
+update|A|1634108060.000000|routeviews|route-views.telxatl|None|None|19151|198.32.132.12|107.189.64.0/18|198.32.132.12|19151 16276||None|None
+update|A|1634108060.000000|routeviews|route-views.telxatl|None|None|19151|198.32.132.12|103.5.12.0/22|198.32.132.12|19151 16276||None|None
+update|A|1634108060.000000|routeviews|route-views.telxatl|None|None|19151|198.32.132.12|51.222.0.0/16|198.32.132.12|19151 16276||None|None
+update|A|1634108060.000000|routeviews|route-views.telxatl|None|None|19151|198.32.132.12|51.81.128.0/17|198.32.132.12|19151 16276||None|None
+update|A|1634108060.000000|routeviews|route-views.telxatl|None|None|19151|198.32.132.12|51.81.0.0/17|198.32.132.12|19151 16276||None|None
+update|A|1634108060.000000|routeviews|route-views.telxatl|None|None|19151|198.32.132.12|23.92.224.0/19|198.32.132.12|19151 16276||None|None
+update|A|1634108060.000000|routeviews|route-views.telxatl|None|None|19151|198.32.132.12|15.235.0.0/17|198.32.132.12|19151 16276||None|None
+update|A|1634108060.000000|routeviews|route-views.telxatl|None|None|19151|198.32.132.12|15.204.128.0/17|198.32.132.12|19151 16276||None|None
+update|A|1634108060.000000|routeviews|route-views.telxatl|None|None|19151|198.32.132.12|15.204.0.0/17|198.32.132.12|19151 16276||None|None
+update|A|1634108060.000000|routeviews|route-views.telxatl|None|None|19151|198.32.132.12|8.33.137.0/24|198.32.132.12|19151 16276||None|None
+update|A|1634108060.000000|routeviews|route-views.telxatl|None|None|19151|198.32.132.12|8.33.128.0/21|198.32.132.12|19151 16276||None|None
+update|A|1634108060.000000|routeviews|route-views.telxatl|None|None|19151|198.32.132.12|8.33.96.0/21|198.32.132.12|19151 16276||None|None
+update|A|1634108060.000000|routeviews|route-views.telxatl|None|None|19151|198.32.132.12|8.30.208.0/21|198.32.132.12|19151 16276||None|None
+update|A|1634108060.000000|routeviews|route-views.telxatl|None|None|19151|198.32.132.12|8.29.224.0/24|198.32.132.12|19151 16276||None|None
+update|A|1634108060.000000|routeviews|route-views.telxatl|None|None|19151|198.32.132.12|8.24.8.0/21|198.32.132.12|19151 16276||None|None
+update|A|1634108060.000000|routeviews|route-views.telxatl|None|None|19151|198.32.132.12|8.21.41.0/24|198.32.132.12|19151 16276||None|None
+update|A|1634108060.000000|routeviews|route-views.telxatl|None|None|19151|198.32.132.12|15.235.128.0/17|198.32.132.12|19151 16276||None|None
+update|A|1634108060.000000|routeviews|route-views.telxatl|None|None|19151|198.32.132.12|8.33.136.0/24|198.32.132.12|19151 16276||None|None
+update|A|1634108060.000000|routeviews|route-views.telxatl|None|None|19151|198.32.132.12|8.26.94.0/24|198.32.132.12|19151 16276||None|None
+update|A|1634108060.000000|routeviews|route-views.telxatl|None|None|19151|198.32.132.12|8.20.110.0/24|198.32.132.12|19151 16276||None|None
+update|A|1634108060.000000|routeviews|route-views.telxatl|None|None|19151|198.32.132.12|8.18.172.0/24|198.32.132.12|19151 16276||None|None
+update|A|1634108060.000000|routeviews|route-views.telxatl|None|None|19151|198.32.132.12|8.18.128.0/24|198.32.132.12|19151 16276||None|None
+update|A|1634108060.000000|routeviews|route-views.telxatl|None|None|19151|198.32.132.12|8.7.244.0/24|198.32.132.12|19151 16276||None|None
+update|A|1634108067.203281|routeviews|route-views.amsix|None|None|34968|2001:7f8:1::a503:4968:1|2001:41d0::/32|2001:7f8:1::a501:6276:2|34968 16276||None|None
+update|A|1634108067.243583|routeviews|route-views.amsix|None|None|34968|2001:7f8:1::a503:4968:1|2402:1f00::/32|2001:7f8:1::a501:6276:2|34968 16276||None|None
+update|A|1634108067.435566|routeviews|route-views.amsix|None|None|34968|2001:7f8:1::a503:4968:1|2604:2dc0::/32|2001:7f8:1::a501:6276:2|34968 16276||None|None
+update|A|1634108067.510042|routeviews|route-views.amsix|None|None|34968|2001:7f8:1::a503:4968:1|2607:5300::/32|2001:7f8:1::a501:6276:2|34968 16276||None|None
+update|A|1634108089.000000|routeviews|route-views.telxatl|None|None|19151|2001:478:132::12|2001:41d0::/32|2001:478:132::12|19151 16276||None|None
+update|A|1634108089.000000|routeviews|route-views.telxatl|None|None|19151|2001:478:132::12|2402:1f00:8200::/40|2001:478:132::12|19151 16276||None|None
+update|A|1634108089.000000|routeviews|route-views.telxatl|None|None|19151|2001:478:132::12|2402:1f00:8100::/40|2001:478:132::12|19151 16276||None|None
+update|A|1634108089.000000|routeviews|route-views.telxatl|None|None|19151|2001:478:132::12|2607:5300::/32|2001:478:132::12|19151 16276||None|None
+update|A|1634108089.000000|routeviews|route-views.telxatl|None|None|19151|2001:478:132::12|2604:2dc0::/32|2001:478:132::12|19151 16276||None|None
+update|A|1634108089.000000|routeviews|route-views.telxatl|None|None|19151|2001:478:132::12|2402:1f00::/32|2001:478:132::12|19151 16276||None|None
+update|A|1634108089.000000|routeviews|route-views.telxatl|None|None|19151|2001:478:132::12|2402:1f00:8000::/40|2001:478:132::12|19151 16276||None|None
+update|A|1634108091.000000|routeviews|route-views.telxatl|None|None|19151|198.32.132.12|192.240.152.0/21|198.32.132.12|19151 16276||None|None
+update|A|1634108117.353335|routeviews|route-views.amsix|None|None|208753|2001:7f8:f2:e1:0:a520:8753:1|2402:1f00::/32|2001:7f8:f2:e1:0:a520:8753:1|208753 6939 16276||None|None
+update|A|1634108149.892162|routeviews|route-views6|None|None|140731|2406:840:eb83::1|2402:1f00:8200::/40|2406:840:eb83::1|140731 139317 6939 16276||None|None
+update|A|1634108149.892162|routeviews|route-views6|None|None|140731|2406:840:eb83::1|2402:1f00:8100::/40|2406:840:eb83::1|140731 139317 6939 16276||None|None
+update|A|1634108149.912569|routeviews|route-views6|None|None|140731|2406:840:eb83::1|2402:1f00:8000::/40|2406:840:eb83::1|140731 139317 6939 16276||None|None
+update|A|1634108150.299291|routeviews|route-views6|None|None|140731|2406:840:eb83::1|2001:41d0::/32|2406:840:eb83::1|140731 140731 140731 140731 16276|6695:59947|None|None
+update|A|1634108150.299291|routeviews|route-views6|None|None|140731|2406:840:eb83::1|2604:2dc0::/32|2406:840:eb83::1|140731 140731 140731 140731 16276|6695:59947|None|None
+update|A|1634108151.848439|routeviews|route-views6|None|None|140731|2406:840:eb83::1|2402:1f00::/32|2406:840:eb83::1|140731 140731 140731 140731 16276|6695:59947|None|None
+update|A|1634108151.848439|routeviews|route-views6|None|None|140731|2406:840:eb83::1|2607:5300::/32|2406:840:eb83::1|140731 140731 140731 140731 16276|6695:59947|None|None
+update|A|1634108190.625057|routeviews|route-views.amsix|None|None|34968|2001:7f8:1::a503:4968:1|2001:41d0::/32|2001:7f8:1::a501:6276:2|34968 16276||None|None
+update|A|1634108190.694505|routeviews|route-views.amsix|None|None|34968|2001:7f8:1::a503:4968:1|2402:1f00::/32|2001:7f8:1::a501:6276:2|34968 16276||None|None
+update|A|1634108190.888594|routeviews|route-views.amsix|None|None|34968|2001:7f8:1::a503:4968:1|2604:2dc0::/32|2001:7f8:1::a501:6276:2|34968 16276||None|None
+update|A|1634108190.920594|routeviews|route-views.amsix|None|None|34968|2001:7f8:1::a503:4968:1|2607:5300::/32|2001:7f8:1::a501:6276:2|34968 16276||None|None
+update|A|1634108252.130079|routeviews|route-views2.saopaulo|None|None|61595|187.16.210.50|15.235.128.0/17|187.16.210.50|61595 53013 16735 16276||None|None
+update|A|1634108252.130079|routeviews|route-views2.saopaulo|None|None|61595|187.16.210.50|51.79.128.0/17|187.16.210.50|61595 53013 16735 16276||None|None
+update|A|1634108252.130079|routeviews|route-views2.saopaulo|None|None|61595|187.16.210.50|139.99.0.0/17|187.16.210.50|61595 53013 16735 16276||None|None
+update|A|1634108292.638413|routeviews|route-views2.saopaulo|None|None|61595|187.16.210.50|15.235.128.0/17|187.16.210.50|61595 174 6453 16276||None|None
+update|A|1634108299.963921|routeviews|route-views2.saopaulo|None|None|61595|187.16.210.50|51.79.128.0/17|187.16.210.50|61595 174 6453 16276||None|None
+update|A|1634108306.077520|routeviews|route-views2.saopaulo|None|None|61595|187.16.210.50|139.99.0.0/17|187.16.210.50|61595 174 6453 16276||None|None
