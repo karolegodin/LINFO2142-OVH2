@@ -1,0 +1,3680 @@
+AIRTEL:
+  links:
+  - label: '#1'
+    load: 1
+    peer: lax-la1-bb1-n7
+ALTICE USA:
+  links:
+  - label: '#1'
+    load: 1
+    peer: nwk-1-n7
+AMAZON:
+  links:
+  - label: '#1'
+    load: 12
+    peer: was-dc10-pb2-nc5
+  - label: '#1'
+    load: 1
+    peer: ymq-mtl3-bb1-n7
+  - label: '#1'
+    load: 12
+    peer: was-dc10-pb1-ptx
+ANY2:
+  links:
+  - label: '#1'
+    load: 11
+    peer: lax-la1-bb1-n7
+  - label: '#1'
+    load: 11
+    peer: lax-la1-bb1-n7
+BELL:
+  links:
+  - label: '#1'
+    load: 9
+    peer: ymq-mtl3-bb1-n7
+  - label: '#1'
+    load: 1
+    peer: yto-tr1-bb1-n7
+CDN77:
+  links:
+  - label: '#1'
+    load: 0
+    peer: sjo-sv5-bb1-n7
+  - label: '#1'
+    load: 33
+    peer: chi-1-n7
+  - label: '#1'
+    load: 6
+    peer: lax-la1-bb1-n7
+  - label: '#1'
+    load: 1
+    peer: mia-5-n7
+  - label: '#1'
+    load: 32
+    peer: chi-5-n7
+CHARTER:
+  links:
+  - label: '#3'
+    load: 1
+    peer: was-dc10-pb1-ptx
+  - label: '#4'
+    load: 1
+    peer: was-dc10-pb1-ptx
+  - label: '#2'
+    load: 1
+    peer: was-dc10-pb1-ptx
+  - label: '#1'
+    load: 1
+    peer: was-dc10-pb1-ptx
+  - label: '#2'
+    load: 2
+    peer: sjo-sv5-bb1-n7
+  - label: '#1'
+    load: 2
+    peer: sjo-sv5-bb1-n7
+  - label: '#4'
+    load: 1
+    peer: chi-1-n7
+  - label: '#1'
+    load: 1
+    peer: chi-1-n7
+  - label: '#3'
+    load: 2
+    peer: chi-1-n7
+  - label: '#2'
+    load: 2
+    peer: chi-1-n7
+CLOUDFLARE:
+  links:
+  - label: '#1'
+    load: 1
+    peer: dfw-da2-bb1-a72
+  - label: '#1'
+    load: 1
+    peer: mia-5-n7
+  - label: '#1'
+    load: 9
+    peer: nwk-5-n7
+  - label: '#1'
+    load: 1
+    peer: chi-1-n7
+COGENT:
+  links:
+  - label: '#1'
+    load: 49
+    peer: sjo-sv5-bb1-n7
+  - label: '#1'
+    load: 26
+    peer: yto-tr1-bb1-n7
+  - label: '#1'
+    load: 15
+    peer: was-dc10-pb2-nc5
+  - label: '#1'
+    load: 14
+    peer: nwk-5-n7
+  - label: '#1'
+    load: 4
+    peer: sea-wbx-pb1-8k
+  - label: '#1'
+    load: 18
+    peer: was-dc10-pb1-ptx
+  - label: '#1'
+    load: 20
+    peer: chi-1-n7
+  - label: '#1'
+    load: 13
+    peer: nwk-1-n7
+  - label: '#1'
+    load: 4
+    peer: ymq-mtl3-bb1-n7
+COMCAST:
+  links:
+  - label: '#1'
+    load: 4
+    peer: chi-5-n7
+  - label: '#1'
+    load: 8
+    peer: sea-wbx-pb1-8k
+  - label: '#1'
+    load: 5
+    peer: nwk-5-n7
+  - label: '#1'
+    load: 3
+    peer: pao-sv8-bb1-n7
+  - label: '#1'
+    load: 4
+    peer: chi-1-n7
+  - label: '#1'
+    load: 5
+    peer: nwk-1-n7
+COX:
+  links:
+  - label: '#1'
+    load: 1
+    peer: dfw-da2-bb1-a72
+  - label: '#2'
+    load: 1
+    peer: dfw-da2-bb1-a72
+  - label: '#4'
+    load: 1
+    peer: dfw-da2-bb1-a72
+  - label: '#3'
+    load: 1
+    peer: dfw-da2-bb1-a72
+  - label: '#2'
+    load: 1
+    peer: was-dc10-pb1-ptx
+  - label: '#1'
+    load: 1
+    peer: was-dc10-pb1-ptx
+  - label: '#3'
+    load: 1
+    peer: was-dc10-pb1-ptx
+  - label: '#4'
+    load: 1
+    peer: was-dc10-pb1-ptx
+  - label: '#4'
+    load: 2
+    peer: sjo-sv5-bb1-n7
+  - label: '#3'
+    load: 2
+    peer: sjo-sv5-bb1-n7
+  - label: '#2'
+    load: 2
+    peer: sjo-sv5-bb1-n7
+  - label: '#1'
+    load: 2
+    peer: sjo-sv5-bb1-n7
+CWC:
+  links:
+  - label: '#1'
+    load: 1
+    peer: mia-5-n7
+DECIX NYK:
+  links:
+  - label: '#1'
+    load: 13
+    peer: nwk-1-n7
+  - label: '#1'
+    load: 1
+    peer: nwk-5-n7
+EMBRATEL:
+  links:
+  - label: '#1'
+    load: 3
+    peer: mia-5-n7
+  - label: '#2'
+    load: 3
+    peer: mia-5-n7
+  - label: '#4'
+    load: 3
+    peer: mia-5-n7
+  - label: '#3'
+    load: 3
+    peer: mia-5-n7
+  - label: '#4'
+    load: 3
+    peer: mia-5-n7
+  - label: '#1'
+    load: 3
+    peer: mia-5-n7
+  - label: '#3'
+    load: 3
+    peer: mia-5-n7
+  - label: '#2'
+    load: 3
+    peer: mia-5-n7
+EQUINIX:
+  links:
+  - label: '#1'
+    load: 13
+    peer: sjo-sv5-bb1-n7
+  - label: '#1'
+    load: 26
+    peer: nwk-5-n7
+  - label: '#1'
+    load: 54
+    peer: was-dc10-pb2-nc5
+  - label: '#2'
+    load: 12
+    peer: dfw-da2-bb2-a72
+  - label: '#1'
+    load: 9
+    peer: chi-5-n7
+  - label: '#1'
+    load: 8
+    peer: pao-sv8-bb1-n7
+FL-IX:
+  links:
+  - label: '#1'
+    load: 6
+    peer: mia-5-n7
+GLOBENET:
+  links:
+  - label: '#1'
+    load: 1
+    peer: mia-5-n7
+GOOGLE:
+  links:
+  - label: '#1'
+    load: 15
+    peer: ymq-mtl3-bb1-n7
+  - label: '#3'
+    load: 17
+    peer: was-dc10-pb1-ptx
+  - label: '#2'
+    load: 16
+    peer: was-dc10-pb1-ptx
+  - label: '#4'
+    load: 17
+    peer: was-dc10-pb1-ptx
+  - label: '#1'
+    load: 17
+    peer: was-dc10-pb1-ptx
+  - label: '#2'
+    load: 11
+    peer: yto-tr1-bb1-n7
+  - label: '#1'
+    load: 10
+    peer: sea-wbx-pb1-8k
+  - label: '#4'
+    load: 18
+    peer: was-dc10-pb2-nc5
+  - label: '#2'
+    load: 17
+    peer: was-dc10-pb2-nc5
+  - label: '#1'
+    load: 15
+    peer: was-dc10-pb2-nc5
+  - label: '#3'
+    load: 16
+    peer: was-dc10-pb2-nc5
+HINET:
+  links:
+  - label: '#1'
+    load: 1
+    peer: pao-sv8-bb1-n7
+INTERNEXA:
+  links:
+  - label: '#1'
+    load: 1
+    peer: mia-5-n7
+KDDI:
+  links:
+  - label: '#4'
+    load: 2
+    peer: sjo-sv5-bb1-n7
+  - label: '#3'
+    load: 2
+    peer: sjo-sv5-bb1-n7
+  - label: '#2'
+    load: 2
+    peer: sjo-sv5-bb1-n7
+  - label: '#1'
+    load: 2
+    peer: sjo-sv5-bb1-n7
+  - label: '#2'
+    load: 1
+    peer: lax-la1-bb1-n7
+  - label: '#1'
+    load: 1
+    peer: lax-la1-bb1-n7
+  - label: '#3'
+    load: 1
+    peer: lax-la1-bb1-n7
+  - label: '#4'
+    load: 1
+    peer: lax-la1-bb1-n7
+KT:
+  links:
+  - label: '#2'
+    load: 8
+    peer: pao-sv8-bb1-n7
+  - label: '#1'
+    load: 8
+    peer: pao-sv8-bb1-n7
+LEVEL3:
+  links:
+  - label: '#1'
+    load: 1
+    peer: chi-5-n7
+  - label: '#2'
+    load: 2
+    peer: pdx-pdx02-pb1-nc5
+  - label: '#1'
+    load: 9
+    peer: nwk-5-n7
+  - label: '#1'
+    load: 7
+    peer: sjo-sv5-bb1-n7
+  - label: '#1'
+    load: 9
+    peer: nwk-1-n7
+  - label: '#1'
+    load: 9
+    peer: chi-1-n7
+NOTA:
+  links:
+  - label: '#1'
+    load: 12
+    peer: mia-5-n7
+NWAX:
+  links:
+  - label: '#1'
+    load: 11
+    peer: pdx-pdx02-pb1-nc5
+NYIIX:
+  links:
+  - label: '#1'
+    load: 38
+    peer: nwk-5-n7
+OI:
+  links:
+  - label: '#1'
+    load: 1
+    peer: mia-5-n7
+  - label: '#1'
+    load: 1
+    peer: mia-5-n7
+  - label: '#2'
+    load: 1
+    peer: mia-5-n7
+  - label: '#2'
+    load: 1
+    peer: mia-5-n7
+QIX:
+  links:
+  - label: '#1'
+    load: 9
+    peer: ymq-mtl3-bb1-n7
+RELIANCE:
+  links:
+  - label: '#1'
+    load: 1
+    peer: pao-sv8-bb1-n7
+ROGERS:
+  links:
+  - label: '#1'
+    load: 1
+    peer: chi-5-n7
+  - label: '#1'
+    load: 5
+    peer: yto-tr1-bb1-n7
+SEABONE:
+  links:
+  - label: '#1'
+    load: 2
+    peer: pao-sv8-bb1-n7
+  - label: '#1'
+    load: 6
+    peer: nwk-1-n7
+  - label: '#1'
+    load: 1
+    peer: was-dc10-pb2-nc5
+SHAW:
+  links:
+  - label: '#2'
+    load: 1
+    peer: chi-5-n7
+  - label: '#1'
+    load: 1
+    peer: chi-5-n7
+  - label: '#4'
+    load: 1
+    peer: chi-5-n7
+  - label: '#3'
+    load: 1
+    peer: chi-5-n7
+  - label: '#2'
+    load: 2
+    peer: yto-tr1-bb1-n7
+  - label: '#1'
+    load: 1
+    peer: yto-tr1-bb1-n7
+  - label: '#2'
+    load: 2
+    peer: yto-tr1-bb1-n7
+  - label: '#1'
+    load: 1
+    peer: yto-tr1-bb1-n7
+SIX:
+  links:
+  - label: '#1'
+    load: 16
+    peer: sea-wbx-pb1-8k
+SOFTBANK:
+  links:
+  - label: '#2'
+    load: 1
+    peer: lax-la1-bb1-n7
+  - label: '#1'
+    load: 1
+    peer: lax-la1-bb1-n7
+  - label: '#4'
+    load: 1
+    peer: lax-la1-bb1-n7
+  - label: '#3'
+    load: 2
+    peer: lax-la1-bb1-n7
+  - label: '#2'
+    load: 1
+    peer: sjo-sv5-bb1-n7
+  - label: '#3'
+    load: 1
+    peer: sjo-sv5-bb1-n7
+  - label: '#1'
+    load: 1
+    peer: sjo-sv5-bb1-n7
+  - label: '#4'
+    load: 1
+    peer: sjo-sv5-bb1-n7
+SUDDENLINK:
+  links:
+  - label: '#2'
+    load: 1
+    peer: was-dc10-pb1-ptx
+  - label: '#1'
+    load: 1
+    peer: was-dc10-pb1-ptx
+TEL MALAYSIA:
+  links:
+  - label: '#4'
+    load: 5
+    peer: sjo-sv5-bb1-n7
+  - label: '#1'
+    load: 5
+    peer: sjo-sv5-bb1-n7
+  - label: '#3'
+    load: 5
+    peer: sjo-sv5-bb1-n7
+  - label: '#2'
+    load: 5
+    peer: sjo-sv5-bb1-n7
+TELIA:
+  links:
+  - label: '#1'
+    load: 13
+    peer: pao-sv8-bb1-n7
+  - label: '#1'
+    load: 11
+    peer: chi-5-n7
+  - label: '#1'
+    load: 3
+    peer: ymq-mtl3-bb1-n7
+  - label: '#1'
+    load: 3
+    peer: ymq-mtl3-bb1-n7
+  - label: '#1'
+    load: 3
+    peer: nwk-5-n7
+  - label: '#1'
+    load: 3
+    peer: nwk-1-n7
+  - label: '#1'
+    load: 15
+    peer: was-dc10-pb2-nc5
+  - label: '#1'
+    load: 1
+    peer: yto-tr1-bb1-n7
+TELIN:
+  links:
+  - label: '#3'
+    load: 7
+    peer: lax-la1-bb1-n7
+  - label: '#4'
+    load: 7
+    peer: lax-la1-bb1-n7
+  - label: '#2'
+    load: 7
+    peer: lax-la1-bb1-n7
+  - label: '#1'
+    load: 7
+    peer: lax-la1-bb1-n7
+TELMEX:
+  links:
+  - label: '#2'
+    load: 1
+    peer: lax-la1-bb1-n7
+  - label: '#1'
+    load: 3
+    peer: lax-la1-bb1-n7
+  - label: '#2'
+    load: 2
+    peer: lax-la1-bb1-n7
+  - label: '#1'
+    load: 2
+    peer: lax-la1-bb1-n7
+  - label: '#2'
+    load: 5
+    peer: dfw-da2-bb1-a72
+  - label: '#1'
+    load: 5
+    peer: dfw-da2-bb1-a72
+  - label: '#1'
+    load: 4
+    peer: dfw-da2-bb1-a72
+  - label: '#2'
+    load: 7
+    peer: dfw-da2-bb1-a72
+TELSTRA:
+  links:
+  - label: '#3'
+    load: 8
+    peer: pao-sv8-bb1-n7
+  - label: '#2'
+    load: 9
+    peer: pao-sv8-bb1-n7
+  - label: '#1'
+    load: 8
+    peer: pao-sv8-bb1-n7
+  - label: '#4'
+    load: 8
+    peer: pao-sv8-bb1-n7
+TELUS:
+  links:
+  - label: '#1'
+    load: 2
+    peer: yto-tr1-bb1-n7
+  - label: '#2'
+    load: 1
+    peer: yto-tr1-bb1-n7
+  - label: '#1'
+    load: 1
+    peer: yto-tr1-bb1-n7
+  - label: '#2'
+    load: 1
+    peer: yto-tr1-bb1-n7
+  - label: '#2'
+    load: 1
+    peer: ymq-mtl3-bb1-n7
+  - label: '#2'
+    load: 1
+    peer: ymq-mtl3-bb1-n7
+  - label: '#1'
+    load: 1
+    peer: ymq-mtl3-bb1-n7
+  - label: '#1'
+    load: 1
+    peer: ymq-mtl3-bb1-n7
+TELXIUS:
+  links:
+  - label: '#2'
+    load: 10
+    peer: was-dc10-pb1-ptx
+  - label: '#2'
+    load: 1
+    peer: mia-5-n7
+  - label: '#1'
+    load: 1
+    peer: mia-5-n7
+  - label: '#1'
+    load: 1
+    peer: was-dc10-pb2-nc5
+TORIX:
+  links:
+  - label: '#2'
+    load: 13
+    peer: yto-tr1-bb1-n7
+TRANSTELCO:
+  links:
+  - label: '#1'
+    load: 2
+    peer: dfw-da2-bb1-a72
+  - label: '#1'
+    load: 1
+    peer: lax-la1-bb1-n7
+TWC:
+  links:
+  - label: '#1'
+    load: 1
+    peer: chi-5-n7
+  - label: '#1'
+    load: 2
+    peer: was-dc10-pb1-ptx
+  - label: '#1'
+    load: 1
+    peer: sjo-sv5-bb1-n7
+TWGATE:
+  links:
+  - label: '#3'
+    load: 1
+    peer: pao-sv8-bb1-n7
+  - label: '#1'
+    load: 1
+    peer: pao-sv8-bb1-n7
+  - label: '#4'
+    load: 1
+    peer: pao-sv8-bb1-n7
+  - label: '#2'
+    load: 1
+    peer: pao-sv8-bb1-n7
+VIDEOTRON:
+  links:
+  - label: '#1'
+    load: 2
+    peer: ymq-mtl3-bb1-n7
+bhs-g1-nc5:
+  links:
+  - label: '#1'
+    load: 29
+    peer: chi-1-n7
+  - label: '#2'
+    load: 26
+    peer: ymq-mtl3-bb1-n7
+  - label: '#1'
+    load: 29
+    peer: chi-1-n7
+  - label: '#2'
+    load: 1
+    peer: bhs-g2-nc5
+  - label: '#1'
+    load: 30
+    peer: chi-1-n7
+  - label: '#1'
+    load: 21
+    peer: yto-tr1-bb1-n7
+  - label: '#1'
+    load: 47
+    peer: nwk-1-n7
+  - label: '#1'
+    load: 21
+    peer: yto-tr1-bb1-n7
+  - label: '#1'
+    load: 19
+    peer: yto-tr1-bb1-n7
+  - label: '#1'
+    load: 31
+    peer: chi-1-n7
+  - label: '#1'
+    load: 30
+    peer: chi-1-n7
+  - label: '#5'
+    load: 47
+    peer: nwk-1-n7
+  - label: '#2'
+    load: 46
+    peer: nwk-1-n7
+  - label: '#2'
+    load: 1
+    peer: bhs-g2-nc5
+  - label: '#2'
+    load: 26
+    peer: ymq-mtl3-bb1-n7
+  - label: '#6'
+    load: 47
+    peer: nwk-1-n7
+  - label: '#4'
+    load: 46
+    peer: nwk-1-n7
+  - label: '#2'
+    load: 1
+    peer: bhs-g2-nc5
+  - label: '#1'
+    load: 46
+    peer: nwk-1-n7
+  - label: '#3'
+    load: 46
+    peer: nwk-1-n7
+  - label: '#2'
+    load: 1
+    peer: bhs-g2-nc5
+  - label: '#2'
+    load: 1
+    peer: bhs-g2-nc5
+  - label: '#3'
+    load: 47
+    peer: nwk-1-n7
+  - label: '#1'
+    load: 30
+    peer: chi-1-n7
+  - label: '#2'
+    load: 1
+    peer: bhs-g2-nc5
+  - label: '#2'
+    load: 1
+    peer: bhs-g2-nc5
+  - label: '#4'
+    load: 46
+    peer: nwk-1-n7
+  - label: '#1'
+    load: 26
+    peer: ymq-mtl3-bb1-n7
+  - label: '#5'
+    load: 47
+    peer: nwk-1-n7
+  - label: '#1'
+    load: 30
+    peer: chi-1-n7
+  - label: '#2'
+    load: 46
+    peer: nwk-1-n7
+  - label: '#2'
+    load: 1
+    peer: bhs-g2-nc5
+  - label: '#1'
+    load: 30
+    peer: chi-1-n7
+  - label: '#1'
+    load: 21
+    peer: yto-tr1-bb1-n7
+  - label: '#2'
+    load: 1
+    peer: bhs-g2-nc5
+  - label: '#2'
+    load: 1
+    peer: bhs-g2-nc5
+  - label: '#1'
+    load: 28
+    peer: ymq-mtl3-bb1-n7
+bhs-g2-nc5:
+  links:
+  - label: '#1'
+    load: 43
+    peer: nwk-5-n7
+  - label: '#3'
+    load: 44
+    peer: nwk-5-n7
+  - label: '#1'
+    load: 44
+    peer: nwk-5-n7
+  - label: '#4'
+    load: 45
+    peer: nwk-5-n7
+  - label: '#1'
+    load: 32
+    peer: chi-5-n7
+  - label: '#2'
+    load: 1
+    peer: bhs-g1-nc5
+  - label: '#6'
+    load: 44
+    peer: nwk-5-n7
+  - label: '#1'
+    load: 32
+    peer: chi-5-n7
+  - label: '#1'
+    load: 32
+    peer: chi-5-n7
+  - label: '#2'
+    load: 25
+    peer: ymq-mtl3-bb1-n7
+  - label: '#2'
+    load: 45
+    peer: nwk-5-n7
+  - label: '#1'
+    load: 46
+    peer: nwk-5-n7
+  - label: '#1'
+    load: 31
+    peer: chi-5-n7
+  - label: '#2'
+    load: 25
+    peer: ymq-mtl3-bb1-n7
+  - label: '#5'
+    load: 45
+    peer: nwk-5-n7
+  - label: '#2'
+    load: 1
+    peer: bhs-g1-nc5
+  - label: '#2'
+    load: 1
+    peer: bhs-g1-nc5
+  - label: '#1'
+    load: 26
+    peer: ymq-mtl3-bb1-n7
+  - label: '#1'
+    load: 26
+    peer: ymq-mtl3-bb1-n7
+  - label: '#3'
+    load: 44
+    peer: nwk-5-n7
+  - label: '#1'
+    load: 32
+    peer: chi-5-n7
+  - label: '#2'
+    load: 1
+    peer: bhs-g1-nc5
+  - label: '#2'
+    load: 1
+    peer: bhs-g1-nc5
+  - label: '#1'
+    load: 32
+    peer: chi-5-n7
+  - label: '#1'
+    load: 20
+    peer: yto-tr1-bb1-n7
+  - label: '#2'
+    load: 1
+    peer: bhs-g1-nc5
+  - label: '#2'
+    load: 1
+    peer: bhs-g1-nc5
+  - label: '#1'
+    load: 20
+    peer: yto-tr1-bb1-n7
+  - label: '#1'
+    load: 32
+    peer: chi-5-n7
+  - label: '#1'
+    load: 20
+    peer: yto-tr1-bb1-n7
+  - label: '#2'
+    load: 1
+    peer: bhs-g1-nc5
+  - label: '#4'
+    load: 45
+    peer: nwk-5-n7
+  - label: '#1'
+    load: 19
+    peer: yto-tr1-bb1-n7
+  - label: '#2'
+    load: 1
+    peer: bhs-g1-nc5
+  - label: '#2'
+    load: 44
+    peer: nwk-5-n7
+  - label: '#2'
+    load: 1
+    peer: bhs-g1-nc5
+  - label: '#1'
+    load: 32
+    peer: chi-5-n7
+chi-1-a9:
+  links:
+  - label: '#6'
+    load: 27
+    peer: chi-1-n7
+  - label: '#6'
+    load: 26
+    peer: chi-1-n7
+  - label: '#1'
+    load: 26
+    peer: chi-1-n7
+  - label: '#7'
+    load: 27
+    peer: chi-1-n7
+  - label: '#2'
+    load: 27
+    peer: chi-1-n7
+  - label: '#8'
+    load: 27
+    peer: chi-1-n7
+  - label: '#8'
+    load: 26
+    peer: chi-1-n7
+  - label: '#4'
+    load: 27
+    peer: chi-1-n7
+  - label: '#5'
+    load: 26
+    peer: chi-1-n7
+  - label: '#7'
+    load: 27
+    peer: chi-1-n7
+  - label: '#5'
+    load: 26
+    peer: chi-1-n7
+  - label: '#4'
+    load: 26
+    peer: chi-1-n7
+  - label: '#3'
+    load: 27
+    peer: chi-1-n7
+  - label: '#3'
+    load: 26
+    peer: chi-1-n7
+  - label: '#2'
+    load: 27
+    peer: chi-1-n7
+  - label: '#1'
+    load: 27
+    peer: chi-1-n7
+chi-1-n7:
+  links:
+  - label: '#6'
+    load: 28
+    peer: chi-1-a9
+  - label: '#4'
+    load: 24
+    peer: CHARTER
+  - label: '#1'
+    load: 14
+    peer: bhs-g1-nc5
+  - label: '#1'
+    load: 16
+    peer: bhs-g1-nc5
+  - label: '#1'
+    load: 9
+    peer: chi-5-n7
+  - label: '#1'
+    load: 16
+    peer: LEVEL3
+  - label: '#6'
+    load: 28
+    peer: chi-1-a9
+  - label: '#1'
+    load: 29
+    peer: pao-sv8-bb1-n7
+  - label: '#2'
+    load: 9
+    peer: chi-5-n7
+  - label: '#1'
+    load: 8
+    peer: was-cva1-sbb1-8k
+  - label: '#1'
+    load: 15
+    peer: bhs-g1-nc5
+  - label: '#1'
+    load: 28
+    peer: chi-1-a9
+  - label: '#7'
+    load: 25
+    peer: chi-1-a9
+  - label: '#2'
+    load: 27
+    peer: chi-1-a9
+  - label: '#1'
+    load: 7
+    peer: was-cva1-sbb1-8k
+  - label: '#1'
+    load: 14
+    peer: bhs-g1-nc5
+  - label: '#1'
+    load: 16
+    peer: bhs-g1-nc5
+  - label: '#1'
+    load: 9
+    peer: chi-5-n7
+  - label: '#1'
+    load: 46
+    peer: pdx-pdx02-sbb1-nc5
+  - label: '#8'
+    load: 27
+    peer: chi-1-a9
+  - label: '#8'
+    load: 26
+    peer: chi-1-a9
+  - label: '#4'
+    load: 26
+    peer: chi-1-a9
+  - label: '#1'
+    load: 8
+    peer: COGENT
+  - label: '#1'
+    load: 56
+    peer: CDN77
+  - label: '#5'
+    load: 28
+    peer: chi-1-a9
+  - label: '#7'
+    load: 26
+    peer: chi-1-a9
+  - label: '#1'
+    load: 24
+    peer: CHARTER
+  - label: '#5'
+    load: 26
+    peer: chi-1-a9
+  - label: '#4'
+    load: 25
+    peer: chi-1-a9
+  - label: '#3'
+    load: 27
+    peer: chi-1-a9
+  - label: '#2'
+    load: 29
+    peer: pao-sv8-bb1-n7
+  - label: '#1'
+    load: 15
+    peer: bhs-g1-nc5
+  - label: '#3'
+    load: 30
+    peer: pao-sv8-bb1-n7
+  - label: '#2'
+    load: 9
+    peer: chi-5-n7
+  - label: '#3'
+    load: 27
+    peer: chi-1-a9
+  - label: '#2'
+    load: 27
+    peer: chi-1-a9
+  - label: '#2'
+    load: 8
+    peer: was-cva1-sbb1-8k
+  - label: '#1'
+    load: 15
+    peer: bhs-g1-nc5
+  - label: '#1'
+    load: 25
+    peer: chi-1-a9
+  - label: '#1'
+    load: 9
+    peer: CLOUDFLARE
+  - label: '#3'
+    load: 1
+    peer: was-cva1-sbb1-8k
+  - label: '#1'
+    load: 12
+    peer: COMCAST
+  - label: '#3'
+    load: 25
+    peer: CHARTER
+  - label: '#1'
+    load: 15
+    peer: bhs-g1-nc5
+  - label: '#2'
+    load: 23
+    peer: CHARTER
+chi-5-a9:
+  links:
+  - label: '#6'
+    load: 28
+    peer: chi-5-n7
+  - label: '#7'
+    load: 27
+    peer: chi-5-n7
+  - label: '#8'
+    load: 27
+    peer: chi-5-n7
+  - label: '#2'
+    load: 27
+    peer: chi-5-n7
+  - label: '#7'
+    load: 28
+    peer: chi-5-n7
+  - label: '#1'
+    load: 27
+    peer: chi-5-n7
+  - label: '#4'
+    load: 27
+    peer: chi-5-n7
+  - label: '#2'
+    load: 26
+    peer: chi-5-n7
+  - label: '#4'
+    load: 27
+    peer: chi-5-n7
+  - label: '#6'
+    load: 27
+    peer: chi-5-n7
+  - label: '#1'
+    load: 27
+    peer: chi-5-n7
+  - label: '#3'
+    load: 26
+    peer: chi-5-n7
+  - label: '#5'
+    load: 26
+    peer: chi-5-n7
+  - label: '#3'
+    load: 27
+    peer: chi-5-n7
+  - label: '#8'
+    load: 27
+    peer: chi-5-n7
+  - label: '#5'
+    load: 27
+    peer: chi-5-n7
+chi-5-n7:
+  links:
+  - label: '#6'
+    load: 27
+    peer: chi-5-a9
+  - label: '#7'
+    load: 28
+    peer: chi-5-a9
+  - label: '#1'
+    load: 4
+    peer: chi-1-n7
+  - label: '#2'
+    load: 1
+    peer: SHAW
+  - label: '#1'
+    load: 13
+    peer: bhs-g2-nc5
+  - label: '#1'
+    load: 14
+    peer: bhs-g2-nc5
+  - label: '#2'
+    load: 3
+    peer: chi-1-n7
+  - label: '#1'
+    load: 14
+    peer: bhs-g2-nc5
+  - label: '#8'
+    load: 27
+    peer: chi-5-a9
+  - label: '#1'
+    load: 1
+    peer: SHAW
+  - label: '#2'
+    load: 29
+    peer: chi-5-a9
+  - label: '#7'
+    load: 28
+    peer: chi-5-a9
+  - label: '#1'
+    load: 23
+    peer: EQUINIX
+  - label: '#1'
+    load: 1
+    peer: ROGERS
+  - label: '#1'
+    load: 0
+    peer: pdx-prt1-sbb1-nc5
+  - label: '#1'
+    load: 3
+    peer: chi-1-n7
+  - label: '#1'
+    load: 28
+    peer: pao-sv8-bb1-n7
+  - label: '#1'
+    load: 14
+    peer: bhs-g2-nc5
+  - label: '#1'
+    load: 19
+    peer: pdx-prt1-sbb1-nc5
+  - label: '#1'
+    load: 7
+    peer: TELIA
+  - label: '#1'
+    load: 2
+    peer: was-nva1-sbb1-8k
+  - label: '#3'
+    load: 2
+    peer: was-nva1-sbb1-8k
+  - label: '#1'
+    load: 26
+    peer: chi-5-a9
+  - label: '#1'
+    load: 30
+    peer: TWC
+  - label: '#1'
+    load: 0
+    peer: pdx-prt1-sbb1-nc5
+  - label: '#4'
+    load: 26
+    peer: chi-5-a9
+  - label: '#1'
+    load: 29
+    peer: dfw-da2-bb2-a72
+  - label: '#1'
+    load: 13
+    peer: bhs-g2-nc5
+  - label: '#2'
+    load: 27
+    peer: chi-5-a9
+  - label: '#1'
+    load: 18
+    peer: pdx-prt1-sbb1-nc5
+  - label: '#4'
+    load: 27
+    peer: chi-5-a9
+  - label: '#6'
+    load: 28
+    peer: chi-5-a9
+  - label: '#1'
+    load: 13
+    peer: bhs-g2-nc5
+  - label: '#4'
+    load: 1
+    peer: SHAW
+  - label: '#3'
+    load: 1
+    peer: SHAW
+  - label: '#1'
+    load: 27
+    peer: chi-5-a9
+  - label: '#1'
+    load: 15
+    peer: LEVEL3
+  - label: '#2'
+    load: 4
+    peer: chi-1-n7
+  - label: '#1'
+    load: 55
+    peer: CDN77
+  - label: '#1'
+    load: 14
+    peer: bhs-g2-nc5
+  - label: '#1'
+    load: 28
+    peer: pao-sv8-bb1-n7
+  - label: '#1'
+    load: 28
+    peer: pao-sv8-bb1-n7
+  - label: '#3'
+    load: 2
+    peer: was-nva1-sbb1-8k
+  - label: '#3'
+    load: 28
+    peer: chi-5-a9
+  - label: '#5'
+    load: 26
+    peer: chi-5-a9
+  - label: '#3'
+    load: 26
+    peer: chi-5-a9
+  - label: '#2'
+    load: 2
+    peer: was-nva1-sbb1-8k
+  - label: '#8'
+    load: 26
+    peer: chi-5-a9
+  - label: '#5'
+    load: 26
+    peer: chi-5-a9
+  - label: '#1'
+    load: 13
+    peer: bhs-g2-nc5
+  - label: '#1'
+    load: 17
+    peer: COMCAST
+dfw-da2-bb1-a72:
+  links:
+  - label: '#1'
+    load: 12
+    peer: TRANSTELCO
+  - label: '#2'
+    load: 44
+    peer: dfw-da2-bb1-a9
+  - label: '#1'
+    load: 7
+    peer: was-cva1-sbb1-8k
+  - label: '#2'
+    load: 41
+    peer: dfw-da2-bb1-a9
+  - label: '#1'
+    load: 4
+    peer: dfw-da2-bb2-a72
+  - label: '#1'
+    load: 11
+    peer: COX
+  - label: '#2'
+    load: 11
+    peer: COX
+  - label: '#2'
+    load: 42
+    peer: dfw-da2-bb1-a9
+  - label: '#2'
+    load: 37
+    peer: TELMEX
+  - label: '#2'
+    load: 48
+    peer: dfw-da2-bb1-a9
+  - label: '#2'
+    load: 44
+    peer: dfw-da2-bb1-a9
+  - label: '#1'
+    load: 1
+    peer: dfw-dal3-vcabb1-a72
+  - label: '#1'
+    load: 37
+    peer: TELMEX
+  - label: '#2'
+    load: 1
+    peer: dfw-dal3-vcabb1-a72
+  - label: '#2'
+    load: 43
+    peer: dfw-da2-bb1-a9
+  - label: '#2'
+    load: 46
+    peer: dfw-da2-bb1-a9
+  - label: '#2'
+    load: 41
+    peer: dfw-da2-bb1-a9
+  - label: '#2'
+    load: 43
+    peer: dfw-da2-bb1-a9
+  - label: '#2'
+    load: 42
+    peer: dfw-da2-bb1-a9
+  - label: '#1'
+    load: 34
+    peer: TELMEX
+  - label: '#1'
+    load: 4
+    peer: dfw-da2-bb2-a72
+  - label: '#2'
+    load: 38
+    peer: TELMEX
+  - label: '#2'
+    load: 40
+    peer: dfw-da2-bb1-a9
+  - label: '#4'
+    load: 12
+    peer: COX
+  - label: '#3'
+    load: 12
+    peer: COX
+  - label: '#1'
+    load: 5
+    peer: CLOUDFLARE
+  - label: '#2'
+    load: 42
+    peer: dfw-da2-bb1-a9
+dfw-da2-bb1-a9:
+  links:
+  - label: '#2'
+    load: 43
+    peer: dfw-da2-bb1-a72
+  - label: '#2'
+    load: 41
+    peer: dfw-da2-bb1-a72
+  - label: '#2'
+    load: 41
+    peer: dfw-da2-bb1-a72
+  - label: '#2'
+    load: 45
+    peer: dfw-da2-bb1-a72
+  - label: '#2'
+    load: 43
+    peer: dfw-da2-bb1-a72
+  - label: '#2'
+    load: 44
+    peer: dfw-da2-bb1-a72
+  - label: '#2'
+    load: 42
+    peer: dfw-da2-bb1-a72
+  - label: '#2'
+    load: 42
+    peer: dfw-da2-bb1-a72
+  - label: '#2'
+    load: 43
+    peer: dfw-da2-bb1-a72
+  - label: '#2'
+    load: 44
+    peer: dfw-da2-bb1-a72
+  - label: '#2'
+    load: 41
+    peer: dfw-da2-bb1-a72
+  - label: '#2'
+    load: 46
+    peer: dfw-da2-bb1-a72
+dfw-da2-bb2-a72:
+  links:
+  - label: '#2'
+    load: 44
+    peer: dfw-da2-bb2-a9
+  - label: '#2'
+    load: 45
+    peer: dfw-da2-bb2-a9
+  - label: '#1'
+    load: 1
+    peer: dfw-dal3-vcabb2-a72
+  - label: '#1'
+    load: 14
+    peer: dfw-da2-bb1-a72
+  - label: '#2'
+    load: 39
+    peer: dfw-da2-bb2-a9
+  - label: '#2'
+    load: 40
+    peer: dfw-da2-bb2-a9
+  - label: '#2'
+    load: 41
+    peer: dfw-da2-bb2-a9
+  - label: '#2'
+    load: 41
+    peer: dfw-da2-bb2-a9
+  - label: '#1'
+    load: 8
+    peer: chi-5-n7
+  - label: '#2'
+    load: 37
+    peer: dfw-da2-bb2-a9
+  - label: '#2'
+    load: 13
+    peer: EQUINIX
+  - label: '#2'
+    load: 39
+    peer: dfw-da2-bb2-a9
+  - label: '#1'
+    load: 14
+    peer: dfw-da2-bb1-a72
+  - label: '#2'
+    load: 43
+    peer: dfw-da2-bb2-a9
+  - label: '#2'
+    load: 40
+    peer: dfw-da2-bb2-a9
+  - label: '#2'
+    load: 38
+    peer: dfw-da2-bb2-a9
+  - label: '#2'
+    load: 42
+    peer: dfw-da2-bb2-a9
+  - label: '#2'
+    load: 1
+    peer: dfw-dal3-vcabb2-a72
+dfw-da2-bb2-a9:
+  links:
+  - label: '#2'
+    load: 41
+    peer: dfw-da2-bb2-a72
+  - label: '#2'
+    load: 38
+    peer: dfw-da2-bb2-a72
+  - label: '#2'
+    load: 39
+    peer: dfw-da2-bb2-a72
+  - label: '#2'
+    load: 45
+    peer: dfw-da2-bb2-a72
+  - label: '#2'
+    load: 39
+    peer: dfw-da2-bb2-a72
+  - label: '#2'
+    load: 41
+    peer: dfw-da2-bb2-a72
+  - label: '#2'
+    load: 38
+    peer: dfw-da2-bb2-a72
+  - label: '#2'
+    load: 38
+    peer: dfw-da2-bb2-a72
+  - label: '#2'
+    load: 40
+    peer: dfw-da2-bb2-a72
+  - label: '#2'
+    load: 44
+    peer: dfw-da2-bb2-a72
+  - label: '#2'
+    load: 39
+    peer: dfw-da2-bb2-a72
+  - label: '#2'
+    load: 49
+    peer: dfw-da2-bb2-a72
+dfw-dal3-vcabb1-a72:
+  links:
+  - label: '#2'
+    load: 1
+    peer: dfw-dal3-vcabb2-a72
+  - label: '#1'
+    load: 1
+    peer: dfw-dal3-vcabb2-a72
+  - label: '#1'
+    load: 1
+    peer: dfw-da2-bb1-a72
+  - label: '#2'
+    load: 1
+    peer: dfw-da2-bb1-a72
+  - label: '#4'
+    load: 1
+    peer: dfw-dal3-vcabb2-a72
+  - label: '#3'
+    load: 1
+    peer: dfw-dal3-vcabb2-a72
+dfw-dal3-vcabb2-a72:
+  links:
+  - label: '#2'
+    load: 1
+    peer: dfw-dal3-vcabb1-a72
+  - label: '#1'
+    load: 1
+    peer: dfw-da2-bb2-a72
+  - label: '#1'
+    load: 1
+    peer: dfw-dal3-vcabb1-a72
+  - label: '#4'
+    load: 1
+    peer: dfw-dal3-vcabb1-a72
+  - label: '#3'
+    load: 1
+    peer: dfw-dal3-vcabb1-a72
+  - label: '#2'
+    load: 1
+    peer: dfw-da2-bb2-a72
+las-snap7-vcabb1-a72:
+  links:
+  - label: '#2'
+    load: 1
+    peer: lax-la1-bb1-n7
+  - label: '#4'
+    load: 0
+    peer: las-snap7-vcabb2-a72
+  - label: '#1'
+    load: 1
+    peer: lax-la1-bb1-n7
+  - label: '#1'
+    load: 0
+    peer: las-snap7-vcabb2-a72
+  - label: '#2'
+    load: 0
+    peer: las-snap7-vcabb2-a72
+  - label: '#3'
+    load: 0
+    peer: las-snap7-vcabb2-a72
+las-snap7-vcabb2-a72:
+  links:
+  - label: '#1'
+    load: 0
+    peer: sjo-sv5-bb1-n7
+  - label: '#2'
+    load: 0
+    peer: sjo-sv5-bb1-n7
+  - label: '#4'
+    load: 0
+    peer: las-snap7-vcabb1-a72
+  - label: '#1'
+    load: 0
+    peer: las-snap7-vcabb1-a72
+  - label: '#2'
+    load: 0
+    peer: las-snap7-vcabb1-a72
+  - label: '#3'
+    load: 0
+    peer: las-snap7-vcabb1-a72
+lax-la1-bb1-a9:
+  links:
+  - label: '#4'
+    load: 32
+    peer: lax-la1-bb1-n7
+  - label: '#3'
+    load: 32
+    peer: lax-la1-bb1-n7
+  - label: '#2'
+    load: 32
+    peer: lax-la1-bb1-n7
+  - label: '#3'
+    load: 32
+    peer: lax-la1-bb1-n7
+  - label: '#1'
+    load: 32
+    peer: lax-la1-bb1-n7
+  - label: '#1'
+    load: 32
+    peer: lax-la1-bb1-n7
+  - label: '#4'
+    load: 33
+    peer: lax-la1-bb1-n7
+  - label: '#2'
+    load: 32
+    peer: lax-la1-bb1-n7
+lax-la1-bb1-n7:
+  links:
+  - label: '#4'
+    load: 32
+    peer: lax-la1-bb1-a9
+  - label: '#1'
+    load: 13
+    peer: syd-sy2-bb2-a72
+  - label: '#3'
+    load: 8
+    peer: sjo-sv5-bb1-n7
+  - label: '#1'
+    load: 37
+    peer: ANY2
+  - label: '#2'
+    load: 15
+    peer: SOFTBANK
+  - label: '#2'
+    load: 34
+    peer: TELMEX
+  - label: '#1'
+    load: 32
+    peer: TELMEX
+  - label: '#3'
+    load: 32
+    peer: lax-la1-bb1-a9
+  - label: '#1'
+    load: 15
+    peer: SOFTBANK
+  - label: '#2'
+    load: 32
+    peer: KDDI
+  - label: '#2'
+    load: 12
+    peer: syd-sy2-bb2-a72
+  - label: '#1'
+    load: 14
+    peer: TRANSTELCO
+  - label: '#2'
+    load: 31
+    peer: lax-la1-bb1-a9
+  - label: '#4'
+    load: 17
+    peer: SOFTBANK
+  - label: '#1'
+    load: 30
+    peer: KDDI
+  - label: '#2'
+    load: 31
+    peer: TELMEX
+  - label: '#3'
+    load: 33
+    peer: lax-la1-bb1-a9
+  - label: '#1'
+    load: 32
+    peer: TELMEX
+  - label: '#1'
+    load: 32
+    peer: lax-la1-bb1-a9
+  - label: '#1'
+    load: 10
+    peer: was-cva1-sbb1-8k
+  - label: '#1'
+    load: 6
+    peer: CDN77
+  - label: '#3'
+    load: 16
+    peer: SOFTBANK
+  - label: '#2'
+    load: 9
+    peer: sjo-sv5-bb1-n7
+  - label: '#2'
+    load: 1
+    peer: las-snap7-vcabb1-a72
+  - label: '#1'
+    load: 7
+    peer: was-nva1-sbb1-8k
+  - label: '#1'
+    load: 7
+    peer: was-nva1-sbb1-8k
+  - label: '#1'
+    load: 32
+    peer: lax-la1-bb1-a9
+  - label: '#2'
+    load: 8
+    peer: sjo-sv5-bb1-n7
+  - label: '#1'
+    load: 1
+    peer: las-snap7-vcabb1-a72
+  - label: '#4'
+    load: 33
+    peer: lax-la1-bb1-a9
+  - label: '#3'
+    load: 54
+    peer: TELIN
+  - label: '#1'
+    load: 10
+    peer: was-cva1-sbb1-8k
+  - label: '#1'
+    load: 38
+    peer: ANY2
+  - label: '#1'
+    load: 20
+    peer: AIRTEL
+  - label: '#4'
+    load: 53
+    peer: TELIN
+  - label: '#2'
+    load: 54
+    peer: TELIN
+  - label: '#4'
+    load: 9
+    peer: sjo-sv5-bb1-n7
+  - label: '#3'
+    load: 34
+    peer: KDDI
+  - label: '#1'
+    load: 7
+    peer: was-nva1-sbb1-8k
+  - label: '#4'
+    load: 35
+    peer: KDDI
+  - label: '#2'
+    load: 32
+    peer: lax-la1-bb1-a9
+  - label: '#1'
+    load: 10
+    peer: was-cva1-sbb1-8k
+  - label: '#1'
+    load: 54
+    peer: TELIN
+lon-drch-sbb1-nc5:
+  links:
+  - label: '#2'
+    load: 43
+    peer: nwk-5-n7
+  - label: '#5'
+    load: 45
+    peer: nwk-5-n7
+  - label: '#7'
+    load: 45
+    peer: nwk-5-n7
+  - label: '#3'
+    load: 45
+    peer: nwk-5-n7
+  - label: '#6'
+    load: 44
+    peer: nwk-5-n7
+  - label: '#4'
+    load: 43
+    peer: nwk-5-n7
+  - label: '#1'
+    load: 0
+    peer: nwk-5-n7
+lon-thw-sbb1-nc5:
+  links:
+  - label: '#5'
+    load: 34
+    peer: nwk-1-n7
+  - label: '#6'
+    load: 33
+    peer: nwk-1-n7
+  - label: '#1'
+    load: 34
+    peer: nwk-1-n7
+  - label: '#4'
+    load: 34
+    peer: nwk-1-n7
+  - label: '#3'
+    load: 0
+    peer: nwk-1-n7
+  - label: '#7'
+    load: 33
+    peer: nwk-1-n7
+  - label: '#2'
+    load: 32
+    peer: nwk-1-n7
+  - label: '#6'
+    load: 33
+    peer: nwk-1-n7
+mia-5-n7:
+  links:
+  - label: '#3'
+    load: 28
+    peer: mia-mi1-bb1-a9
+  - label: '#1'
+    load: 50
+    peer: OI
+  - label: '#1'
+    load: 27
+    peer: GLOBENET
+  - label: '#1'
+    load: 18
+    peer: INTERNEXA
+  - label: '#1'
+    load: 4
+    peer: was-cva1-sbb1-8k
+  - label: '#1'
+    load: 45
+    peer: EMBRATEL
+  - label: '#2'
+    load: 4
+    peer: was-cva1-sbb1-8k
+  - label: '#2'
+    load: 44
+    peer: EMBRATEL
+  - label: '#1'
+    load: 18
+    peer: CLOUDFLARE
+  - label: '#4'
+    load: 28
+    peer: mia-mi1-bb1-a9
+  - label: '#4'
+    load: 45
+    peer: EMBRATEL
+  - label: '#2'
+    load: 1
+    peer: TELXIUS
+  - label: '#1'
+    load: 17
+    peer: FL-IX
+  - label: '#3'
+    load: 46
+    peer: EMBRATEL
+  - label: '#4'
+    load: 44
+    peer: EMBRATEL
+  - label: '#2'
+    load: 4
+    peer: was-cva1-sbb1-8k
+  - label: '#1'
+    load: 4
+    peer: was-nva1-sbb1-8k
+  - label: '#3'
+    load: 4
+    peer: was-nva1-sbb1-8k
+  - label: '#1'
+    load: 46
+    peer: EMBRATEL
+  - label: '#4'
+    load: 28
+    peer: mia-mi1-bb1-a9
+  - label: '#1'
+    load: 28
+    peer: mia-mi1-bb1-a9
+  - label: '#1'
+    load: 49
+    peer: OI
+  - label: '#1'
+    load: 1
+    peer: TELXIUS
+  - label: '#2'
+    load: 28
+    peer: mia-mi1-bb1-a9
+  - label: '#1'
+    load: 36
+    peer: NOTA
+  - label: '#3'
+    load: 42
+    peer: EMBRATEL
+  - label: '#2'
+    load: 28
+    peer: mia-mi1-bb1-a9
+  - label: '#2'
+    load: 4
+    peer: was-nva1-sbb1-8k
+  - label: '#2'
+    load: 49
+    peer: OI
+  - label: '#2'
+    load: 48
+    peer: OI
+  - label: '#1'
+    load: 28
+    peer: mia-mi1-bb1-a9
+  - label: '#2'
+    load: 43
+    peer: EMBRATEL
+  - label: '#1'
+    load: 1
+    peer: CDN77
+  - label: '#1'
+    load: 29
+    peer: CWC
+  - label: '#3'
+    load: 28
+    peer: mia-mi1-bb1-a9
+mia-mi1-bb1-a9:
+  links:
+  - label: '#3'
+    load: 28
+    peer: mia-5-n7
+  - label: '#4'
+    load: 28
+    peer: mia-5-n7
+  - label: '#4'
+    load: 28
+    peer: mia-5-n7
+  - label: '#1'
+    load: 28
+    peer: mia-5-n7
+  - label: '#2'
+    load: 28
+    peer: mia-5-n7
+  - label: '#2'
+    load: 28
+    peer: mia-5-n7
+  - label: '#1'
+    load: 28
+    peer: mia-5-n7
+  - label: '#3'
+    load: 28
+    peer: mia-5-n7
+nwk-1-a9:
+  links:
+  - label: '#2'
+    load: 58
+    peer: nwk-1-n7
+  - label: '#1'
+    load: 58
+    peer: nwk-1-n7
+  - label: '#8'
+    load: 58
+    peer: nwk-1-n7
+  - label: '#9'
+    load: 58
+    peer: nwk-1-n7
+  - label: '#16'
+    load: 57
+    peer: nwk-1-n7
+  - label: '#7'
+    load: 58
+    peer: nwk-1-n7
+  - label: '#4'
+    load: 58
+    peer: nwk-1-n7
+  - label: '#12'
+    load: 57
+    peer: nwk-1-n7
+  - label: '#3'
+    load: 58
+    peer: nwk-1-n7
+  - label: '#11'
+    load: 58
+    peer: nwk-1-n7
+  - label: '#15'
+    load: 59
+    peer: nwk-1-n7
+  - label: '#13'
+    load: 58
+    peer: nwk-1-n7
+  - label: '#5'
+    load: 57
+    peer: nwk-1-n7
+  - label: '#14'
+    load: 59
+    peer: nwk-1-n7
+  - label: '#6'
+    load: 58
+    peer: nwk-1-n7
+  - label: '#10'
+    load: 57
+    peer: nwk-1-n7
+nwk-1-n7:
+  links:
+  - label: '#1'
+    load: 19
+    peer: TELIA
+  - label: '#2'
+    load: 53
+    peer: nwk-1-a9
+  - label: '#1'
+    load: 52
+    peer: nwk-1-a9
+  - label: '#8'
+    load: 69
+    peer: nwk-1-a9
+  - label: '#5'
+    load: 38
+    peer: lon-thw-sbb1-nc5
+  - label: '#8'
+    load: 35
+    peer: lon-thw-sbb1-nc5
+  - label: '#9'
+    load: 58
+    peer: nwk-1-a9
+  - label: '#1'
+    load: 23
+    peer: bhs-g1-nc5
+  - label: '#1'
+    load: 47
+    peer: DECIX NYK
+  - label: '#1'
+    load: 44
+    peer: was-cva1-sbb1-8k
+  - label: '#1'
+    load: 24
+    peer: COMCAST
+  - label: '#2'
+    load: 1
+    peer: rf-4-a1
+  - label: '#6'
+    load: 21
+    peer: bhs-g1-nc5
+  - label: '#16'
+    load: 56
+    peer: nwk-1-a9
+  - label: '#1'
+    load: 1
+    peer: nyc-ny1-rr2-ucs
+  - label: '#2'
+    load: 24
+    peer: bhs-g1-nc5
+  - label: '#7'
+    load: 53
+    peer: nwk-1-a9
+  - label: '#4'
+    load: 64
+    peer: nwk-1-a9
+  - label: '#5'
+    load: 26
+    peer: bhs-g1-nc5
+  - label: '#3'
+    load: 45
+    peer: was-cva1-sbb1-8k
+  - label: '#4'
+    load: 23
+    peer: bhs-g1-nc5
+  - label: '#1'
+    load: 22
+    peer: bhs-g1-nc5
+  - label: '#1'
+    load: 36
+    peer: lon-thw-sbb1-nc5
+  - label: '#3'
+    load: 23
+    peer: bhs-g1-nc5
+  - label: '#1'
+    load: 18
+    peer: SEABONE
+  - label: '#2'
+    load: 48
+    peer: was-cva1-sbb1-8k
+  - label: '#4'
+    load: 36
+    peer: lon-thw-sbb1-nc5
+  - label: '#3'
+    load: 0
+    peer: lon-thw-sbb1-nc5
+  - label: '#1'
+    load: 14
+    peer: COGENT
+  - label: '#12'
+    load: 57
+    peer: nwk-1-a9
+  - label: '#3'
+    load: 66
+    peer: nwk-1-a9
+  - label: '#11'
+    load: 57
+    peer: nwk-1-a9
+  - label: '#15'
+    load: 55
+    peer: nwk-1-a9
+  - label: '#7'
+    load: 36
+    peer: lon-thw-sbb1-nc5
+  - label: '#2'
+    load: 35
+    peer: lon-thw-sbb1-nc5
+  - label: '#1'
+    load: 0
+    peer: rf-4-a1
+  - label: '#2'
+    load: 13
+    peer: nwk-5-n7
+  - label: '#3'
+    load: 21
+    peer: bhs-g1-nc5
+  - label: '#4'
+    load: 12
+    peer: nwk-5-n7
+  - label: '#1'
+    load: 13
+    peer: nwk-5-n7
+  - label: '#13'
+    load: 55
+    peer: nwk-1-a9
+  - label: '#1'
+    load: 43
+    peer: was-cva1-sbb1-8k
+  - label: '#4'
+    load: 26
+    peer: bhs-g1-nc5
+  - label: '#2'
+    load: 1
+    peer: nyc-cnj1-vcabb1-a72
+  - label: '#5'
+    load: 19
+    peer: bhs-g1-nc5
+  - label: '#5'
+    load: 69
+    peer: nwk-1-a9
+  - label: '#2'
+    load: 20
+    peer: bhs-g1-nc5
+  - label: '#1'
+    load: 12
+    peer: ALTICE USA
+  - label: '#1'
+    load: 1
+    peer: nyc-cnj1-vcabb1-a72
+  - label: '#2'
+    load: 1
+    peer: nyc-ny1-rr2-ucs
+  - label: '#14'
+    load: 54
+    peer: nwk-1-a9
+  - label: '#2'
+    load: 45
+    peer: was-cva1-sbb1-8k
+  - label: '#1'
+    load: 19
+    peer: LEVEL3
+  - label: '#6'
+    load: 53
+    peer: nwk-1-a9
+  - label: '#10'
+    load: 56
+    peer: nwk-1-a9
+  - label: '#6'
+    load: 36
+    peer: lon-thw-sbb1-nc5
+  - label: '#3'
+    load: 12
+    peer: nwk-5-n7
+nwk-5-a9:
+  links:
+  - label: '#15'
+    load: 61
+    peer: nwk-5-n7
+  - label: '#10'
+    load: 61
+    peer: nwk-5-n7
+  - label: '#3'
+    load: 61
+    peer: nwk-5-n7
+  - label: '#12'
+    load: 61
+    peer: nwk-5-n7
+  - label: '#7'
+    load: 62
+    peer: nwk-5-n7
+  - label: '#14'
+    load: 59
+    peer: nwk-5-n7
+  - label: '#2'
+    load: 61
+    peer: nwk-5-n7
+  - label: '#13'
+    load: 60
+    peer: nwk-5-n7
+  - label: '#4'
+    load: 62
+    peer: nwk-5-n7
+  - label: '#16'
+    load: 61
+    peer: nwk-5-n7
+  - label: '#6'
+    load: 63
+    peer: nwk-5-n7
+  - label: '#11'
+    load: 59
+    peer: nwk-5-n7
+  - label: '#1'
+    load: 60
+    peer: nwk-5-n7
+  - label: '#9'
+    load: 60
+    peer: nwk-5-n7
+  - label: '#5'
+    load: 61
+    peer: nwk-5-n7
+  - label: '#8'
+    load: 62
+    peer: nwk-5-n7
+nwk-5-n7:
+  links:
+  - label: '#2'
+    load: 41
+    peer: lon-drch-sbb1-nc5
+  - label: '#1'
+    load: 25
+    peer: bhs-g2-nc5
+  - label: '#1'
+    load: 1
+    peer: nyc-ny1-rr2-ucs
+  - label: '#3'
+    load: 31
+    peer: bhs-g2-nc5
+  - label: '#1'
+    load: 29
+    peer: bhs-g2-nc5
+  - label: '#15'
+    load: 57
+    peer: nwk-5-a9
+  - label: '#4'
+    load: 28
+    peer: bhs-g2-nc5
+  - label: '#6'
+    load: 25
+    peer: bhs-g2-nc5
+  - label: '#2'
+    load: 1
+    peer: rf-4-a1
+  - label: '#10'
+    load: 61
+    peer: nwk-5-a9
+  - label: '#3'
+    load: 58
+    peer: nwk-5-a9
+  - label: '#12'
+    load: 57
+    peer: nwk-5-a9
+  - label: '#1'
+    load: 1
+    peer: nyc-cnj1-vcabb2-a72
+  - label: '#7'
+    load: 64
+    peer: nwk-5-a9
+  - label: '#2'
+    load: 28
+    peer: bhs-g2-nc5
+  - label: '#14'
+    load: 67
+    peer: nwk-5-a9
+  - label: '#1'
+    load: 28
+    peer: bhs-g2-nc5
+  - label: '#3'
+    load: 31
+    peer: was-nva1-sbb1-8k
+  - label: '#5'
+    load: 30
+    peer: bhs-g2-nc5
+  - label: '#5'
+    load: 40
+    peer: lon-drch-sbb1-nc5
+  - label: '#1'
+    load: 12
+    peer: TELIA
+  - label: '#7'
+    load: 40
+    peer: lon-drch-sbb1-nc5
+  - label: '#2'
+    load: 58
+    peer: nwk-5-a9
+  - label: '#13'
+    load: 61
+    peer: nwk-5-a9
+  - label: '#2'
+    load: 31
+    peer: was-nva1-sbb1-8k
+  - label: '#1'
+    load: 31
+    peer: was-nva1-sbb1-8k
+  - label: '#3'
+    load: 29
+    peer: bhs-g2-nc5
+  - label: '#1'
+    load: 18
+    peer: COGENT
+  - label: '#2'
+    load: 1
+    peer: nyc-cnj1-vcabb2-a72
+  - label: '#4'
+    load: 61
+    peer: nwk-5-a9
+  - label: '#2'
+    load: 31
+    peer: was-nva1-sbb1-8k
+  - label: '#16'
+    load: 57
+    peer: nwk-5-a9
+  - label: '#6'
+    load: 69
+    peer: nwk-5-a9
+  - label: '#1'
+    load: 22
+    peer: LEVEL3
+  - label: '#2'
+    load: 6
+    peer: nwk-1-n7
+  - label: '#1'
+    load: 53
+    peer: NYIIX
+  - label: '#4'
+    load: 6
+    peer: nwk-1-n7
+  - label: '#1'
+    load: 6
+    peer: nwk-1-n7
+  - label: '#11'
+    load: 56
+    peer: nwk-5-a9
+  - label: '#1'
+    load: 20
+    peer: DECIX NYK
+  - label: '#1'
+    load: 1
+    peer: rf-4-a1
+  - label: '#2'
+    load: 30
+    peer: was-nva1-sbb1-8k
+  - label: '#1'
+    load: 61
+    peer: nwk-5-a9
+  - label: '#1'
+    load: 20
+    peer: COMCAST
+  - label: '#9'
+    load: 59
+    peer: nwk-5-a9
+  - label: '#2'
+    load: 1
+    peer: nyc-ny1-rr2-ucs
+  - label: '#3'
+    load: 39
+    peer: lon-drch-sbb1-nc5
+  - label: '#6'
+    load: 41
+    peer: lon-drch-sbb1-nc5
+  - label: '#1'
+    load: 30
+    peer: was-nva1-sbb1-8k
+  - label: '#4'
+    load: 27
+    peer: bhs-g2-nc5
+  - label: '#5'
+    load: 64
+    peer: nwk-5-a9
+  - label: '#4'
+    load: 40
+    peer: lon-drch-sbb1-nc5
+  - label: '#1'
+    load: 0
+    peer: lon-drch-sbb1-nc5
+  - label: '#2'
+    load: 28
+    peer: bhs-g2-nc5
+  - label: '#1'
+    load: 31
+    peer: EQUINIX
+  - label: '#8'
+    load: 65
+    peer: nwk-5-a9
+  - label: '#1'
+    load: 32
+    peer: CLOUDFLARE
+  - label: '#3'
+    load: 6
+    peer: nwk-1-n7
+nyc-cnj1-vcabb1-a72:
+  links:
+  - label: '#1'
+    load: 0
+    peer: nyc-cnj1-vcabb2-a72
+  - label: '#2'
+    load: 0
+    peer: nyc-cnj1-vcabb2-a72
+  - label: '#2'
+    load: 1
+    peer: nwk-1-n7
+  - label: '#3'
+    load: 0
+    peer: nyc-cnj1-vcabb2-a72
+  - label: '#1'
+    load: 1
+    peer: nwk-1-n7
+  - label: '#4'
+    load: 0
+    peer: nyc-cnj1-vcabb2-a72
+nyc-cnj1-vcabb2-a72:
+  links:
+  - label: '#1'
+    load: 1
+    peer: nwk-5-n7
+  - label: '#2'
+    load: 1
+    peer: nwk-5-n7
+  - label: '#1'
+    load: 0
+    peer: nyc-cnj1-vcabb1-a72
+  - label: '#2'
+    load: 0
+    peer: nyc-cnj1-vcabb1-a72
+  - label: '#3'
+    load: 0
+    peer: nyc-cnj1-vcabb1-a72
+  - label: '#4'
+    load: 0
+    peer: nyc-cnj1-vcabb1-a72
+nyc-ny1-rr2-ucs:
+  links:
+  - label: '#1'
+    load: 1
+    peer: nwk-5-n7
+  - label: '#1'
+    load: 1
+    peer: nwk-1-n7
+  - label: '#2'
+    load: 1
+    peer: nwk-5-n7
+  - label: '#2'
+    load: 1
+    peer: nwk-1-n7
+pao-sv8-bb1-a9:
+  links:
+  - label: '#3'
+    load: 33
+    peer: pao-sv8-bb1-n7
+  - label: '#4'
+    load: 32
+    peer: pao-sv8-bb1-n7
+  - label: '#3'
+    load: 32
+    peer: pao-sv8-bb1-n7
+  - label: '#2'
+    load: 32
+    peer: pao-sv8-bb1-n7
+  - label: '#4'
+    load: 32
+    peer: pao-sv8-bb1-n7
+  - label: '#2'
+    load: 32
+    peer: pao-sv8-bb1-n7
+  - label: '#1'
+    load: 32
+    peer: pao-sv8-bb1-n7
+  - label: '#1'
+    load: 32
+    peer: pao-sv8-bb1-n7
+pao-sv8-bb1-n7:
+  links:
+  - label: '#1'
+    load: 1
+    peer: sjc-csc5-vcabb2-a72
+  - label: '#2'
+    load: 23
+    peer: KT
+  - label: '#1'
+    load: 11
+    peer: chi-1-n7
+  - label: '#1'
+    load: 2
+    peer: SEABONE
+  - label: '#3'
+    load: 29
+    peer: TWGATE
+  - label: '#1'
+    load: 9
+    peer: chi-5-n7
+  - label: '#3'
+    load: 24
+    peer: TELSTRA
+  - label: '#1'
+    load: 13
+    peer: COMCAST
+  - label: '#2'
+    load: 25
+    peer: TELSTRA
+  - label: '#2'
+    load: 1
+    peer: sjc-csc5-vcabb2-a72
+  - label: '#1'
+    load: 24
+    peer: TELSTRA
+  - label: '#1'
+    load: 21
+    peer: TELIA
+  - label: '#1'
+    load: 30
+    peer: TWGATE
+  - label: '#1'
+    load: 17
+    peer: sjo-sv5-bb1-n7
+  - label: '#4'
+    load: 31
+    peer: TWGATE
+  - label: '#1'
+    load: 24
+    peer: KT
+  - label: '#2'
+    load: 30
+    peer: TWGATE
+  - label: '#3'
+    load: 33
+    peer: pao-sv8-bb1-a9
+  - label: '#1'
+    load: 9
+    peer: pdx-prt1-sbb1-nc5
+  - label: '#4'
+    load: 32
+    peer: pao-sv8-bb1-a9
+  - label: '#4'
+    load: 25
+    peer: TELSTRA
+  - label: '#2'
+    load: 10
+    peer: chi-1-n7
+  - label: '#3'
+    load: 11
+    peer: chi-1-n7
+  - label: '#3'
+    load: 32
+    peer: pao-sv8-bb1-a9
+  - label: '#1'
+    load: 8
+    peer: chi-5-n7
+  - label: '#1'
+    load: 17
+    peer: sjo-sv5-bb1-n7
+  - label: '#1'
+    load: 9
+    peer: chi-5-n7
+  - label: '#2'
+    load: 33
+    peer: pao-sv8-bb1-a9
+  - label: '#4'
+    load: 33
+    peer: pao-sv8-bb1-a9
+  - label: '#1'
+    load: 1
+    peer: RELIANCE
+  - label: '#2'
+    load: 32
+    peer: pao-sv8-bb1-a9
+  - label: '#1'
+    load: 17
+    peer: sjo-sv5-bb1-n7
+  - label: '#1'
+    load: 21
+    peer: HINET
+  - label: '#1'
+    load: 17
+    peer: sjo-sv5-bb1-n7
+  - label: '#1'
+    load: 32
+    peer: pao-sv8-bb1-a9
+  - label: '#1'
+    load: 32
+    peer: pao-sv8-bb1-a9
+  - label: '#1'
+    load: 35
+    peer: EQUINIX
+par-gsw-sbb1-nc5:
+  links:
+  - label: '#1'
+    load: 50
+    peer: was-cva1-sbb1-8k
+  - label: '#3'
+    load: 1
+    peer: par-th2-sbb1-nc5
+  - label: '#4'
+    load: 1
+    peer: par-th2-sbb1-nc5
+  - label: '#2'
+    load: 1
+    peer: par-th2-sbb1-nc5
+  - label: '#2'
+    load: 1
+    peer: par-th2-sbb1-nc5
+  - label: '#3'
+    load: 1
+    peer: par-th2-sbb1-nc5
+  - label: '#1'
+    load: 49
+    peer: was-cva1-sbb1-8k
+  - label: '#1'
+    load: 1
+    peer: par-th2-sbb1-nc5
+  - label: '#1'
+    load: 1
+    peer: par-th2-sbb1-nc5
+  - label: '#4'
+    load: 1
+    peer: par-th2-sbb1-nc5
+par-th2-sbb1-nc5:
+  links:
+  - label: '#1'
+    load: 19
+    peer: was-nva1-sbb1-8k
+  - label: '#3'
+    load: 8
+    peer: par-gsw-sbb1-nc5
+  - label: '#4'
+    load: 8
+    peer: par-gsw-sbb1-nc5
+  - label: '#2'
+    load: 19
+    peer: was-nva1-sbb1-8k
+  - label: '#2'
+    load: 8
+    peer: par-gsw-sbb1-nc5
+  - label: '#2'
+    load: 8
+    peer: par-gsw-sbb1-nc5
+  - label: '#3'
+    load: 8
+    peer: par-gsw-sbb1-nc5
+  - label: '#3'
+    load: 20
+    peer: was-nva1-sbb1-8k
+  - label: '#1'
+    load: 8
+    peer: par-gsw-sbb1-nc5
+  - label: '#1'
+    load: 8
+    peer: par-gsw-sbb1-nc5
+  - label: '#4'
+    load: 8
+    peer: par-gsw-sbb1-nc5
+pdx-pdx02-pb1-nc5:
+  links:
+  - label: '#2'
+    load: 6
+    peer: pdx-pdx02-sbb1-nc5
+  - label: '#1'
+    load: 7
+    peer: pdx-pdx02-sbb1-nc5
+  - label: '#3'
+    load: 1
+    peer: pdx-prt1-sbb1-nc5
+  - label: '#3'
+    load: 1
+    peer: pdx-prt1-sbb1-nc5
+  - label: '#1'
+    load: 6
+    peer: NWAX
+  - label: '#2'
+    load: 12
+    peer: LEVEL3
+pdx-pdx02-sbb1-nc5:
+  links:
+  - label: '#1'
+    load: 22
+    peer: sea-wbx-pb1-8k
+  - label: '#2'
+    load: 9
+    peer: pdx-pdx02-pb1-nc5
+  - label: '#1'
+    load: 1
+    peer: pdx-prt1-rr3-a9
+  - label: '#3'
+    load: 2
+    peer: pdx-prt1-sbb1-nc5
+  - label: '#1'
+    load: 9
+    peer: pdx-pdx02-pb1-nc5
+  - label: '#1'
+    load: 7
+    peer: sjo-sv5-bb1-n7
+  - label: '#4'
+    load: 7
+    peer: sjo-sv5-bb1-n7
+  - label: '#1'
+    load: 46
+    peer: chi-1-n7
+  - label: '#2'
+    load: 2
+    peer: pdx-prt1-sbb1-nc5
+  - label: '#2'
+    load: 31
+    peer: pdx1-hil1-g1-nc5
+  - label: '#1'
+    load: 32
+    peer: pdx1-hil1-g1-nc5
+  - label: '#2'
+    load: 7
+    peer: sjo-sv5-bb1-n7
+  - label: '#1'
+    load: 2
+    peer: pdx-prt1-sbb1-nc5
+  - label: '#3'
+    load: 7
+    peer: sjo-sv5-bb1-n7
+  - label: '#4'
+    load: 3
+    peer: pdx-prt1-sbb1-nc5
+pdx-prt1-rr3-a9:
+  links:
+  - label: '#1'
+    load: 1
+    peer: pdx-pdx02-sbb1-nc5
+  - label: '#1'
+    load: 1
+    peer: pdx-prt1-sbb1-nc5
+pdx-prt1-sbb1-nc5:
+  links:
+  - label: '#1'
+    load: 33
+    peer: pdx1-hil1-g2-nc5
+  - label: '#3'
+    load: 5
+    peer: pdx-pdx02-sbb1-nc5
+  - label: '#1'
+    load: 1
+    peer: pdx-pdx02-pb1-nc5
+  - label: '#1'
+    load: 21
+    peer: sea-wbx-pb1-8k
+  - label: '#1'
+    load: 0
+    peer: chi-5-n7
+  - label: '#2'
+    load: 5
+    peer: pdx-pdx02-sbb1-nc5
+  - label: '#1'
+    load: 19
+    peer: chi-5-n7
+  - label: '#2'
+    load: 34
+    peer: pdx1-hil1-g2-nc5
+  - label: '#1'
+    load: 1
+    peer: pdx-pdx02-pb1-nc5
+  - label: '#1'
+    load: 0
+    peer: chi-5-n7
+  - label: '#1'
+    load: 19
+    peer: chi-5-n7
+  - label: '#1'
+    load: 15
+    peer: pao-sv8-bb1-n7
+  - label: '#1'
+    load: 5
+    peer: pdx-pdx02-sbb1-nc5
+  - label: '#1'
+    load: 1
+    peer: pdx-prt1-rr3-a9
+  - label: '#4'
+    load: 5
+    peer: pdx-pdx02-sbb1-nc5
+pdx1-hil1-g1-nc5:
+  links:
+  - label: '#1'
+    load: 1
+    peer: pdx1-hil1-g2-nc5
+  - label: '#2'
+    load: 34
+    peer: pdx-pdx02-sbb1-nc5
+  - label: '#1'
+    load: 34
+    peer: pdx-pdx02-sbb1-nc5
+  - label: '#2'
+    load: 1
+    peer: pdx1-hil1-g2-nc5
+pdx1-hil1-g2-nc5:
+  links:
+  - label: '#1'
+    load: 23
+    peer: pdx-prt1-sbb1-nc5
+  - label: '#2'
+    load: 23
+    peer: pdx-prt1-sbb1-nc5
+  - label: '#1'
+    load: 1
+    peer: pdx1-hil1-g1-nc5
+  - label: '#2'
+    load: 1
+    peer: pdx1-hil1-g1-nc5
+rf-4-a1:
+  links:
+  - label: '#2'
+    load: 1
+    peer: nwk-5-n7
+  - label: '#2'
+    load: 1
+    peer: nwk-1-n7
+  - label: '#1'
+    load: 0
+    peer: nwk-1-n7
+  - label: '#1'
+    load: 1
+    peer: nwk-5-n7
+sea-wbx-pb1-8k:
+  links:
+  - label: '#1'
+    load: 7
+    peer: COGENT
+  - label: '#1'
+    load: 20
+    peer: pdx-pdx02-sbb1-nc5
+  - label: '#1'
+    load: 2
+    peer: GOOGLE
+  - label: '#1'
+    load: 18
+    peer: pdx-prt1-sbb1-nc5
+  - label: '#1'
+    load: 5
+    peer: COMCAST
+  - label: '#1'
+    load: 31
+    peer: SIX
+sin-gss1-sbb1-nc5:
+  links:
+  - label: '#2'
+    load: 28
+    peer: sjo-sv5-bb1-n7
+  - label: '#1'
+    load: 33
+    peer: sjo-sv5-bb1-n7
+sjc-csc5-vcabb1-a72:
+  links:
+  - label: '#1'
+    load: 0
+    peer: sjo-sv5-bb1-n7
+  - label: '#2'
+    load: 1
+    peer: sjo-sv5-bb1-n7
+  - label: '#4'
+    load: 1
+    peer: sjc-csc5-vcabb2-a72
+  - label: '#1'
+    load: 1
+    peer: sjc-csc5-vcabb2-a72
+  - label: '#3'
+    load: 1
+    peer: sjc-csc5-vcabb2-a72
+  - label: '#2'
+    load: 1
+    peer: sjc-csc5-vcabb2-a72
+sjc-csc5-vcabb2-a72:
+  links:
+  - label: '#1'
+    load: 1
+    peer: pao-sv8-bb1-n7
+  - label: '#2'
+    load: 1
+    peer: pao-sv8-bb1-n7
+  - label: '#4'
+    load: 1
+    peer: sjc-csc5-vcabb1-a72
+  - label: '#1'
+    load: 1
+    peer: sjc-csc5-vcabb1-a72
+  - label: '#3'
+    load: 1
+    peer: sjc-csc5-vcabb1-a72
+  - label: '#2'
+    load: 1
+    peer: sjc-csc5-vcabb1-a72
+sjo-sv5-bb1-a9:
+  links:
+  - label: '#4'
+    load: 30
+    peer: sjo-sv5-bb1-n7
+  - label: '#3'
+    load: 30
+    peer: sjo-sv5-bb1-n7
+  - label: '#2'
+    load: 31
+    peer: sjo-sv5-bb1-n7
+  - label: '#1'
+    load: 30
+    peer: sjo-sv5-bb1-n7
+sjo-sv5-bb1-n7:
+  links:
+  - label: '#4'
+    load: 29
+    peer: sjo-sv5-bb1-a9
+  - label: '#3'
+    load: 11
+    peer: lax-la1-bb1-n7
+  - label: '#2'
+    load: 21
+    peer: SOFTBANK
+  - label: '#4'
+    load: 32
+    peer: TEL MALAYSIA
+  - label: '#1'
+    load: 0
+    peer: CDN77
+  - label: '#1'
+    load: 4
+    peer: pdx-pdx02-sbb1-nc5
+  - label: '#3'
+    load: 31
+    peer: sjo-sv5-bb1-a9
+  - label: '#4'
+    load: 4
+    peer: pdx-pdx02-sbb1-nc5
+  - label: '#4'
+    load: 23
+    peer: KDDI
+  - label: '#1'
+    load: 13
+    peer: TWC
+  - label: '#1'
+    load: 34
+    peer: EQUINIX
+  - label: '#1'
+    load: 0
+    peer: las-snap7-vcabb2-a72
+  - label: '#2'
+    load: 30
+    peer: sjo-sv5-bb1-a9
+  - label: '#4'
+    load: 22
+    peer: COX
+  - label: '#1'
+    load: 12
+    peer: LEVEL3
+  - label: '#3'
+    load: 28
+    peer: KDDI
+  - label: '#1'
+    load: 0
+    peer: sjc-csc5-vcabb1-a72
+  - label: '#1'
+    load: 9
+    peer: pao-sv8-bb1-n7
+  - label: '#3'
+    load: 21
+    peer: COX
+  - label: '#1'
+    load: 30
+    peer: sjo-sv5-bb1-a9
+  - label: '#2'
+    load: 11
+    peer: lax-la1-bb1-n7
+  - label: '#2'
+    load: 1
+    peer: sjc-csc5-vcabb1-a72
+  - label: '#1'
+    load: 6
+    peer: COGENT
+  - label: '#2'
+    load: 24
+    peer: KDDI
+  - label: '#2'
+    load: 22
+    peer: COX
+  - label: '#1'
+    load: 22
+    peer: COX
+  - label: '#2'
+    load: 14
+    peer: CHARTER
+  - label: '#2'
+    load: 0
+    peer: las-snap7-vcabb2-a72
+  - label: '#1'
+    load: 32
+    peer: TEL MALAYSIA
+  - label: '#2'
+    load: 11
+    peer: lax-la1-bb1-n7
+  - label: '#1'
+    load: 24
+    peer: KDDI
+  - label: '#3'
+    load: 21
+    peer: SOFTBANK
+  - label: '#3'
+    load: 31
+    peer: TEL MALAYSIA
+  - label: '#2'
+    load: 34
+    peer: TEL MALAYSIA
+  - label: '#2'
+    load: 5
+    peer: pdx-pdx02-sbb1-nc5
+  - label: '#1'
+    load: 9
+    peer: pao-sv8-bb1-n7
+  - label: '#1'
+    load: 23
+    peer: SOFTBANK
+  - label: '#4'
+    load: 11
+    peer: lax-la1-bb1-n7
+  - label: '#2'
+    load: 9
+    peer: sin-gss1-sbb1-nc5
+  - label: '#4'
+    load: 21
+    peer: SOFTBANK
+  - label: '#3'
+    load: 5
+    peer: pdx-pdx02-sbb1-nc5
+  - label: '#1'
+    load: 10
+    peer: pao-sv8-bb1-n7
+  - label: '#1'
+    load: 9
+    peer: pao-sv8-bb1-n7
+  - label: '#1'
+    load: 10
+    peer: sin-gss1-sbb1-nc5
+  - label: '#1'
+    load: 15
+    peer: CHARTER
+syd-sy2-bb2-a72:
+  links:
+  - label: '#1'
+    load: 17
+    peer: lax-la1-bb1-n7
+  - label: '#2'
+    load: 12
+    peer: lax-la1-bb1-n7
+was-cdc4-vcabb1-a72:
+  links:
+  - label: '#1'
+    load: 1
+    peer: was-dc10-pb1-ptx
+  - label: '#2'
+    load: 1
+    peer: was-dc10-pb1-ptx
+was-cdc4-vcabb2-a72:
+  links:
+  - label: '#1'
+    load: 1
+    peer: was-dc10-pb2-nc5
+was-cva1-sbb1-8k:
+  links:
+  - label: '#1'
+    load: 3
+    peer: was-nva1-sbb1-8k
+  - label: '#1'
+    load: 3
+    peer: was-nva1-sbb1-8k
+  - label: '#3'
+    load: 10
+    peer: was-dc10-pb1-ptx
+  - label: '#1'
+    load: 37
+    peer: mia-5-n7
+  - label: '#1'
+    load: 20
+    peer: dfw-da2-bb1-a72
+  - label: '#1'
+    load: 10
+    peer: chi-1-n7
+  - label: '#2'
+    load: 36
+    peer: mia-5-n7
+  - label: '#1'
+    load: 48
+    peer: was1-vin1-g1-nc5
+  - label: '#4'
+    load: 10
+    peer: was-dc10-pb1-ptx
+  - label: '#1'
+    load: 2
+    peer: was-nva1-sbb1-8k
+  - label: '#1'
+    load: 9
+    peer: chi-1-n7
+  - label: '#1'
+    load: 28
+    peer: par-gsw-sbb1-nc5
+  - label: '#1'
+    load: 22
+    peer: nwk-1-n7
+  - label: '#1'
+    load: 49
+    peer: was1-vin1-g1-nc5
+  - label: '#1'
+    load: 2
+    peer: was-nva1-sbb1-8k
+  - label: '#2'
+    load: 36
+    peer: mia-5-n7
+  - label: '#1'
+    load: 49
+    peer: was1-vin1-g1-nc5
+  - label: '#4'
+    load: 35
+    peer: was-dc10-pb2-nc5
+  - label: '#3'
+    load: 22
+    peer: nwk-1-n7
+  - label: '#1'
+    load: 36
+    peer: was-dc10-pb2-nc5
+  - label: '#1'
+    load: 49
+    peer: was1-vin1-g1-nc5
+  - label: '#1'
+    load: 3
+    peer: was-nva1-sbb1-8k
+  - label: '#1'
+    load: 32
+    peer: lax-la1-bb1-n7
+  - label: '#2'
+    load: 22
+    peer: nwk-1-n7
+  - label: '#2'
+    load: 34
+    peer: was-dc10-pb2-nc5
+  - label: '#2'
+    load: 9
+    peer: was-dc10-pb1-ptx
+  - label: '#1'
+    load: 9
+    peer: was-dc10-pb1-ptx
+  - label: '#1'
+    load: 22
+    peer: nwk-1-n7
+  - label: '#1'
+    load: 3
+    peer: was-nva1-sbb1-8k
+  - label: '#3'
+    load: 35
+    peer: was-dc10-pb2-nc5
+  - label: '#1'
+    load: 3
+    peer: was-nva1-sbb1-8k
+  - label: '#2'
+    load: 10
+    peer: chi-1-n7
+  - label: '#1'
+    load: 32
+    peer: lax-la1-bb1-n7
+  - label: '#3'
+    load: 1
+    peer: chi-1-n7
+  - label: '#1'
+    load: 2
+    peer: was-nva1-sbb1-8k
+  - label: '#2'
+    load: 22
+    peer: nwk-1-n7
+  - label: '#1'
+    load: 28
+    peer: par-gsw-sbb1-nc5
+  - label: '#1'
+    load: 32
+    peer: lax-la1-bb1-n7
+was-dc10-pb1-ptx:
+  links:
+  - label: '#3'
+    load: 2
+    peer: GOOGLE
+  - label: '#2'
+    load: 17
+    peer: SUDDENLINK
+  - label: '#3'
+    load: 7
+    peer: was-cva1-sbb1-8k
+  - label: '#1'
+    load: 5
+    peer: was-nva1-sbb1-8k
+  - label: '#3'
+    load: 18
+    peer: CHARTER
+  - label: '#2'
+    load: 10
+    peer: COX
+  - label: '#1'
+    load: 1
+    peer: was-cdc4-vcabb1-a72
+  - label: '#4'
+    load: 7
+    peer: was-cva1-sbb1-8k
+  - label: '#4'
+    load: 18
+    peer: CHARTER
+  - label: '#1'
+    load: 10
+    peer: COX
+  - label: '#1'
+    load: 26
+    peer: TWC
+  - label: '#2'
+    load: 3
+    peer: GOOGLE
+  - label: '#2'
+    load: 5
+    peer: was-nva1-sbb1-8k
+  - label: '#4'
+    load: 4
+    peer: GOOGLE
+  - label: '#2'
+    load: 8
+    peer: was-cva1-sbb1-8k
+  - label: '#1'
+    load: 1
+    peer: AMAZON
+  - label: '#2'
+    load: 17
+    peer: TELXIUS
+  - label: '#1'
+    load: 8
+    peer: was-cva1-sbb1-8k
+  - label: '#1'
+    load: 1
+    peer: was-dc5-vcoagg1-n92
+  - label: '#1'
+    load: 8
+    peer: GOOGLE
+  - label: '#4'
+    load: 5
+    peer: was-nva1-sbb1-8k
+  - label: '#2'
+    load: 18
+    peer: CHARTER
+  - label: '#2'
+    load: 1
+    peer: was-cdc4-vcabb1-a72
+  - label: '#3'
+    load: 11
+    peer: COX
+  - label: '#1'
+    load: 15
+    peer: SUDDENLINK
+  - label: '#3'
+    load: 5
+    peer: was-nva1-sbb1-8k
+  - label: '#4'
+    load: 10
+    peer: COX
+  - label: '#1'
+    load: 1
+    peer: COGENT
+  - label: '#1'
+    load: 18
+    peer: CHARTER
+was-dc10-pb2-nc5:
+  links:
+  - label: '#4'
+    load: 21
+    peer: GOOGLE
+  - label: '#1'
+    load: 38
+    peer: COGENT
+  - label: '#4'
+    load: 18
+    peer: was-cva1-sbb1-8k
+  - label: '#1'
+    load: 18
+    peer: was-cva1-sbb1-8k
+  - label: '#1'
+    load: 23
+    peer: AMAZON
+  - label: '#2'
+    load: 18
+    peer: was-cva1-sbb1-8k
+  - label: '#1'
+    load: 20
+    peer: TELIA
+  - label: '#1'
+    load: 8
+    peer: SEABONE
+  - label: '#2'
+    load: 8
+    peer: was-nva1-sbb1-8k
+  - label: '#4'
+    load: 8
+    peer: was-nva1-sbb1-8k
+  - label: '#3'
+    load: 8
+    peer: was-nva1-sbb1-8k
+  - label: '#1'
+    load: 8
+    peer: was-nva1-sbb1-8k
+  - label: '#1'
+    load: 40
+    peer: EQUINIX
+  - label: '#3'
+    load: 18
+    peer: was-cva1-sbb1-8k
+  - label: '#2'
+    load: 16
+    peer: GOOGLE
+  - label: '#1'
+    load: 41
+    peer: TELXIUS
+  - label: '#1'
+    load: 21
+    peer: GOOGLE
+  - label: '#3'
+    load: 17
+    peer: GOOGLE
+  - label: '#1'
+    load: 1
+    peer: was-dc5-vcoagg2-n92
+  - label: '#1'
+    load: 1
+    peer: was-cdc4-vcabb2-a72
+was-dc5-vcoagg1-n92:
+  links:
+  - label: '#1'
+    load: 1
+    peer: was-dc10-pb1-ptx
+was-dc5-vcoagg2-n92:
+  links:
+  - label: '#1'
+    load: 1
+    peer: was-dc10-pb2-nc5
+was-nva1-sbb1-8k:
+  links:
+  - label: '#1'
+    load: 2
+    peer: was-cva1-sbb1-8k
+  - label: '#1'
+    load: 2
+    peer: was-cva1-sbb1-8k
+  - label: '#1'
+    load: 6
+    peer: was-dc10-pb1-ptx
+  - label: '#1'
+    load: 6
+    peer: par-th2-sbb1-nc5
+  - label: '#1'
+    load: 2
+    peer: was-cva1-sbb1-8k
+  - label: '#3'
+    load: 9
+    peer: nwk-5-n7
+  - label: '#1'
+    load: 2
+    peer: was-cva1-sbb1-8k
+  - label: '#1'
+    load: 3
+    peer: chi-5-n7
+  - label: '#1'
+    load: 2
+    peer: was1-vin1-g2-nc5
+  - label: '#3'
+    load: 3
+    peer: chi-5-n7
+  - label: '#1'
+    load: 31
+    peer: mia-5-n7
+  - label: '#3'
+    load: 31
+    peer: mia-5-n7
+  - label: '#2'
+    load: 9
+    peer: nwk-5-n7
+  - label: '#1'
+    load: 2
+    peer: was-cva1-sbb1-8k
+  - label: '#1'
+    load: 9
+    peer: nwk-5-n7
+  - label: '#2'
+    load: 6
+    peer: was-dc10-pb1-ptx
+  - label: '#1'
+    load: 2
+    peer: was1-vin1-g2-nc5
+  - label: '#1'
+    load: 27
+    peer: lax-la1-bb1-n7
+  - label: '#5'
+    load: 9
+    peer: nwk-5-n7
+  - label: '#2'
+    load: 6
+    peer: par-th2-sbb1-nc5
+  - label: '#1'
+    load: 2
+    peer: was1-vin1-g2-nc5
+  - label: '#1'
+    load: 27
+    peer: lax-la1-bb1-n7
+  - label: '#2'
+    load: 9
+    peer: was-dc10-pb2-nc5
+  - label: '#4'
+    load: 9
+    peer: was-dc10-pb2-nc5
+  - label: '#3'
+    load: 10
+    peer: was-dc10-pb2-nc5
+  - label: '#1'
+    load: 9
+    peer: was-dc10-pb2-nc5
+  - label: '#2'
+    load: 31
+    peer: mia-5-n7
+  - label: '#1'
+    load: 2
+    peer: was1-vin1-g2-nc5
+  - label: '#1'
+    load: 2
+    peer: was-cva1-sbb1-8k
+  - label: '#5'
+    load: 9
+    peer: nwk-5-n7
+  - label: '#1'
+    load: 2
+    peer: was-cva1-sbb1-8k
+  - label: '#4'
+    load: 6
+    peer: was-dc10-pb1-ptx
+  - label: '#4'
+    load: 3
+    peer: chi-5-n7
+  - label: '#1'
+    load: 2
+    peer: was-cva1-sbb1-8k
+  - label: '#4'
+    load: 9
+    peer: nwk-5-n7
+  - label: '#3'
+    load: 6
+    peer: was-dc10-pb1-ptx
+  - label: '#1'
+    load: 27
+    peer: lax-la1-bb1-n7
+  - label: '#3'
+    load: 6
+    peer: par-th2-sbb1-nc5
+  - label: '#2'
+    load: 3
+    peer: chi-5-n7
+was1-vin1-g1-nc5:
+  links:
+  - label: '#1'
+    load: 0
+    peer: was1-vin1-g2-nc5
+  - label: '#1'
+    load: 73
+    peer: was-cva1-sbb1-8k
+  - label: '#1'
+    load: 71
+    peer: was-cva1-sbb1-8k
+  - label: '#1'
+    load: 73
+    peer: was-cva1-sbb1-8k
+  - label: '#1'
+    load: 72
+    peer: was-cva1-sbb1-8k
+was1-vin1-g2-nc5:
+  links:
+  - label: '#1'
+    load: 0
+    peer: was1-vin1-g1-nc5
+  - label: '#1'
+    load: 1
+    peer: was-nva1-sbb1-8k
+  - label: '#1'
+    load: 1
+    peer: was-nva1-sbb1-8k
+  - label: '#1'
+    load: 1
+    peer: was-nva1-sbb1-8k
+  - label: '#1'
+    load: 1
+    peer: was-nva1-sbb1-8k
+ymq-mtl3-bb1-a9:
+  links:
+  - label: '#4'
+    load: 32
+    peer: ymq-mtl3-bb1-n7
+  - label: '#4'
+    load: 31
+    peer: ymq-mtl3-bb1-n7
+  - label: '#1'
+    load: 32
+    peer: ymq-mtl3-bb1-n7
+  - label: '#3'
+    load: 32
+    peer: ymq-mtl3-bb1-n7
+  - label: '#2'
+    load: 32
+    peer: ymq-mtl3-bb1-n7
+  - label: '#1'
+    load: 32
+    peer: ymq-mtl3-bb1-n7
+  - label: '#3'
+    load: 31
+    peer: ymq-mtl3-bb1-n7
+  - label: '#2'
+    load: 32
+    peer: ymq-mtl3-bb1-n7
+ymq-mtl3-bb1-n7:
+  links:
+  - label: '#2'
+    load: 6
+    peer: bhs-g1-nc5
+  - label: '#1'
+    load: 30
+    peer: TELIA
+  - label: '#2'
+    load: 23
+    peer: TELUS
+  - label: '#2'
+    load: 6
+    peer: bhs-g2-nc5
+  - label: '#4'
+    load: 33
+    peer: ymq-mtl3-bb1-a9
+  - label: '#4'
+    load: 31
+    peer: ymq-mtl3-bb1-a9
+  - label: '#2'
+    load: 6
+    peer: bhs-g2-nc5
+  - label: '#2'
+    load: 24
+    peer: TELUS
+  - label: '#2'
+    load: 5
+    peer: bhs-g1-nc5
+  - label: '#5'
+    load: 14
+    peer: VIDEOTRON
+  - label: '#1'
+    load: 6
+    peer: bhs-g2-nc5
+  - label: '#1'
+    load: 6
+    peer: bhs-g2-nc5
+  - label: '#1'
+    load: 23
+    peer: TELUS
+  - label: '#1'
+    load: 32
+    peer: ymq-mtl3-bb1-a9
+  - label: '#5'
+    load: 47
+    peer: GOOGLE
+  - label: '#3'
+    load: 33
+    peer: ymq-mtl3-bb1-a9
+  - label: '#2'
+    load: 31
+    peer: ymq-mtl3-bb1-a9
+  - label: '#5'
+    load: 8
+    peer: AMAZON
+  - label: '#1'
+    load: 31
+    peer: COGENT
+  - label: '#1'
+    load: 32
+    peer: ymq-mtl3-bb1-a9
+  - label: '#5'
+    load: 28
+    peer: BELL
+  - label: '#1'
+    load: 22
+    peer: TELUS
+  - label: '#1'
+    load: 6
+    peer: bhs-g1-nc5
+  - label: '#3'
+    load: 32
+    peer: ymq-mtl3-bb1-a9
+  - label: '#1'
+    load: 31
+    peer: TELIA
+  - label: '#1'
+    load: 11
+    peer: QIX
+  - label: '#2'
+    load: 32
+    peer: ymq-mtl3-bb1-a9
+  - label: '#1'
+    load: 6
+    peer: bhs-g1-nc5
+yto-tr1-bb1-a9:
+  links:
+  - label: '#2'
+    load: 27
+    peer: yto-tr1-bb1-n7
+  - label: '#1'
+    load: 27
+    peer: yto-tr1-bb1-n7
+  - label: '#2'
+    load: 28
+    peer: yto-tr1-bb1-n7
+  - label: '#4'
+    load: 28
+    peer: yto-tr1-bb1-n7
+  - label: '#1'
+    load: 28
+    peer: yto-tr1-bb1-n7
+  - label: '#3'
+    load: 28
+    peer: yto-tr1-bb1-n7
+  - label: '#4'
+    load: 28
+    peer: yto-tr1-bb1-n7
+  - label: '#3'
+    load: 27
+    peer: yto-tr1-bb1-n7
+yto-tr1-bb1-n7:
+  links:
+  - label: '#1'
+    load: 1
+    peer: TELUS
+  - label: '#2'
+    load: 26
+    peer: yto-tr1-bb1-a9
+  - label: '#1'
+    load: 27
+    peer: yto-tr1-bb1-a9
+  - label: '#1'
+    load: 8
+    peer: bhs-g1-nc5
+  - label: '#1'
+    load: 8
+    peer: bhs-g1-nc5
+  - label: '#1'
+    load: 8
+    peer: bhs-g1-nc5
+  - label: '#2'
+    load: 28
+    peer: yto-tr1-bb1-a9
+  - label: '#4'
+    load: 29
+    peer: yto-tr1-bb1-a9
+  - label: '#2'
+    load: 1
+    peer: TELUS
+  - label: '#1'
+    load: 1
+    peer: TELUS
+  - label: '#2'
+    load: 24
+    peer: SHAW
+  - label: '#2'
+    load: 36
+    peer: GOOGLE
+  - label: '#1'
+    load: 1
+    peer: BELL
+  - label: '#1'
+    load: 19
+    peer: SHAW
+  - label: '#1'
+    load: 6
+    peer: bhs-g2-nc5
+  - label: '#2'
+    load: 21
+    peer: SHAW
+  - label: '#1'
+    load: 25
+    peer: TELIA
+  - label: '#1'
+    load: 6
+    peer: bhs-g2-nc5
+  - label: '#1'
+    load: 29
+    peer: yto-tr1-bb1-a9
+  - label: '#1'
+    load: 47
+    peer: COGENT
+  - label: '#1'
+    load: 21
+    peer: ROGERS
+  - label: '#3'
+    load: 28
+    peer: yto-tr1-bb1-a9
+  - label: '#1'
+    load: 7
+    peer: bhs-g2-nc5
+  - label: '#2'
+    load: 26
+    peer: TORIX
+  - label: '#4'
+    load: 28
+    peer: yto-tr1-bb1-a9
+  - label: '#2'
+    load: 1
+    peer: TELUS
+  - label: '#1'
+    load: 7
+    peer: bhs-g2-nc5
+  - label: '#1'
+    load: 8
+    peer: bhs-g1-nc5
+  - label: '#3'
+    load: 28
+    peer: yto-tr1-bb1-a9
+  - label: '#1'
+    load: 19
+    peer: SHAW

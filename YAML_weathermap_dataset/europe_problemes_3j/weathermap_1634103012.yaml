@@ -1,0 +1,5896 @@
+1AND1:
+  links:
+  - label: '#1'
+    load: 1
+    peer: fra-fr5-pb2-nc5
+A1TEL:
+  links:
+  - label: '#4'
+    load: 1
+    peer: vie-vie2-pb1-nc5
+AIRTEL:
+  links:
+  - label: '#1'
+    load: 3
+    peer: lon-thw-pb3-nc5
+  - label: '#1'
+    load: 3
+    peer: lon-thw-pb3-nc5
+AKAMAI:
+  links:
+  - label: '#1'
+    load: 4
+    peer: par-gsw-pb2-nc5
+  - label: '#1'
+    load: 5
+    peer: par-gsw-pb2-nc5
+AMAZON:
+  links:
+  - label: '#1'
+    load: 6
+    peer: par-th2-pb3-nc5
+  - label: '#1'
+    load: 14
+    peer: lon-thw-pb3-nc5
+AMS-IX:
+  links:
+  - label: '#3'
+    load: 11
+    peer: ams-1-n7
+  - label: '#4'
+    load: 25
+    peer: ams-5-n7
+  - label: '#1'
+    load: 10
+    peer: ams-1-n7
+  - label: '#1'
+    load: 24
+    peer: ams-5-n7
+  - label: '#2'
+    load: 10
+    peer: ams-1-n7
+  - label: '#4'
+    load: 10
+    peer: ams-1-n7
+  - label: '#2'
+    load: 24
+    peer: ams-5-n7
+  - label: '#3'
+    load: 24
+    peer: ams-5-n7
+BELGIUM-IX:
+  links:
+  - label: '#1'
+    load: 1
+    peer: bru-bru1-bb2-a72
+BICS-TANGO:
+  links:
+  - label: '#3'
+    load: 1
+    peer: bru-1-a72
+  - label: '#4'
+    load: 1
+    peer: bru-1-a72
+  - label: '#1'
+    load: 1
+    peer: bru-1-a72
+  - label: '#2'
+    load: 1
+    peer: bru-1-a72
+BNIX:
+  links:
+  - label: '#1'
+    load: 10
+    peer: bru-1-a72
+BOUYGUES:
+  links:
+  - label: '#1'
+    load: 1
+    peer: par-th2-pb2-nc5
+  - label: '#1'
+    load: 1
+    peer: par-th2-pb2-nc5
+BT:
+  links:
+  - label: '#1'
+    load: 1
+    peer: lon-thw-pb1-nc5
+  - label: '#1'
+    load: 1
+    peer: lon-thw-pb2-nc5
+CDN77:
+  links:
+  - label: '#1'
+    load: 12
+    peer: par-th2-pb1-nc5
+  - label: '#1'
+    load: 40
+    peer: fra-fr5-pb1-ptx
+CHINAMOBILE:
+  links:
+  - label: '#1'
+    load: 1
+    peer: par-pa3-pb1-nc5
+  - label: '#1'
+    load: 1
+    peer: lon-thw-pb3-nc5
+CLOUDFLARE:
+  links:
+  - label: '#1'
+    load: 6
+    peer: fra-fr5-pb3-nc5
+  - label: '#1'
+    load: 6
+    peer: par-pa3-pb1-nc5
+  - label: '#1'
+    load: 1
+    peer: lon-thw-pb1-nc5
+CLOUVIDER:
+  links:
+  - label: '#1'
+    load: 2
+    peer: fra-fr5-pb5-nc5
+  - label: '#1'
+    load: 1
+    peer: lon-thw-pb2-nc5
+COGENT:
+  links:
+  - label: '#1'
+    load: 23
+    peer: ams-1-n7
+  - label: '#1'
+    load: 4
+    peer: lon-thw-pb2-nc5
+  - label: '#1'
+    load: 23
+    peer: waw-wa1-pb1-nc5
+  - label: '#1'
+    load: 10
+    peer: mad-mad2-pb1-ptx
+  - label: '#1'
+    load: 24
+    peer: ams-5-n7
+  - label: '#1'
+    load: 5
+    peer: lon-thw-pb1-nc5
+  - label: '#1'
+    load: 5
+    peer: par-th2-pb2-nc5
+  - label: '#1'
+    load: 5
+    peer: par-gsw-pb1-nc5
+CORE-BACKBONE:
+  links:
+  - label: '#1'
+    load: 2
+    peer: fra-fr5-pb5-nc5
+  - label: '#1'
+    load: 1
+    peer: par-th2-pb2-nc5
+D-TAG:
+  links:
+  - label: '#1'
+    load: 1
+    peer: fra-fr5-pb2-nc5
+  - label: '#2'
+    load: 1
+    peer: fra-fr5-pb2-nc5
+DATA-IX:
+  links:
+  - label: '#1'
+    load: 31
+    peer: fra-fr5-pb5-nc5
+  - label: '#1'
+    load: 31
+    peer: fra-fr5-pb5-nc5
+DE-CIX:
+  links:
+  - label: '#2'
+    load: 16
+    peer: fra-fr5-pb2-nc5
+  - label: '#3'
+    load: 6
+    peer: fra-fr5-pb3-nc5
+  - label: '#3'
+    load: 16
+    peer: fra-fr5-pb2-nc5
+  - label: '#1'
+    load: 5
+    peer: fra-fr5-pb3-nc5
+  - label: '#3'
+    load: 5
+    peer: fra-fr5-pb3-nc5
+  - label: '#1'
+    load: 17
+    peer: fra-fr5-pb2-nc5
+  - label: '#2'
+    load: 6
+    peer: fra-fr5-pb3-nc5
+  - label: '#1'
+    load: 16
+    peer: fra-fr5-pb2-nc5
+  - label: '#3'
+    load: 17
+    peer: fra-fr5-pb2-nc5
+  - label: '#3'
+    load: 18
+    peer: fra-fr5-pb2-nc5
+  - label: '#2'
+    load: 5
+    peer: fra-fr5-pb3-nc5
+  - label: '#1'
+    load: 6
+    peer: fra-fr5-pb3-nc5
+DECIX MAD:
+  links:
+  - label: '#1'
+    load: 6
+    peer: mad-mad2-pb1-ptx
+DTAG:
+  links:
+  - label: '#1'
+    load: 3
+    peer: fra-fr5-pb3-nc5
+  - label: '#1'
+    load: 3
+    peer: fra-fr5-pb3-nc5
+DTEL-IX:
+  links:
+  - label: '#1'
+    load: 16
+    peer: waw-wa2-pb1-nc5
+  - label: '#1'
+    load: 17
+    peer: waw-wa2-pb1-nc5
+EQUINIX:
+  links:
+  - label: '#1'
+    load: 12
+    peer: par-th2-pb2-nc5
+ESPANIX-LOWER:
+  links:
+  - label: '#1'
+    load: 3
+    peer: mad-2-a72
+ESPANIX-UPPER:
+  links:
+  - label: '#1'
+    load: 3
+    peer: mad-2-a72
+EXATEL:
+  links:
+  - label: '#1'
+    load: 1
+    peer: waw-atm-pb1-nc5
+FIORD:
+  links:
+  - label: '#1'
+    load: 1
+    peer: waw-wa1-pb1-nc5
+FRANCE-IX:
+  links:
+  - label: '#1'
+    load: 24
+    peer: par-th2-pb1-nc5
+  - label: '#1'
+    load: 8
+    peer: mrs-mrs1-pb1-nc5
+  - label: '#1'
+    load: 2
+    peer: par-pa3-pb1-nc5
+FREE:
+  links:
+  - label: '#1'
+    load: 1
+    peer: par-th2-pb1-nc5
+  - label: '#1'
+    load: 1
+    peer: par-th2-pb1-nc5
+  - label: '#2'
+    load: 2
+    peer: par-gsw-pb1-nc5
+  - label: '#1'
+    load: 3
+    peer: par-gsw-pb1-nc5
+GOOGLE:
+  links:
+  - label: '#1'
+    load: 13
+    peer: par-th2-pb1-nc5
+  - label: '#1'
+    load: 17
+    peer: lon-drch-pb1-nc5
+  - label: '#1'
+    load: 25
+    peer: fra-fr5-pb3-nc5
+  - label: '#1'
+    load: 13
+    peer: par-gsw-pb1-nc5
+HETZNER:
+  links:
+  - label: '#1'
+    load: 46
+    peer: fra-fr5-pb1-ptx
+  - label: '#1'
+    load: 46
+    peer: fra-fr5-pb1-ptx
+  - label: '#1'
+    load: 46
+    peer: fra-fr5-pb4-nc5
+  - label: '#1'
+    load: 46
+    peer: fra-fr5-pb4-nc5
+IKOULA:
+  links:
+  - label: '#1'
+    load: 22
+    peer: par-th2-pb3-nc5
+JASTEL:
+  links:
+  - label: '#4'
+    load: 1
+    peer: par-th2-pb3-nc5
+  - label: '#2'
+    load: 1
+    peer: par-th2-pb3-nc5
+  - label: '#1'
+    load: 1
+    peer: par-th2-pb3-nc5
+  - label: '#3'
+    load: 1
+    peer: par-th2-pb3-nc5
+LEASEWEB:
+  links:
+  - label: '#1'
+    load: 18
+    peer: ams-5-n7
+LEVEL3:
+  links:
+  - label: '#1'
+    load: 5
+    peer: par-gsw-pb2-nc5
+  - label: '#1'
+    load: 5
+    peer: par-gsw-pb2-nc5
+  - label: '#1'
+    load: 2
+    peer: lon-thw-pb2-nc5
+  - label: '#1'
+    load: 10
+    peer: fra-fr5-pb5-nc5
+LILLIX:
+  links:
+  - label: '#1'
+    load: 3
+    peer: rbx-5-a72
+LINX-LON1:
+  links:
+  - label: '#1'
+    load: 7
+    peer: lon-thw-pb2-nc5
+  - label: '#2'
+    load: 7
+    peer: lon-thw-pb2-nc5
+  - label: '#1'
+    load: 7
+    peer: lon-thw-pb2-nc5
+  - label: '#1'
+    load: 8
+    peer: lon-thw-pb1-nc5
+  - label: '#2'
+    load: 8
+    peer: lon-thw-pb1-nc5
+LINX-LON2:
+  links:
+  - label: '#1'
+    load: 9
+    peer: lon-thw-pb1-nc5
+M247.RO:
+  links:
+  - label: '#1'
+    load: 15
+    peer: fra-fr5-pb4-nc5
+  - label: '#2'
+    load: 12
+    peer: fra-fr5-pb4-nc5
+MIX:
+  links:
+  - label: '#1'
+    load: 4
+    peer: mil-kpn-pb1-nc5
+  - label: '#2'
+    load: 4
+    peer: mil-kpn-pb1-nc5
+MOBILY:
+  links:
+  - label: '#4'
+    load: 6
+    peer: mrs-mrs1-pb1-nc5
+  - label: '#2'
+    load: 6
+    peer: mrs-mrs1-pb1-nc5
+  - label: '#3'
+    load: 6
+    peer: mrs-mrs1-pb1-nc5
+  - label: '#1'
+    load: 6
+    peer: mrs-mrs1-pb1-nc5
+MSK-IX:
+  links:
+  - label: '#1'
+    load: 18
+    peer: waw-wa2-pb1-nc5
+MTS-MTU.RU:
+  links:
+  - label: '#1'
+    load: 1
+    peer: fra-fr5-pb2-nc5
+  - label: '#1'
+    load: 1
+    peer: fra-fr5-pb2-nc5
+NETIA:
+  links:
+  - label: '#1'
+    load: 1
+    peer: waw-wa1-pb1-nc5
+NETIX:
+  links:
+  - label: '#1'
+    load: 8
+    peer: fra-fr5-pb4-nc5
+NIX:
+  links:
+  - label: '#4'
+    load: 12
+    peer: prg-sitl-pb1-nc5
+  - label: '#4'
+    load: 15
+    peer: prg-sitl-pb1-nc5
+NOVOSERVE:
+  links:
+  - label: '#1'
+    load: 46
+    peer: ams-5-n7
+OMANTEL:
+  links:
+  - label: '#1'
+    load: 2
+    peer: fra-fr5-pb6-nc5
+  - label: '#4'
+    load: 2
+    peer: fra-fr5-pb6-nc5
+  - label: '#3'
+    load: 2
+    peer: fra-fr5-pb6-nc5
+  - label: '#2'
+    load: 2
+    peer: fra-fr5-pb6-nc5
+ORANGE:
+  links:
+  - label: '#1'
+    load: 5
+    peer: par-gsw-pb1-nc5
+  - label: '#1'
+    load: 7
+    peer: par-th2-pb1-nc5
+  - label: '#1'
+    load: 16
+    peer: rbx-5-a72
+ORANGE.BE:
+  links:
+  - label: '#1'
+    load: 1
+    peer: bru-bru1-bb2-a72
+  - label: '#2'
+    load: 1
+    peer: bru-bru1-bb2-a72
+  - label: '#1'
+    load: 1
+    peer: bru-1-a72
+  - label: '#2'
+    load: 1
+    peer: bru-1-a72
+OTEGLOBE:
+  links:
+  - label: '#1'
+    load: 1
+    peer: fra-fr5-pb3-nc5
+OTI:
+  links:
+  - label: '#1'
+    load: 1
+    peer: par-pa3-pb1-nc5
+  - label: '#1'
+    load: 1
+    peer: par-pa3-pb1-nc5
+  - label: '#1'
+    load: 1
+    peer: par-pa3-pb1-nc5
+  - label: '#1'
+    load: 1
+    peer: par-pa3-pb1-nc5
+  - label: '#2'
+    load: 1
+    peer: par-th2-pb2-nc5
+  - label: '#1'
+    load: 1
+    peer: par-th2-pb2-nc5
+  - label: '#1'
+    load: 1
+    peer: mrs-mrs1-pb1-nc5
+  - label: '#1'
+    load: 3
+    peer: fra-fr5-pb2-nc5
+  - label: '#1'
+    load: 2
+    peer: mad-mad2-pb1-ptx
+  - label: '#2'
+    load: 2
+    peer: mad-mad2-pb1-ptx
+PEERING.CZ:
+  links:
+  - label: '#1'
+    load: 18
+    peer: prg-sitl-pb1-nc5
+PLIX:
+  links:
+  - label: '#1'
+    load: 10
+    peer: waw-wa1-pb1-nc5
+  - label: '#1'
+    load: 2
+    peer: waw-wa2-pb1-nc5
+PLUS:
+  links:
+  - label: '#2'
+    load: 1
+    peer: waw-wa1-pb1-nc5
+  - label: '#1'
+    load: 1
+    peer: waw-wa1-pb1-nc5
+  - label: '#4'
+    load: 2
+    peer: waw-wa1-pb1-nc5
+  - label: '#3'
+    load: 1
+    peer: waw-wa1-pb1-nc5
+RETN:
+  links:
+  - label: '#1'
+    load: 2
+    peer: ams-1-n7
+  - label: '#1'
+    load: 3
+    peer: waw-wa1-pb1-nc5
+SCALEWAY:
+  links:
+  - label: '#1'
+    load: 29
+    peer: par-gsw-pb2-nc5
+  - label: '#1'
+    load: 30
+    peer: par-gsw-pb2-nc5
+  - label: '#1'
+    load: 30
+    peer: par-th2-pb2-nc5
+  - label: '#1'
+    load: 30
+    peer: par-th2-pb2-nc5
+SEABONE:
+  links:
+  - label: '#2'
+    load: 5
+    peer: mil-kpn-pb1-nc5
+  - label: '#1'
+    load: 5
+    peer: mil-kpn-pb1-nc5
+  - label: '#2'
+    load: 1
+    peer: fra-fr5-pb4-nc5
+  - label: '#1'
+    load: 1
+    peer: fra-fr5-pb4-nc5
+  - label: '#1'
+    load: 1
+    peer: fra-fr5-pb4-nc5
+  - label: '#2'
+    load: 1
+    peer: fra-fr5-pb4-nc5
+  - label: '#1'
+    load: 1
+    peer: par-th2-pb1-nc5
+  - label: '#2'
+    load: 1
+    peer: par-th2-pb1-nc5
+SERVERIUS:
+  links:
+  - label: '#1'
+    load: 5
+    peer: ams-1-n7
+SFR:
+  links:
+  - label: '#1'
+    load: 1
+    peer: par-gsw-pb2-nc5
+  - label: '#1'
+    load: 5
+    peer: par-th2-pb2-nc5
+SHADOW:
+  links:
+  - label: '#1'
+    load: 4
+    peer: par-th2-pb1-nc5
+  - label: '#1'
+    load: 4
+    peer: par-th2-pb3-nc5
+  - label: '#1'
+    load: 4
+    peer: par-th2-pb2-nc5
+SKY UK:
+  links:
+  - label: '#1'
+    load: 1
+    peer: lon-thw-pb1-nc5
+SPEED-IX:
+  links:
+  - label: '#1'
+    load: 31
+    peer: ams-5-n7
+SUNRISE:
+  links:
+  - label: '#1'
+    load: 1
+    peer: zrh-zh2-bb1-a72
+SWISSCOM:
+  links:
+  - label: '#2'
+    load: 1
+    peer: zrh-zh2-bb1-a72
+  - label: '#1'
+    load: 1
+    peer: zrh-zh2-bb1-a72
+TALKTALK:
+  links:
+  - label: '#1'
+    load: 1
+    peer: lon-thw-pb1-nc5
+TELEFONICA:
+  links:
+  - label: '#1'
+    load: 1
+    peer: fra-fr5-pb1-ptx
+TELENET-UPC:
+  links:
+  - label: '#1'
+    load: 2
+    peer: bru-1-a72
+  - label: '#2'
+    load: 2
+    peer: bru-1-a72
+  - label: '#1'
+    load: 1
+    peer: bru-bru1-bb2-a72
+  - label: '#2'
+    load: 1
+    peer: bru-bru1-bb2-a72
+TELIA:
+  links:
+  - label: '#1'
+    load: 1
+    peer: lon-thw-pb2-nc5
+  - label: '#1'
+    load: 6
+    peer: fra-fr5-pb4-nc5
+  - label: '#1'
+    load: 6
+    peer: fra-fr5-pb6-nc5
+  - label: '#1'
+    load: 2
+    peer: par-pa3-pb1-nc5
+  - label: '#1'
+    load: 1
+    peer: lon-drch-pb1-nc5
+  - label: '#1'
+    load: 2
+    peer: mil-kpn-pb1-nc5
+  - label: '#1'
+    load: 5
+    peer: ams-1-n7
+  - label: '#1'
+    load: 1
+    peer: par-th2-pb1-nc5
+  - label: '#1'
+    load: 1
+    peer: mad-mad2-pb1-ptx
+  - label: '#1'
+    load: 1
+    peer: waw-wa1-pb1-nc5
+TELSTRA:
+  links:
+  - label: '#1'
+    load: 1
+    peer: lon-thw-pb2-nc5
+TELXIUS:
+  links:
+  - label: '#1'
+    load: 1
+    peer: par-pa3-pb1-nc5
+  - label: '#1'
+    load: 1
+    peer: par-pa3-pb1-nc5
+  - label: '#2'
+    load: 2
+    peer: mad-mad2-pb1-ptx
+  - label: '#1'
+    load: 3
+    peer: mad-mad2-pb1-ptx
+THINX:
+  links:
+  - label: '#1'
+    load: 9
+    peer: waw-atm-pb1-nc5
+TIX:
+  links:
+  - label: '#1'
+    load: 7
+    peer: zrh-zh2-bb1-a72
+  - label: '#3'
+    load: 4
+    peer: zrh-zh2-bb1-a72
+  - label: '#2'
+    load: 5
+    peer: zrh-zh2-bb1-a72
+  - label: '#4'
+    load: 5
+    peer: zrh-zh2-bb1-a72
+TPIX:
+  links:
+  - label: '#1'
+    load: 4
+    peer: waw-wa2-pb1-nc5
+  - label: '#1'
+    load: 1
+    peer: waw-wa1-pb1-nc5
+TPSA:
+  links:
+  - label: '#1'
+    load: 2
+    peer: waw-wa2-pb1-nc5
+  - label: '#1'
+    load: 1
+    peer: waw-wa1-pb1-nc5
+UKSERVERS:
+  links:
+  - label: '#1'
+    load: 8
+    peer: lon-thw-pb1-nc5
+UPC:
+  links:
+  - label: '#1'
+    load: 1
+    peer: zrh-zh2-bb1-a72
+  - label: '#1'
+    load: 1
+    peer: lon-thw-pb2-nc5
+  - label: '#1'
+    load: 2
+    peer: ams-5-n7
+  - label: '#1'
+    load: 2
+    peer: lon-thw-pb1-nc5
+  - label: '#1'
+    load: 1
+    peer: waw-wa1-pb1-nc5
+  - label: '#1'
+    load: 1
+    peer: fra-fr5-pb4-nc5
+  - label: '#2'
+    load: 1
+    peer: fra-fr5-pb4-nc5
+VERIZON:
+  links:
+  - label: '#1'
+    load: 5
+    peer: par-th2-pb1-nc5
+VIMPELCOM:
+  links:
+  - label: '#2'
+    load: 2
+    peer: fra-fr5-pb5-nc5
+  - label: '#1'
+    load: 1
+    peer: fra-fr5-pb5-nc5
+  - label: '#3'
+    load: 1
+    peer: fra-fr5-pb5-nc5
+  - label: '#4'
+    load: 1
+    peer: fra-fr5-pb5-nc5
+VIX:
+  links:
+  - label: '#4'
+    load: 6
+    peer: vie-vie2-pb1-nc5
+VODAFONE:
+  links:
+  - label: '#1'
+    load: 1
+    peer: mad-mad2-pb1-ptx
+  - label: '#1'
+    load: 5
+    peer: par-gsw-pb3-nc5
+  - label: '#1'
+    load: 1
+    peer: fra-fr5-pb1-ptx
+  - label: '#1'
+    load: 1
+    peer: fra-fr5-pb1-ptx
+  - label: '#1'
+    load: 1
+    peer: fra-fr5-pb6-nc5
+  - label: '#1'
+    load: 1
+    peer: fra-fr5-pb6-nc5
+WORLDSTREAM:
+  links:
+  - label: '#1'
+    load: 31
+    peer: ams-1-n7
+  - label: '#1'
+    load: 30
+    peer: ams-5-n7
+ZAIN:
+  links:
+  - label: '#1'
+    load: 1
+    peer: fra-fr5-pb2-nc5
+ZENEX5IVE:
+  links:
+  - label: '#1'
+    load: 27
+    peer: ams-1-n7
+ams-1-a9:
+  links:
+  - label: '#3'
+    load: 27
+    peer: ams-1-n7
+  - label: '#6'
+    load: 27
+    peer: ams-1-n7
+  - label: '#9'
+    load: 26
+    peer: ams-1-n7
+  - label: '#12'
+    load: 26
+    peer: ams-1-n7
+  - label: '#5'
+    load: 27
+    peer: ams-1-n7
+  - label: '#8'
+    load: 26
+    peer: ams-1-n7
+  - label: '#11'
+    load: 26
+    peer: ams-1-n7
+  - label: '#14'
+    load: 27
+    peer: ams-1-n7
+  - label: '#7'
+    load: 26
+    peer: ams-1-n7
+  - label: '#13'
+    load: 26
+    peer: ams-1-n7
+  - label: '#16'
+    load: 27
+    peer: ams-1-n7
+  - label: '#2'
+    load: 26
+    peer: ams-1-n7
+  - label: '#1'
+    load: 26
+    peer: ams-1-n7
+  - label: '#15'
+    load: 26
+    peer: ams-1-n7
+  - label: '#10'
+    load: 26
+    peer: ams-1-n7
+  - label: '#4'
+    load: 26
+    peer: ams-1-n7
+ams-1-n7:
+  links:
+  - label: '#2'
+    load: 9
+    peer: waw-atm-sbb1-nc5
+  - label: '#1'
+    load: 11
+    peer: SERVERIUS
+  - label: '#1'
+    load: 9
+    peer: waw-atm-sbb1-nc5
+  - label: '#3'
+    load: 28
+    peer: ams-1-a9
+  - label: '#6'
+    load: 27
+    peer: ams-1-a9
+  - label: '#1'
+    load: 15
+    peer: WORLDSTREAM
+  - label: '#3'
+    load: 29
+    peer: AMS-IX
+  - label: '#5'
+    load: 13
+    peer: rbx-g1-nc5
+  - label: '#9'
+    load: 26
+    peer: ams-1-a9
+  - label: '#1'
+    load: 8
+    peer: gra-g1-nc5
+  - label: '#12'
+    load: 24
+    peer: ams-1-a9
+  - label: '#1'
+    load: 5
+    peer: fra1-lim1-g1-8k
+  - label: '#1'
+    load: 17
+    peer: ZENEX5IVE
+  - label: '#5'
+    load: 27
+    peer: ams-1-a9
+  - label: '#1'
+    load: 29
+    peer: AMS-IX
+  - label: '#1'
+    load: 6
+    peer: waw-atm-sbb1-nc5
+  - label: '#5'
+    load: 14
+    peer: rbx-g1-nc5
+  - label: '#1'
+    load: 40
+    peer: COGENT
+  - label: '#3'
+    load: 14
+    peer: rbx-g3-nc5
+  - label: '#8'
+    load: 25
+    peer: ams-1-a9
+  - label: '#4'
+    load: 14
+    peer: rbx-g3-nc5
+  - label: '#11'
+    load: 27
+    peer: ams-1-a9
+  - label: '#1'
+    load: 9
+    peer: ams-5-n7
+  - label: '#3'
+    load: 7
+    peer: gra-g1-nc5
+  - label: '#1'
+    load: 14
+    peer: rbx-g1-nc5
+  - label: '#1'
+    load: 10
+    peer: ams-5-n7
+  - label: '#2'
+    load: 13
+    peer: rbx-g3-nc5
+  - label: '#14'
+    load: 27
+    peer: ams-1-a9
+  - label: '#2'
+    load: 29
+    peer: AMS-IX
+  - label: '#1'
+    load: 9
+    peer: gra-g1-nc5
+  - label: '#7'
+    load: 26
+    peer: ams-1-a9
+  - label: '#13'
+    load: 28
+    peer: ams-1-a9
+  - label: '#4'
+    load: 28
+    peer: AMS-IX
+  - label: '#1'
+    load: 9
+    peer: ams-5-n7
+  - label: '#1'
+    load: 9
+    peer: ams-5-n7
+  - label: '#1'
+    load: 11
+    peer: RETN
+  - label: '#16'
+    load: 27
+    peer: ams-1-a9
+  - label: '#1'
+    load: 5
+    peer: fra1-lim1-g1-8k
+  - label: '#1'
+    load: 5
+    peer: fra1-lim1-g1-8k
+  - label: '#2'
+    load: 26
+    peer: ams-1-a9
+  - label: '#1'
+    load: 26
+    peer: ams-1-a9
+  - label: '#1'
+    load: 5
+    peer: fra1-lim1-g1-8k
+  - label: '#2'
+    load: 9
+    peer: gra-g1-nc5
+  - label: '#1'
+    load: 14
+    peer: TELIA
+  - label: '#15'
+    load: 27
+    peer: ams-1-a9
+  - label: '#10'
+    load: 25
+    peer: ams-1-a9
+  - label: '#4'
+    load: 27
+    peer: ams-1-a9
+  - label: '#1'
+    load: 5
+    peer: fra1-lim1-g1-8k
+ams-5-a9:
+  links:
+  - label: '#1'
+    load: 34
+    peer: ams-5-n7
+  - label: '#5'
+    load: 35
+    peer: ams-5-n7
+  - label: '#12'
+    load: 34
+    peer: ams-5-n7
+  - label: '#11'
+    load: 33
+    peer: ams-5-n7
+  - label: '#14'
+    load: 34
+    peer: ams-5-n7
+  - label: '#2'
+    load: 35
+    peer: ams-5-n7
+  - label: '#3'
+    load: 34
+    peer: ams-5-n7
+  - label: '#4'
+    load: 35
+    peer: ams-5-n7
+  - label: '#15'
+    load: 35
+    peer: ams-5-n7
+  - label: '#9'
+    load: 34
+    peer: ams-5-n7
+  - label: '#16'
+    load: 34
+    peer: ams-5-n7
+  - label: '#10'
+    load: 34
+    peer: ams-5-n7
+  - label: '#8'
+    load: 36
+    peer: ams-5-n7
+  - label: '#7'
+    load: 35
+    peer: ams-5-n7
+  - label: '#6'
+    load: 34
+    peer: ams-5-n7
+  - label: '#13'
+    load: 34
+    peer: ams-5-n7
+ams-5-n7:
+  links:
+  - label: '#5'
+    load: 25
+    peer: rbx-g2-nc5
+  - label: '#1'
+    load: 9
+    peer: fra1-lim1-g2-8k
+  - label: '#1'
+    load: 33
+    peer: ams-5-a9
+  - label: '#5'
+    load: 34
+    peer: ams-5-a9
+  - label: '#12'
+    load: 34
+    peer: ams-5-a9
+  - label: '#4'
+    load: 25
+    peer: rbx-g4-nc5
+  - label: '#11'
+    load: 34
+    peer: ams-5-a9
+  - label: '#14'
+    load: 33
+    peer: ams-5-a9
+  - label: '#4'
+    load: 27
+    peer: AMS-IX
+  - label: '#2'
+    load: 34
+    peer: ams-5-a9
+  - label: '#3'
+    load: 36
+    peer: ams-5-a9
+  - label: '#4'
+    load: 34
+    peer: ams-5-a9
+  - label: '#15'
+    load: 34
+    peer: ams-5-a9
+  - label: '#2'
+    load: 26
+    peer: rbx-g4-nc5
+  - label: '#9'
+    load: 35
+    peer: ams-5-a9
+  - label: '#3'
+    load: 14
+    peer: gra-g2-nc5
+  - label: '#1'
+    load: 14
+    peer: gra-g2-nc5
+  - label: '#1'
+    load: 26
+    peer: AMS-IX
+  - label: '#1'
+    load: 6
+    peer: ams-1-n7
+  - label: '#2'
+    load: 7
+    peer: waw-wa2-sbb1-nc5
+  - label: '#1'
+    load: 6
+    peer: ams-1-n7
+  - label: '#16'
+    load: 33
+    peer: ams-5-a9
+  - label: '#2'
+    load: 25
+    peer: rbx-g4-nc5
+  - label: '#10'
+    load: 34
+    peer: ams-5-a9
+  - label: '#1'
+    load: 10
+    peer: fra1-lim1-g2-8k
+  - label: '#1'
+    load: 44
+    peer: COGENT
+  - label: '#1'
+    load: 6
+    peer: ams-1-n7
+  - label: '#1'
+    load: 9
+    peer: fra1-lim1-g2-8k
+  - label: '#1'
+    load: 6
+    peer: ams-1-n7
+  - label: '#8'
+    load: 36
+    peer: ams-5-a9
+  - label: '#1'
+    load: 21
+    peer: SPEED-IX
+  - label: '#1'
+    load: 8
+    peer: LEASEWEB
+  - label: '#1'
+    load: 25
+    peer: rbx-g2-nc5
+  - label: '#1'
+    load: 9
+    peer: UPC
+  - label: '#2'
+    load: 27
+    peer: AMS-IX
+  - label: '#2'
+    load: 9
+    peer: waw-wa2-sbb1-nc5
+  - label: '#1'
+    load: 10
+    peer: fra1-lim1-g2-8k
+  - label: '#7'
+    load: 36
+    peer: ams-5-a9
+  - label: '#1'
+    load: 41
+    peer: NOVOSERVE
+  - label: '#1'
+    load: 14
+    peer: gra-g2-nc5
+  - label: '#1'
+    load: 15
+    peer: WORLDSTREAM
+  - label: '#3'
+    load: 26
+    peer: AMS-IX
+  - label: '#1'
+    load: 9
+    peer: fra1-lim1-g2-8k
+  - label: '#6'
+    load: 35
+    peer: ams-5-a9
+  - label: '#2'
+    load: 13
+    peer: gra-g2-nc5
+  - label: '#1'
+    load: 9
+    peer: waw-wa2-sbb1-nc5
+  - label: '#13'
+    load: 36
+    peer: ams-5-a9
+  - label: '#3'
+    load: 24
+    peer: rbx-g2-nc5
+bru-1-a72:
+  links:
+  - label: '#10'
+    load: 20
+    peer: bru-1-a9
+  - label: '#3'
+    load: 4
+    peer: BICS-TANGO
+  - label: '#4'
+    load: 26
+    peer: bru-1-a9
+  - label: '#6'
+    load: 21
+    peer: bru-1-a9
+  - label: '#11'
+    load: 23
+    peer: bru-1-a9
+  - label: '#2'
+    load: 22
+    peer: bru-1-a9
+  - label: '#1'
+    load: 11
+    peer: BNIX
+  - label: '#7'
+    load: 24
+    peer: bru-1-a9
+  - label: '#5'
+    load: 21
+    peer: bru-1-a9
+  - label: '#4'
+    load: 4
+    peer: BICS-TANGO
+  - label: '#3'
+    load: 20
+    peer: bru-1-a9
+  - label: '#1'
+    load: 7
+    peer: TELENET-UPC
+  - label: '#8'
+    load: 21
+    peer: bru-1-a9
+  - label: '#1'
+    load: 1
+    peer: bru-bru1-bb2-a72
+  - label: '#1'
+    load: 4
+    peer: gra-g2-nc5
+  - label: '#1'
+    load: 3
+    peer: ORANGE.BE
+  - label: '#1'
+    load: 6
+    peer: rbx-g2-nc5
+  - label: '#2'
+    load: 7
+    peer: TELENET-UPC
+  - label: '#1'
+    load: 4
+    peer: BICS-TANGO
+  - label: '#9'
+    load: 20
+    peer: bru-1-a9
+  - label: '#2'
+    load: 4
+    peer: BICS-TANGO
+  - label: '#12'
+    load: 18
+    peer: bru-1-a9
+  - label: '#1'
+    load: 22
+    peer: bru-1-a9
+  - label: '#2'
+    load: 4
+    peer: ORANGE.BE
+bru-1-a9:
+  links:
+  - label: '#10'
+    load: 21
+    peer: bru-1-a72
+  - label: '#4'
+    load: 24
+    peer: bru-1-a72
+  - label: '#6'
+    load: 22
+    peer: bru-1-a72
+  - label: '#11'
+    load: 21
+    peer: bru-1-a72
+  - label: '#2'
+    load: 20
+    peer: bru-1-a72
+  - label: '#7'
+    load: 19
+    peer: bru-1-a72
+  - label: '#5'
+    load: 25
+    peer: bru-1-a72
+  - label: '#3'
+    load: 21
+    peer: bru-1-a72
+  - label: '#8'
+    load: 22
+    peer: bru-1-a72
+  - label: '#9'
+    load: 21
+    peer: bru-1-a72
+  - label: '#12'
+    load: 22
+    peer: bru-1-a72
+  - label: '#1'
+    load: 20
+    peer: bru-1-a72
+bru-bru1-bb2-a72:
+  links:
+  - label: '#4'
+    load: 11
+    peer: bru-bru1-bb2-a9
+  - label: '#2'
+    load: 9
+    peer: bru-bru1-bb2-a9
+  - label: '#9'
+    load: 9
+    peer: bru-bru1-bb2-a9
+  - label: '#3'
+    load: 10
+    peer: bru-bru1-bb2-a9
+  - label: '#1'
+    load: 11
+    peer: TELENET-UPC
+  - label: '#8'
+    load: 8
+    peer: bru-bru1-bb2-a9
+  - label: '#1'
+    load: 5
+    peer: ORANGE.BE
+  - label: '#2'
+    load: 6
+    peer: ORANGE.BE
+  - label: '#1'
+    load: 9
+    peer: bru-bru1-bb2-a9
+  - label: '#1'
+    load: 5
+    peer: bru-1-a72
+  - label: '#12'
+    load: 9
+    peer: bru-bru1-bb2-a9
+  - label: '#6'
+    load: 9
+    peer: bru-bru1-bb2-a9
+  - label: '#2'
+    load: 11
+    peer: TELENET-UPC
+  - label: '#5'
+    load: 14
+    peer: bru-bru1-bb2-a9
+  - label: '#11'
+    load: 9
+    peer: bru-bru1-bb2-a9
+  - label: '#1'
+    load: 2
+    peer: BELGIUM-IX
+  - label: '#7'
+    load: 9
+    peer: bru-bru1-bb2-a9
+  - label: '#10'
+    load: 9
+    peer: bru-bru1-bb2-a9
+  - label: '#1'
+    load: 1
+    peer: rbx-g1-nc5
+  - label: '#1'
+    load: 1
+    peer: gra-g1-nc5
+bru-bru1-bb2-a9:
+  links:
+  - label: '#4'
+    load: 10
+    peer: bru-bru1-bb2-a72
+  - label: '#2'
+    load: 8
+    peer: bru-bru1-bb2-a72
+  - label: '#9'
+    load: 9
+    peer: bru-bru1-bb2-a72
+  - label: '#3'
+    load: 12
+    peer: bru-bru1-bb2-a72
+  - label: '#8'
+    load: 10
+    peer: bru-bru1-bb2-a72
+  - label: '#1'
+    load: 10
+    peer: bru-bru1-bb2-a72
+  - label: '#12'
+    load: 8
+    peer: bru-bru1-bb2-a72
+  - label: '#6'
+    load: 9
+    peer: bru-bru1-bb2-a72
+  - label: '#5'
+    load: 10
+    peer: bru-bru1-bb2-a72
+  - label: '#11'
+    load: 9
+    peer: bru-bru1-bb2-a72
+  - label: '#7'
+    load: 9
+    peer: bru-bru1-bb2-a72
+  - label: '#10'
+    load: 11
+    peer: bru-bru1-bb2-a72
+eur-1-4m:
+  links:
+  - label: '#1'
+    load: 1
+    peer: eur-25a-a71
+  - label: '#2'
+    load: 1
+    peer: rbx-5-a72
+  - label: '#2'
+    load: 1
+    peer: eur-25a-a71
+eur-25a-a71:
+  links:
+  - label: '#1'
+    load: 1
+    peer: eur-1-4m
+  - label: '#2'
+    load: 1
+    peer: eur-1-4m
+fra-fr2-vcabb1-a72:
+  links:
+  - label: '#1'
+    load: 1
+    peer: fra-fr5-pb5-nc5
+fra-fr2-vcabb2-a72:
+  links:
+  - label: '#1'
+    load: 1
+    peer: fra-fr5-pb6-nc5
+fra-fr5-pb1-ptx:
+  links:
+  - label: '#3'
+    load: 17
+    peer: fra-fr5-sbb2-nc5
+  - label: '#1'
+    load: 14
+    peer: CDN77
+  - label: '#2'
+    load: 16
+    peer: fra-fr5-sbb2-nc5
+  - label: '#4'
+    load: 19
+    peer: fra-fr5-sbb2-nc5
+  - label: '#1'
+    load: 11
+    peer: VODAFONE
+  - label: '#1'
+    load: 18
+    peer: fra-fr5-sbb2-nc5
+  - label: '#1'
+    load: 49
+    peer: HETZNER
+  - label: '#3'
+    load: 17
+    peer: fra-fr5-sbb1-nc5
+  - label: '#2'
+    load: 15
+    peer: fra-fr5-sbb1-nc5
+  - label: '#1'
+    load: 49
+    peer: HETZNER
+  - label: '#4'
+    load: 16
+    peer: fra-fr5-sbb1-nc5
+  - label: '#1'
+    load: 11
+    peer: VODAFONE
+  - label: '#1'
+    load: 17
+    peer: fra-fr5-sbb1-nc5
+  - label: '#1'
+    load: 11
+    peer: TELEFONICA
+fra-fr5-pb2-nc5:
+  links:
+  - label: '#5'
+    load: 7
+    peer: fra-fr5-sbb1-nc5
+  - label: '#2'
+    load: 7
+    peer: fra-fr5-sbb2-nc5
+  - label: '#5'
+    load: 7
+    peer: fra-fr5-sbb2-nc5
+  - label: '#1'
+    load: 20
+    peer: OTI
+  - label: '#1'
+    load: 11
+    peer: D-TAG
+  - label: '#7'
+    load: 6
+    peer: fra-fr5-sbb2-nc5
+  - label: '#6'
+    load: 7
+    peer: fra-fr5-sbb1-nc5
+  - label: '#2'
+    load: 22
+    peer: DE-CIX
+  - label: '#8'
+    load: 7
+    peer: fra-fr5-sbb1-nc5
+  - label: '#4'
+    load: 7
+    peer: fra-fr5-sbb1-nc5
+  - label: '#3'
+    load: 6
+    peer: fra-fr5-sbb2-nc5
+  - label: '#2'
+    load: 7
+    peer: fra-fr5-sbb1-nc5
+  - label: '#1'
+    load: 7
+    peer: fra-fr5-sbb2-nc5
+  - label: '#3'
+    load: 22
+    peer: DE-CIX
+  - label: '#8'
+    load: 7
+    peer: fra-fr5-sbb2-nc5
+  - label: '#1'
+    load: 22
+    peer: DE-CIX
+  - label: '#1'
+    load: 15
+    peer: MTS-MTU.RU
+  - label: '#2'
+    load: 10
+    peer: D-TAG
+  - label: '#1'
+    load: 7
+    peer: fra-fr5-sbb1-nc5
+  - label: '#1'
+    load: 22
+    peer: DE-CIX
+  - label: '#3'
+    load: 23
+    peer: DE-CIX
+  - label: '#7'
+    load: 7
+    peer: fra-fr5-sbb1-nc5
+  - label: '#6'
+    load: 6
+    peer: fra-fr5-sbb2-nc5
+  - label: '#3'
+    load: 7
+    peer: fra-fr5-sbb1-nc5
+  - label: '#1'
+    load: 9
+    peer: 1AND1
+  - label: '#1'
+    load: 15
+    peer: MTS-MTU.RU
+  - label: '#4'
+    load: 7
+    peer: fra-fr5-sbb2-nc5
+  - label: '#3'
+    load: 22
+    peer: DE-CIX
+  - label: '#1'
+    load: 6
+    peer: ZAIN
+fra-fr5-pb3-nc5:
+  links:
+  - label: '#4'
+    load: 4
+    peer: fra-fr5-sbb1-nc5
+  - label: '#4'
+    load: 4
+    peer: fra-fr5-sbb2-nc5
+  - label: '#7'
+    load: 4
+    peer: fra-fr5-sbb2-nc5
+  - label: '#6'
+    load: 4
+    peer: fra-fr5-sbb2-nc5
+  - label: '#8'
+    load: 5
+    peer: fra-fr5-sbb1-nc5
+  - label: '#5'
+    load: 4
+    peer: fra-fr5-sbb2-nc5
+  - label: '#5'
+    load: 4
+    peer: fra-fr5-sbb1-nc5
+  - label: '#6'
+    load: 5
+    peer: fra-fr5-sbb1-nc5
+  - label: '#1'
+    load: 10
+    peer: OTEGLOBE
+  - label: '#1'
+    load: 5
+    peer: fra-fr5-sbb2-nc5
+  - label: '#3'
+    load: 24
+    peer: DE-CIX
+  - label: '#1'
+    load: 12
+    peer: DTAG
+  - label: '#1'
+    load: 12
+    peer: DTAG
+  - label: '#7'
+    load: 4
+    peer: fra-fr5-sbb1-nc5
+  - label: '#2'
+    load: 4
+    peer: fra-fr5-sbb1-nc5
+  - label: '#8'
+    load: 4
+    peer: fra-fr5-sbb2-nc5
+  - label: '#1'
+    load: 26
+    peer: DE-CIX
+  - label: '#3'
+    load: 24
+    peer: DE-CIX
+  - label: '#3'
+    load: 5
+    peer: fra-fr5-sbb1-nc5
+  - label: '#2'
+    load: 25
+    peer: DE-CIX
+  - label: '#1'
+    load: 18
+    peer: CLOUDFLARE
+  - label: '#1'
+    load: 14
+    peer: GOOGLE
+  - label: '#1'
+    load: 4
+    peer: fra-fr5-sbb1-nc5
+  - label: '#2'
+    load: 4
+    peer: fra-fr5-sbb2-nc5
+  - label: '#2'
+    load: 24
+    peer: DE-CIX
+  - label: '#1'
+    load: 24
+    peer: DE-CIX
+  - label: '#3'
+    load: 5
+    peer: fra-fr5-sbb2-nc5
+fra-fr5-pb4-nc5:
+  links:
+  - label: '#1'
+    load: 33
+    peer: M247.RO
+  - label: '#2'
+    load: 1
+    peer: SEABONE
+  - label: '#1'
+    load: 13
+    peer: fra-fr5-sbb1-nc5
+  - label: '#1'
+    load: 14
+    peer: fra-fr5-sbb2-nc5
+  - label: '#1'
+    load: 51
+    peer: HETZNER
+  - label: '#2'
+    load: 14
+    peer: fra-fr5-sbb1-nc5
+  - label: '#1'
+    load: 48
+    peer: HETZNER
+  - label: '#1'
+    load: 1
+    peer: UPC
+  - label: '#1'
+    load: 24
+    peer: TELIA
+  - label: '#1'
+    load: 9
+    peer: NETIX
+  - label: '#1'
+    load: 1
+    peer: SEABONE
+  - label: '#4'
+    load: 13
+    peer: fra-fr5-sbb2-nc5
+  - label: '#2'
+    load: 35
+    peer: M247.RO
+  - label: '#2'
+    load: 1
+    peer: UPC
+  - label: '#3'
+    load: 13
+    peer: fra-fr5-sbb2-nc5
+  - label: '#2'
+    load: 14
+    peer: fra-fr5-sbb2-nc5
+  - label: '#1'
+    load: 14
+    peer: fra-fr5-sbb1-nc5
+  - label: '#1'
+    load: 1
+    peer: SEABONE
+  - label: '#2'
+    load: 13
+    peer: fra-fr5-sbb1-nc5
+  - label: '#2'
+    load: 1
+    peer: SEABONE
+fra-fr5-pb5-nc5:
+  links:
+  - label: '#4'
+    load: 9
+    peer: fra-fr5-sbb1-nc5
+  - label: '#1'
+    load: 28
+    peer: CORE-BACKBONE
+  - label: '#3'
+    load: 9
+    peer: fra-fr5-sbb1-nc5
+  - label: '#1'
+    load: 2
+    peer: CLOUVIDER
+  - label: '#1'
+    load: 33
+    peer: DATA-IX
+  - label: '#1'
+    load: 33
+    peer: DATA-IX
+  - label: '#1'
+    load: 20
+    peer: LEVEL3
+  - label: '#1'
+    load: 10
+    peer: fra-fr5-sbb1-nc5
+  - label: '#1'
+    load: 1
+    peer: fra-fr5-vcoagg1-n92
+  - label: '#1'
+    load: 1
+    peer: fra-fr2-vcabb1-a72
+  - label: '#2'
+    load: 9
+    peer: fra-fr5-sbb2-nc5
+  - label: '#2'
+    load: 30
+    peer: VIMPELCOM
+  - label: '#1'
+    load: 29
+    peer: VIMPELCOM
+  - label: '#3'
+    load: 9
+    peer: fra-fr5-sbb2-nc5
+  - label: '#3'
+    load: 29
+    peer: VIMPELCOM
+  - label: '#4'
+    load: 29
+    peer: VIMPELCOM
+  - label: '#2'
+    load: 10
+    peer: fra-fr5-sbb1-nc5
+  - label: '#4'
+    load: 9
+    peer: fra-fr5-sbb2-nc5
+  - label: '#1'
+    load: 10
+    peer: fra-fr5-sbb2-nc5
+fra-fr5-pb6-nc5:
+  links:
+  - label: '#1'
+    load: 24
+    peer: TELIA
+  - label: '#1'
+    load: 1
+    peer: fra-fr5-sbb1-nc5
+  - label: '#2'
+    load: 1
+    peer: fra-fr5-sbb2-nc5
+  - label: '#1'
+    load: 38
+    peer: OMANTEL
+  - label: '#4'
+    load: 1
+    peer: fra-fr5-sbb2-nc5
+  - label: '#1'
+    load: 11
+    peer: VODAFONE
+  - label: '#4'
+    load: 36
+    peer: OMANTEL
+  - label: '#2'
+    load: 1
+    peer: fra-fr5-sbb1-nc5
+  - label: '#1'
+    load: 1
+    peer: fra-fr5-sbb2-nc5
+  - label: '#2'
+    load: 1
+    peer: fra-fr5-sbb1-nc5
+  - label: '#3'
+    load: 34
+    peer: OMANTEL
+  - label: '#1'
+    load: 1
+    peer: fra-fr5-vcoagg2-n92
+  - label: '#3'
+    load: 1
+    peer: fra-fr5-sbb2-nc5
+  - label: '#2'
+    load: 32
+    peer: OMANTEL
+  - label: '#1'
+    load: 1
+    peer: fra-fr5-sbb1-nc5
+  - label: '#1'
+    load: 1
+    peer: fra-fr2-vcabb2-a72
+  - label: '#1'
+    load: 11
+    peer: VODAFONE
+fra-fr5-sbb1-nc5:
+  links:
+  - label: '#4'
+    load: 14
+    peer: fra-fr5-pb3-nc5
+  - label: '#4'
+    load: 16
+    peer: fra-fr5-pb5-nc5
+  - label: '#2'
+    load: 20
+    peer: waw-wa2-sbb1-nc5
+  - label: '#5'
+    load: 14
+    peer: fra-fr5-pb2-nc5
+  - label: '#1'
+    load: 26
+    peer: rbx-g3-nc5
+  - label: '#7'
+    load: 1
+    peer: fra-fr5-sbb2-nc5
+  - label: '#2'
+    load: 12
+    peer: fra1-lim1-g1-8k
+  - label: '#4'
+    load: 1
+    peer: fra-fr5-sbb2-nc5
+  - label: '#1'
+    load: 27
+    peer: rbx-g1-nc5
+  - label: '#2'
+    load: 13
+    peer: fra1-lim1-g1-8k
+  - label: '#7'
+    load: 22
+    peer: sbg-g3-nc5
+  - label: '#5'
+    load: 1
+    peer: fra-fr5-sbb2-nc5
+  - label: '#1'
+    load: 20
+    peer: waw-wa2-sbb1-nc5
+  - label: '#1'
+    load: 26
+    peer: rbx-g1-nc5
+  - label: '#1'
+    load: 22
+    peer: sbg-g3-nc5
+  - label: '#6'
+    load: 1
+    peer: fra-fr5-sbb2-nc5
+  - label: '#6'
+    load: 1
+    peer: fra-fr5-sbb2-nc5
+  - label: '#8'
+    load: 13
+    peer: fra-fr5-pb3-nc5
+  - label: '#1'
+    load: 7
+    peer: fra-fr5-pb6-nc5
+  - label: '#2'
+    load: 13
+    peer: fra1-lim1-g1-8k
+  - label: '#6'
+    load: 14
+    peer: fra-fr5-pb2-nc5
+  - label: '#3'
+    load: 22
+    peer: sbg-g3-nc5
+  - label: '#5'
+    load: 13
+    peer: fra-fr5-pb3-nc5
+  - label: '#3'
+    load: 16
+    peer: fra-fr5-pb5-nc5
+  - label: '#1'
+    load: 25
+    peer: rbx-g3-nc5
+  - label: '#7'
+    load: 14
+    peer: fra-fr5-pb2-nc5
+  - label: '#8'
+    load: 22
+    peer: sbg-g3-nc5
+  - label: '#1'
+    load: 1
+    peer: lej1-bir1-d1-a72
+  - label: '#4'
+    load: 14
+    peer: fra-fr5-pb2-nc5
+  - label: '#1'
+    load: 26
+    peer: rbx-g1-nc5
+  - label: '#6'
+    load: 13
+    peer: fra-fr5-pb3-nc5
+  - label: '#3'
+    load: 9
+    peer: gra-g1-nc5
+  - label: '#2'
+    load: 14
+    peer: fra-fr5-pb2-nc5
+  - label: '#2'
+    load: 12
+    peer: fra1-lim1-g1-8k
+  - label: '#8'
+    load: 1
+    peer: fra-fr5-sbb2-nc5
+  - label: '#2'
+    load: 12
+    peer: fra1-lim1-g1-8k
+  - label: '#3'
+    load: 1
+    peer: fra-fr5-sbb2-nc5
+  - label: '#1'
+    load: 18
+    peer: fra-fr5-pb4-nc5
+  - label: '#2'
+    load: 13
+    peer: fra1-lim1-g1-8k
+  - label: '#3'
+    load: 22
+    peer: sbg-g3-nc5
+  - label: '#7'
+    load: 13
+    peer: fra-fr5-pb3-nc5
+  - label: '#1'
+    load: 27
+    peer: rbx-g3-nc5
+  - label: '#4'
+    load: 1
+    peer: fra-fr5-sbb2-nc5
+  - label: '#2'
+    load: 17
+    peer: fra-fr5-pb4-nc5
+  - label: '#2'
+    load: 12
+    peer: fra1-lim1-g1-8k
+  - label: '#2'
+    load: 0
+    peer: waw-wa2-sbb1-nc5
+  - label: '#2'
+    load: 13
+    peer: fra-fr5-pb3-nc5
+  - label: '#1'
+    load: 25
+    peer: rbx-g3-nc5
+  - label: '#3'
+    load: 1
+    peer: fra-fr5-sbb2-nc5
+  - label: '#2'
+    load: 9
+    peer: gra-g1-nc5
+  - label: '#1'
+    load: 20
+    peer: waw-wa2-sbb1-nc5
+  - label: '#1'
+    load: 0
+    peer: waw-wa2-sbb1-nc5
+  - label: '#2'
+    load: 1
+    peer: fra-fr5-sbb2-nc5
+  - label: '#1'
+    load: 8
+    peer: gra-g1-nc5
+  - label: '#1'
+    load: 16
+    peer: fra-fr5-pb5-nc5
+  - label: '#2'
+    load: 13
+    peer: fra1-lim1-g1-8k
+  - label: '#3'
+    load: 13
+    peer: fra-fr5-pb3-nc5
+  - label: '#5'
+    load: 1
+    peer: fra-fr5-sbb2-nc5
+  - label: '#2'
+    load: 12
+    peer: fra1-lim1-g1-8k
+  - label: '#3'
+    load: 19
+    peer: fra-fr5-pb1-ptx
+  - label: '#1'
+    load: 11
+    peer: vie-vie2-sbb1-8k
+  - label: '#2'
+    load: 13
+    peer: fra1-lim1-g1-8k
+  - label: '#1'
+    load: 1
+    peer: fra-fr5-sbb2-nc5
+  - label: '#1'
+    load: 14
+    peer: fra-fr5-pb2-nc5
+  - label: '#3'
+    load: 9
+    peer: gra-g1-nc5
+  - label: '#2'
+    load: 8
+    peer: fra-fr5-pb6-nc5
+  - label: '#1'
+    load: 12
+    peer: vie-vie2-sbb1-8k
+  - label: '#2'
+    load: 13
+    peer: fra1-lim1-g1-8k
+  - label: '#2'
+    load: 18
+    peer: fra-fr5-pb1-ptx
+  - label: '#2'
+    load: 13
+    peer: fra1-lim1-g1-8k
+  - label: '#2'
+    load: 7
+    peer: fra-fr5-pb6-nc5
+  - label: '#1'
+    load: 10
+    peer: zrh-zh2-bb1-a72
+  - label: '#1'
+    load: 1
+    peer: fra-fr5-sbb2-nc5
+  - label: '#1'
+    load: 25
+    peer: rbx-g3-nc5
+  - label: '#1'
+    load: 19
+    peer: fra-fr5-pb4-nc5
+  - label: '#4'
+    load: 18
+    peer: fra-fr5-pb1-ptx
+  - label: '#7'
+    load: 14
+    peer: fra-fr5-pb2-nc5
+  - label: '#7'
+    load: 1
+    peer: fra-fr5-sbb2-nc5
+  - label: '#2'
+    load: 25
+    peer: sbg-g3-nc5
+  - label: '#2'
+    load: 13
+    peer: fra1-lim1-g1-8k
+  - label: '#2'
+    load: 18
+    peer: fra-fr5-pb4-nc5
+  - label: '#2'
+    load: 18
+    peer: waw-wa2-sbb1-nc5
+  - label: '#3'
+    load: 14
+    peer: fra-fr5-pb2-nc5
+  - label: '#2'
+    load: 13
+    peer: fra1-lim1-g1-8k
+  - label: '#1'
+    load: 18
+    peer: fra-fr5-pb1-ptx
+  - label: '#5'
+    load: 22
+    peer: sbg-g3-nc5
+  - label: '#1'
+    load: 13
+    peer: fra-fr5-pb3-nc5
+  - label: '#8'
+    load: 1
+    peer: fra-fr5-sbb2-nc5
+  - label: '#2'
+    load: 1
+    peer: fra-fr5-sbb2-nc5
+  - label: '#4'
+    load: 1
+    peer: waw-wa2-sbb1-nc5
+  - label: '#1'
+    load: 8
+    peer: fra-fr5-pb6-nc5
+  - label: '#1'
+    load: 28
+    peer: rbx-g1-nc5
+  - label: '#6'
+    load: 23
+    peer: sbg-g3-nc5
+  - label: '#2'
+    load: 12
+    peer: fra1-lim1-g1-8k
+  - label: '#2'
+    load: 17
+    peer: fra-fr5-pb5-nc5
+  - label: '#2'
+    load: 8
+    peer: gra-g1-nc5
+  - label: '#3'
+    load: 1
+    peer: waw-wa2-sbb1-nc5
+fra-fr5-sbb2-nc5:
+  links:
+  - label: '#2'
+    load: 13
+    peer: fra1-lim1-g2-8k
+  - label: '#1'
+    load: 26
+    peer: rbx-g4-nc5
+  - label: '#2'
+    load: 14
+    peer: fra-fr5-pb2-nc5
+  - label: '#5'
+    load: 14
+    peer: fra-fr5-pb2-nc5
+  - label: '#4'
+    load: 13
+    peer: fra-fr5-pb3-nc5
+  - label: '#7'
+    load: 13
+    peer: fra-fr5-pb3-nc5
+  - label: '#7'
+    load: 1
+    peer: fra-fr5-sbb1-nc5
+  - label: '#4'
+    load: 1
+    peer: fra-fr5-sbb1-nc5
+  - label: '#2'
+    load: 12
+    peer: fra1-lim1-g2-8k
+  - label: '#5'
+    load: 1
+    peer: fra-fr5-sbb1-nc5
+  - label: '#6'
+    load: 22
+    peer: sbg-g2-nc5
+  - label: '#3'
+    load: 18
+    peer: fra-fr5-pb1-ptx
+  - label: '#7'
+    load: 14
+    peer: fra-fr5-pb2-nc5
+  - label: '#6'
+    load: 13
+    peer: fra-fr5-pb3-nc5
+  - label: '#6'
+    load: 1
+    peer: fra-fr5-sbb1-nc5
+  - label: '#6'
+    load: 1
+    peer: fra-fr5-sbb1-nc5
+  - label: '#3'
+    load: 22
+    peer: sbg-g2-nc5
+  - label: '#5'
+    load: 13
+    peer: fra-fr5-pb3-nc5
+  - label: '#2'
+    load: 13
+    peer: fra1-lim1-g2-8k
+  - label: '#2'
+    load: 15
+    peer: fra1-lim1-g2-8k
+  - label: '#1'
+    load: 25
+    peer: rbx-g2-nc5
+  - label: '#1'
+    load: 9
+    peer: gra-g2-nc5
+  - label: '#2'
+    load: 7
+    peer: fra-fr5-pb6-nc5
+  - label: '#2'
+    load: 25
+    peer: sbg-g2-nc5
+  - label: '#4'
+    load: 20
+    peer: waw-atm-sbb1-nc5
+  - label: '#1'
+    load: 8
+    peer: gra-g2-nc5
+  - label: '#3'
+    load: 14
+    peer: fra-fr5-pb2-nc5
+  - label: '#2'
+    load: 14
+    peer: fra1-lim1-g2-8k
+  - label: '#2'
+    load: 19
+    peer: fra-fr5-pb1-ptx
+  - label: '#4'
+    load: 18
+    peer: fra-fr5-pb1-ptx
+  - label: '#2'
+    load: 13
+    peer: fra1-lim1-g2-8k
+  - label: '#1'
+    load: 13
+    peer: fra-fr5-pb3-nc5
+  - label: '#8'
+    load: 1
+    peer: fra-fr5-sbb1-nc5
+  - label: '#3'
+    load: 1
+    peer: fra-fr5-sbb1-nc5
+  - label: '#1'
+    load: 17
+    peer: fra-fr5-pb4-nc5
+  - label: '#7'
+    load: 23
+    peer: sbg-g2-nc5
+  - label: '#4'
+    load: 1
+    peer: fra-fr5-sbb1-nc5
+  - label: '#2'
+    load: 13
+    peer: fra1-lim1-g2-8k
+  - label: '#1'
+    load: 26
+    peer: rbx-g2-nc5
+  - label: '#1'
+    load: 14
+    peer: fra-fr5-pb2-nc5
+  - label: '#1'
+    load: 10
+    peer: gra-g2-nc5
+  - label: '#2'
+    load: 12
+    peer: fra1-lim1-g2-8k
+  - label: '#8'
+    load: 13
+    peer: fra-fr5-pb3-nc5
+  - label: '#1'
+    load: 8
+    peer: gra-g2-nc5
+  - label: '#8'
+    load: 14
+    peer: fra-fr5-pb2-nc5
+  - label: '#1'
+    load: 11
+    peer: vie-vie2-sbb1-8k
+  - label: '#2'
+    load: 12
+    peer: vie-vie2-sbb1-8k
+  - label: '#8'
+    load: 22
+    peer: sbg-g2-nc5
+  - label: '#1'
+    load: 19
+    peer: fra-fr5-pb1-ptx
+  - label: '#3'
+    load: 1
+    peer: fra-fr5-sbb1-nc5
+  - label: '#1'
+    load: 27
+    peer: rbx-g2-nc5
+  - label: '#1'
+    load: 8
+    peer: gra-g2-nc5
+  - label: '#2'
+    load: 1
+    peer: fra-fr5-sbb1-nc5
+  - label: '#4'
+    load: 7
+    peer: fra-fr5-pb6-nc5
+  - label: '#5'
+    load: 1
+    peer: fra-fr5-sbb1-nc5
+  - label: '#2'
+    load: 13
+    peer: fra1-lim1-g2-8k
+  - label: '#3'
+    load: 23
+    peer: sbg-g2-nc5
+  - label: '#4'
+    load: 17
+    peer: fra-fr5-pb4-nc5
+  - label: '#2'
+    load: 16
+    peer: fra-fr5-pb5-nc5
+  - label: '#2'
+    load: 13
+    peer: fra1-lim1-g2-8k
+  - label: '#1'
+    load: 1
+    peer: fra-fr5-sbb1-nc5
+  - label: '#1'
+    load: 28
+    peer: rbx-g2-nc5
+  - label: '#1'
+    load: 8
+    peer: fra-fr5-pb6-nc5
+  - label: '#1'
+    load: 25
+    peer: rbx-g4-nc5
+  - label: '#1'
+    load: 23
+    peer: sbg-g2-nc5
+  - label: '#3'
+    load: 18
+    peer: fra-fr5-pb4-nc5
+  - label: '#1'
+    load: 1
+    peer: fra-fr5-sbb1-nc5
+  - label: '#2'
+    load: 17
+    peer: fra-fr5-pb4-nc5
+  - label: '#2'
+    load: 13
+    peer: fra1-lim1-g2-8k
+  - label: '#1'
+    load: 26
+    peer: rbx-g4-nc5
+  - label: '#1'
+    load: 24
+    peer: rbx-g4-nc5
+  - label: '#2'
+    load: 20
+    peer: waw-atm-sbb1-nc5
+  - label: '#7'
+    load: 1
+    peer: fra-fr5-sbb1-nc5
+  - label: '#3'
+    load: 20
+    peer: waw-atm-sbb1-nc5
+  - label: '#1'
+    load: 30
+    peer: rbx-g2-nc5
+  - label: '#6'
+    load: 14
+    peer: fra-fr5-pb2-nc5
+  - label: '#5'
+    load: 22
+    peer: sbg-g2-nc5
+  - label: '#3'
+    load: 8
+    peer: fra-fr5-pb6-nc5
+  - label: '#3'
+    load: 16
+    peer: fra-fr5-pb5-nc5
+  - label: '#2'
+    load: 13
+    peer: fra1-lim1-g2-8k
+  - label: '#2'
+    load: 13
+    peer: fra1-lim1-g2-8k
+  - label: '#1'
+    load: 25
+    peer: rbx-g4-nc5
+  - label: '#2'
+    load: 13
+    peer: fra-fr5-pb3-nc5
+  - label: '#4'
+    load: 14
+    peer: fra-fr5-pb2-nc5
+  - label: '#2'
+    load: 12
+    peer: fra1-lim1-g2-8k
+  - label: '#8'
+    load: 1
+    peer: fra-fr5-sbb1-nc5
+  - label: '#1'
+    load: 19
+    peer: waw-atm-sbb1-nc5
+  - label: '#2'
+    load: 1
+    peer: fra-fr5-sbb1-nc5
+  - label: '#2'
+    load: 13
+    peer: fra1-lim1-g2-8k
+  - label: '#1'
+    load: 1
+    peer: lej1-bir1-d2-a72
+  - label: '#3'
+    load: 13
+    peer: fra-fr5-pb3-nc5
+  - label: '#4'
+    load: 16
+    peer: fra-fr5-pb5-nc5
+  - label: '#1'
+    load: 16
+    peer: fra-fr5-pb5-nc5
+fra-fr5-vcoagg1-n92:
+  links:
+  - label: '#1'
+    load: 1
+    peer: fra-fr5-pb5-nc5
+fra-fr5-vcoagg2-n92:
+  links:
+  - label: '#1'
+    load: 1
+    peer: fra-fr5-pb6-nc5
+fra1-lim1-g1-8k:
+  links:
+  - label: '#2'
+    load: 20
+    peer: fra-fr5-sbb1-nc5
+  - label: '#2'
+    load: 19
+    peer: fra-fr5-sbb1-nc5
+  - label: '#2'
+    load: 20
+    peer: fra-fr5-sbb1-nc5
+  - label: '#4'
+    load: 9
+    peer: ams-1-n7
+  - label: '#2'
+    load: 19
+    peer: fra-fr5-sbb1-nc5
+  - label: '#2'
+    load: 19
+    peer: fra-fr5-sbb1-nc5
+  - label: '#2'
+    load: 18
+    peer: fra-fr5-sbb1-nc5
+  - label: '#2'
+    load: 19
+    peer: fra-fr5-sbb1-nc5
+  - label: '#4'
+    load: 1
+    peer: fra1-lim1-g2-8k
+  - label: '#2'
+    load: 19
+    peer: fra-fr5-sbb1-nc5
+  - label: '#2'
+    load: 20
+    peer: fra-fr5-sbb1-nc5
+  - label: '#2'
+    load: 19
+    peer: fra-fr5-sbb1-nc5
+  - label: '#4'
+    load: 9
+    peer: ams-1-n7
+  - label: '#2'
+    load: 19
+    peer: fra-fr5-sbb1-nc5
+  - label: '#4'
+    load: 1
+    peer: fra1-lim1-g2-8k
+  - label: '#2'
+    load: 19
+    peer: fra-fr5-sbb1-nc5
+  - label: '#4'
+    load: 9
+    peer: ams-1-n7
+  - label: '#4'
+    load: 9
+    peer: ams-1-n7
+  - label: '#2'
+    load: 19
+    peer: fra-fr5-sbb1-nc5
+  - label: '#2'
+    load: 19
+    peer: fra-fr5-sbb1-nc5
+  - label: '#4'
+    load: 8
+    peer: ams-1-n7
+  - label: '#2'
+    load: 19
+    peer: fra-fr5-sbb1-nc5
+fra1-lim1-g2-8k:
+  links:
+  - label: '#2'
+    load: 19
+    peer: fra-fr5-sbb2-nc5
+  - label: '#4'
+    load: 9
+    peer: ams-5-n7
+  - label: '#2'
+    load: 20
+    peer: fra-fr5-sbb2-nc5
+  - label: '#2'
+    load: 20
+    peer: fra-fr5-sbb2-nc5
+  - label: '#2'
+    load: 20
+    peer: fra-fr5-sbb2-nc5
+  - label: '#2'
+    load: 19
+    peer: fra-fr5-sbb2-nc5
+  - label: '#2'
+    load: 19
+    peer: fra-fr5-sbb2-nc5
+  - label: '#2'
+    load: 19
+    peer: fra-fr5-sbb2-nc5
+  - label: '#1'
+    load: 1
+    peer: fra1-lim1-g1-8k
+  - label: '#2'
+    load: 19
+    peer: fra-fr5-sbb2-nc5
+  - label: '#4'
+    load: 8
+    peer: ams-5-n7
+  - label: '#2'
+    load: 20
+    peer: fra-fr5-sbb2-nc5
+  - label: '#4'
+    load: 8
+    peer: ams-5-n7
+  - label: '#2'
+    load: 19
+    peer: fra-fr5-sbb2-nc5
+  - label: '#1'
+    load: 1
+    peer: fra1-lim1-g1-8k
+  - label: '#2'
+    load: 19
+    peer: fra-fr5-sbb2-nc5
+  - label: '#4'
+    load: 8
+    peer: ams-5-n7
+  - label: '#2'
+    load: 20
+    peer: fra-fr5-sbb2-nc5
+  - label: '#2'
+    load: 21
+    peer: fra-fr5-sbb2-nc5
+  - label: '#4'
+    load: 9
+    peer: ams-5-n7
+  - label: '#2'
+    load: 19
+    peer: fra-fr5-sbb2-nc5
+  - label: '#2'
+    load: 18
+    peer: fra-fr5-sbb2-nc5
+gra-g1-nc5:
+  links:
+  - label: '#6'
+    load: 17
+    peer: lon-thw-sbb1-nc5
+  - label: '#1'
+    load: 1
+    peer: gra-g2-nc5
+  - label: '#2'
+    load: 16
+    peer: lon-thw-sbb1-nc5
+  - label: '#3'
+    load: 23
+    peer: par-gsw-sbb1-nc5
+  - label: '#1'
+    load: 1
+    peer: gra-g2-nc5
+  - label: '#2'
+    load: 1
+    peer: gra-g2-nc5
+  - label: '#5'
+    load: 17
+    peer: lon-thw-sbb1-nc5
+  - label: '#2'
+    load: 1
+    peer: gra-g2-nc5
+  - label: '#2'
+    load: 22
+    peer: par-gsw-sbb1-nc5
+  - label: '#1'
+    load: 16
+    peer: ams-1-n7
+  - label: '#4'
+    load: 16
+    peer: lon-thw-sbb1-nc5
+  - label: '#3'
+    load: 15
+    peer: fra-fr5-sbb1-nc5
+  - label: '#4'
+    load: 22
+    peer: par-gsw-sbb1-nc5
+  - label: '#4'
+    load: 21
+    peer: par-gsw-sbb1-nc5
+  - label: '#3'
+    load: 17
+    peer: lon-thw-sbb1-nc5
+  - label: '#3'
+    load: 15
+    peer: ams-1-n7
+  - label: '#1'
+    load: 15
+    peer: ams-1-n7
+  - label: '#2'
+    load: 15
+    peer: fra-fr5-sbb1-nc5
+  - label: '#2'
+    load: 22
+    peer: par-gsw-sbb1-nc5
+  - label: '#1'
+    load: 14
+    peer: fra-fr5-sbb1-nc5
+  - label: '#1'
+    load: 1
+    peer: gra-g2-nc5
+  - label: '#3'
+    load: 14
+    peer: fra-fr5-sbb1-nc5
+  - label: '#3'
+    load: 16
+    peer: lon-thw-sbb1-nc5
+  - label: '#1'
+    load: 21
+    peer: par-gsw-sbb1-nc5
+  - label: '#2'
+    load: 16
+    peer: ams-1-n7
+  - label: '#1'
+    load: 22
+    peer: par-gsw-sbb1-nc5
+  - label: '#3'
+    load: 21
+    peer: par-gsw-sbb1-nc5
+  - label: '#2'
+    load: 1
+    peer: gra-g2-nc5
+  - label: '#2'
+    load: 16
+    peer: fra-fr5-sbb1-nc5
+  - label: '#1'
+    load: 4
+    peer: bru-bru1-bb2-a72
+gra-g2-nc5:
+  links:
+  - label: '#3'
+    load: 19
+    peer: par-th2-sbb1-nc5
+  - label: '#1'
+    load: 2
+    peer: gra-g1-nc5
+  - label: '#1'
+    load: 2
+    peer: gra-g1-nc5
+  - label: '#2'
+    load: 2
+    peer: gra-g1-nc5
+  - label: '#2'
+    load: 2
+    peer: gra-g1-nc5
+  - label: '#1'
+    load: 20
+    peer: par-th2-sbb1-nc5
+  - label: '#1'
+    load: 14
+    peer: fra-fr5-sbb2-nc5
+  - label: '#1'
+    load: 15
+    peer: fra-fr5-sbb2-nc5
+  - label: '#3'
+    load: 17
+    peer: lon-drch-sbb1-nc5
+  - label: '#3'
+    load: 14
+    peer: ams-5-n7
+  - label: '#1'
+    load: 15
+    peer: ams-5-n7
+  - label: '#1'
+    load: 19
+    peer: par-th2-sbb1-nc5
+  - label: '#1'
+    load: 15
+    peer: fra-fr5-sbb2-nc5
+  - label: '#2'
+    load: 19
+    peer: par-th2-sbb1-nc5
+  - label: '#1'
+    load: 15
+    peer: fra-fr5-sbb2-nc5
+  - label: '#3'
+    load: 19
+    peer: par-th2-sbb1-nc5
+  - label: '#5'
+    load: 16
+    peer: lon-drch-sbb1-nc5
+  - label: '#2'
+    load: 20
+    peer: par-th2-sbb1-nc5
+  - label: '#6'
+    load: 16
+    peer: lon-drch-sbb1-nc5
+  - label: '#1'
+    load: 15
+    peer: fra-fr5-sbb2-nc5
+  - label: '#1'
+    load: 2
+    peer: gra-g1-nc5
+  - label: '#1'
+    load: 4
+    peer: bru-1-a72
+  - label: '#1'
+    load: 19
+    peer: par-th2-sbb1-nc5
+  - label: '#1'
+    load: 16
+    peer: ams-5-n7
+  - label: '#2'
+    load: 17
+    peer: lon-drch-sbb1-nc5
+  - label: '#2'
+    load: 14
+    peer: ams-5-n7
+  - label: '#1'
+    load: 20
+    peer: par-th2-sbb1-nc5
+  - label: '#3'
+    load: 17
+    peer: lon-drch-sbb1-nc5
+  - label: '#1'
+    load: 17
+    peer: lon-drch-sbb1-nc5
+  - label: '#2'
+    load: 2
+    peer: gra-g1-nc5
+gsw-25a-ast:
+  links:
+  - label: '#1'
+    load: 1
+    peer: par-gsw-pb1-nc5
+gsw-25b-ast:
+  links:
+  - label: '#1'
+    load: 1
+    peer: par-gsw-pb3-nc5
+gsw-26-a71:
+  links:
+  - label: '#1'
+    load: 1
+    peer: par-gsw-pb3-nc5
+gsw-dsl1a-n93:
+  links:
+  - label: '#1'
+    load: 1
+    peer: par-gsw-pb1-nc5
+  - label: '#1'
+    load: 1
+    peer: par-gsw-pb2-nc5
+gsw-dsl2-n93:
+  links:
+  - label: '#1'
+    load: 1
+    peer: par-gsw-pb1-nc5
+  - label: '#1'
+    load: 2
+    peer: par-gsw-pb2-nc5
+gsw-housing1-n93:
+  links:
+  - label: '#1'
+    load: 1
+    peer: par-gsw-pb1-nc5
+gsw-housing2-n93:
+  links:
+  - label: '#1'
+    load: 1
+    peer: par-gsw-pb2-nc5
+lej1-bir1-d1-a72:
+  links:
+  - label: '#1'
+    load: 1
+    peer: fra-fr5-sbb1-nc5
+  - label: '#1'
+    load: 1
+    peer: lej1-bir1-d2-a72
+  - label: '#1'
+    load: 0
+    peer: lej1-bir1-d2-a72
+lej1-bir1-d2-a72:
+  links:
+  - label: '#1'
+    load: 1
+    peer: lej1-bir1-d1-a72
+  - label: '#1'
+    load: 0
+    peer: lej1-bir1-d1-a72
+  - label: '#1'
+    load: 1
+    peer: fra-fr5-sbb2-nc5
+lon-drch-pb1-nc5:
+  links:
+  - label: '#1'
+    load: 17
+    peer: TELIA
+  - label: '#1'
+    load: 5
+    peer: lon-drch-sbb1-nc5
+  - label: '#1'
+    load: 6
+    peer: lon-drch-sbb1-nc5
+  - label: '#1'
+    load: 6
+    peer: GOOGLE
+lon-drch-sbb1-nc5:
+  links:
+  - label: '#1'
+    load: 13
+    peer: lon1-eri1-g2-nc5
+  - label: '#2'
+    load: 24
+    peer: rbx-g2-nc5
+  - label: '#1'
+    load: 1
+    peer: lon-thw-sbb1-nc5
+  - label: '#1'
+    load: 0
+    peer: nwk-5-n7
+  - label: '#10'
+    load: 22
+    peer: rbx-g2-nc5
+  - label: '#1'
+    load: 14
+    peer: lon1-eri1-g2-nc5
+  - label: '#1'
+    load: 12
+    peer: lon1-eri1-g2-nc5
+  - label: '#1'
+    load: 1
+    peer: lon-thw-sbb1-nc5
+  - label: '#1'
+    load: 13
+    peer: lon1-eri1-g2-nc5
+  - label: '#4'
+    load: 6
+    peer: gra-g2-nc5
+  - label: '#9'
+    load: 23
+    peer: rbx-g2-nc5
+  - label: '#7'
+    load: 43
+    peer: nwk-5-n7
+  - label: '#1'
+    load: 4
+    peer: lon-drch-pb1-nc5
+  - label: '#3'
+    load: 42
+    peer: nwk-5-n7
+  - label: '#1'
+    load: 1
+    peer: lon-thw-sbb1-nc5
+  - label: '#2'
+    load: 42
+    peer: nwk-5-n7
+  - label: '#1'
+    load: 22
+    peer: rbx-g4-nc5
+  - label: '#8'
+    load: 22
+    peer: rbx-g4-nc5
+  - label: '#1'
+    load: 1
+    peer: lon-thw-sbb1-nc5
+  - label: '#1'
+    load: 14
+    peer: lon1-eri1-g2-nc5
+  - label: '#1'
+    load: 1
+    peer: lon-thw-sbb1-nc5
+  - label: '#1'
+    load: 1
+    peer: lon-thw-sbb1-nc5
+  - label: '#5'
+    load: 6
+    peer: gra-g2-nc5
+  - label: '#7'
+    load: 21
+    peer: rbx-g2-nc5
+  - label: '#6'
+    load: 6
+    peer: gra-g2-nc5
+  - label: '#1'
+    load: 4
+    peer: lon-drch-pb1-nc5
+  - label: '#4'
+    load: 41
+    peer: nwk-5-n7
+  - label: '#1'
+    load: 1
+    peer: lon-thw-sbb1-nc5
+  - label: '#6'
+    load: 42
+    peer: nwk-5-n7
+  - label: '#4'
+    load: 21
+    peer: rbx-g2-nc5
+  - label: '#1'
+    load: 1
+    peer: lon-thw-sbb1-nc5
+  - label: '#6'
+    load: 23
+    peer: rbx-g4-nc5
+  - label: '#1'
+    load: 17
+    peer: lon1-eri1-g2-nc5
+  - label: '#2'
+    load: 6
+    peer: gra-g2-nc5
+  - label: '#5'
+    load: 42
+    peer: nwk-5-n7
+  - label: '#5'
+    load: 22
+    peer: rbx-g4-nc5
+  - label: '#1'
+    load: 13
+    peer: lon1-eri1-g2-nc5
+  - label: '#3'
+    load: 6
+    peer: gra-g2-nc5
+  - label: '#1'
+    load: 13
+    peer: lon1-eri1-g2-nc5
+  - label: '#1'
+    load: 7
+    peer: gra-g2-nc5
+  - label: '#1'
+    load: 13
+    peer: lon1-eri1-g2-nc5
+  - label: '#3'
+    load: 22
+    peer: rbx-g4-nc5
+lon-ld5-vcabb1-a72:
+  links:
+  - label: '#1'
+    load: 1
+    peer: lon-thw-pb3-nc5
+  - label: '#4'
+    load: 1
+    peer: lon-ld5-vcabb2-a72
+  - label: '#1'
+    load: 1
+    peer: lon-ld5-vcabb2-a72
+  - label: '#1'
+    load: 1
+    peer: lon-thw-pb3-nc5
+  - label: '#3'
+    load: 1
+    peer: lon-ld5-vcabb2-a72
+  - label: '#2'
+    load: 1
+    peer: lon-ld5-vcabb2-a72
+lon-ld5-vcabb2-a72:
+  links:
+  - label: '#4'
+    load: 1
+    peer: lon-ld5-vcabb1-a72
+  - label: '#2'
+    load: 1
+    peer: lon-thw-pb2-nc5
+  - label: '#1'
+    load: 1
+    peer: lon-ld5-vcabb1-a72
+  - label: '#3'
+    load: 1
+    peer: lon-ld5-vcabb1-a72
+  - label: '#2'
+    load: 1
+    peer: lon-ld5-vcabb1-a72
+  - label: '#1'
+    load: 1
+    peer: lon-thw-pb2-nc5
+lon-ld5-vcoagg1-n92:
+  links:
+  - label: '#1'
+    load: 1
+    peer: lon-thw-pb1-nc5
+lon-ld5-vcoagg2-n92:
+  links:
+  - label: '#1'
+    load: 1
+    peer: lon-thw-pb2-nc5
+lon-thw-pb1-nc5:
+  links:
+  - label: '#1'
+    load: 5
+    peer: lon-thw-sbb1-nc5
+  - label: '#1'
+    load: 5
+    peer: lon-thw-sbb1-nc5
+  - label: '#1'
+    load: 1
+    peer: lon-ld5-vcoagg1-n92
+  - label: '#1'
+    load: 9
+    peer: SKY UK
+  - label: '#1'
+    load: 9
+    peer: LINX-LON2
+  - label: '#1'
+    load: 5
+    peer: lon-thw-sbb1-nc5
+  - label: '#1'
+    load: 1
+    peer: lon-thw-vcoagg1-n92
+  - label: '#1'
+    load: 5
+    peer: lon-thw-sbb1-nc5
+  - label: '#1'
+    load: 1
+    peer: CLOUDFLARE
+  - label: '#1'
+    load: 15
+    peer: LINX-LON1
+  - label: '#1'
+    load: 7
+    peer: TALKTALK
+  - label: '#1'
+    load: 7
+    peer: UKSERVERS
+  - label: '#1'
+    load: 26
+    peer: COGENT
+  - label: '#1'
+    load: 10
+    peer: UPC
+  - label: '#1'
+    load: 6
+    peer: BT
+  - label: '#2'
+    load: 15
+    peer: LINX-LON1
+lon-thw-pb2-nc5:
+  links:
+  - label: '#1'
+    load: 19
+    peer: LINX-LON1
+  - label: '#1'
+    load: 1
+    peer: CLOUVIDER
+  - label: '#1'
+    load: 1
+    peer: lon-thw-vcoagg2-n92
+  - label: '#1'
+    load: 2
+    peer: lon-thw-sbb1-nc5
+  - label: '#1'
+    load: 7
+    peer: BT
+  - label: '#1'
+    load: 2
+    peer: lon-thw-sbb1-nc5
+  - label: '#1'
+    load: 14
+    peer: TELIA
+  - label: '#2'
+    load: 1
+    peer: lon-ld5-vcabb2-a72
+  - label: '#1'
+    load: 1
+    peer: lon-ld5-vcoagg2-n92
+  - label: '#2'
+    load: 19
+    peer: LINX-LON1
+  - label: '#1'
+    load: 12
+    peer: COGENT
+  - label: '#1'
+    load: 3
+    peer: lon-thw-sbb1-nc5
+  - label: '#1'
+    load: 3
+    peer: lon-thw-sbb1-nc5
+  - label: '#1'
+    load: 20
+    peer: TELSTRA
+  - label: '#1'
+    load: 22
+    peer: LEVEL3
+  - label: '#1'
+    load: 2
+    peer: lon-thw-sbb1-nc5
+  - label: '#1'
+    load: 2
+    peer: lon-thw-sbb1-nc5
+  - label: '#1'
+    load: 1
+    peer: lon-ld5-vcabb2-a72
+  - label: '#1'
+    load: 19
+    peer: LINX-LON1
+  - label: '#1'
+    load: 9
+    peer: UPC
+lon-thw-pb3-nc5:
+  links:
+  - label: '#1'
+    load: 1
+    peer: lon-ld5-vcabb1-a72
+  - label: '#1'
+    load: 5
+    peer: lon-thw-sbb1-nc5
+  - label: '#1'
+    load: 1
+    peer: lon-ld5-vcabb1-a72
+  - label: '#1'
+    load: 2
+    peer: CHINAMOBILE
+  - label: '#1'
+    load: 35
+    peer: AIRTEL
+  - label: '#1'
+    load: 12
+    peer: AMAZON
+  - label: '#1'
+    load: 36
+    peer: AIRTEL
+  - label: '#1'
+    load: 5
+    peer: lon-thw-sbb1-nc5
+lon-thw-sbb1-nc5:
+  links:
+  - label: '#6'
+    load: 6
+    peer: gra-g1-nc5
+  - label: '#1'
+    load: 13
+    peer: lon-thw-pb1-nc5
+  - label: '#5'
+    load: 23
+    peer: rbx-g3-nc5
+  - label: '#2'
+    load: 6
+    peer: gra-g1-nc5
+  - label: '#2'
+    load: 32
+    peer: nwk-1-n7
+  - label: '#1'
+    load: 1
+    peer: lon-drch-sbb1-nc5
+  - label: '#5'
+    load: 32
+    peer: nwk-1-n7
+  - label: '#6'
+    load: 33
+    peer: nwk-1-n7
+  - label: '#1'
+    load: 12
+    peer: lon-thw-pb2-nc5
+  - label: '#1'
+    load: 23
+    peer: rbx-g3-nc5
+  - label: '#5'
+    load: 7
+    peer: gra-g1-nc5
+  - label: '#6'
+    load: 22
+    peer: rbx-g3-nc5
+  - label: '#1'
+    load: 13
+    peer: lon-thw-pb2-nc5
+  - label: '#1'
+    load: 33
+    peer: nwk-1-n7
+  - label: '#1'
+    load: 1
+    peer: lon-drch-sbb1-nc5
+  - label: '#4'
+    load: 6
+    peer: gra-g1-nc5
+  - label: '#1'
+    load: 11
+    peer: lon1-eri1-g1-nc5
+  - label: '#1'
+    load: 11
+    peer: lon1-eri1-g1-nc5
+  - label: '#1'
+    load: 13
+    peer: lon-thw-pb1-nc5
+  - label: '#10'
+    load: 22
+    peer: rbx-g1-nc5
+  - label: '#3'
+    load: 6
+    peer: gra-g1-nc5
+  - label: '#7'
+    load: 22
+    peer: rbx-g1-nc5
+  - label: '#1'
+    load: 1
+    peer: lon-drch-sbb1-nc5
+  - label: '#1'
+    load: 11
+    peer: lon1-eri1-g1-nc5
+  - label: '#1'
+    load: 21
+    peer: lon-thw-pb3-nc5
+  - label: '#8'
+    load: 32
+    peer: nwk-1-n7
+  - label: '#1'
+    load: 1
+    peer: lon-drch-sbb1-nc5
+  - label: '#7'
+    load: 32
+    peer: nwk-1-n7
+  - label: '#1'
+    load: 1
+    peer: lon-drch-sbb1-nc5
+  - label: '#1'
+    load: 1
+    peer: lon-drch-sbb1-nc5
+  - label: '#1'
+    load: 13
+    peer: lon-thw-pb1-nc5
+  - label: '#1'
+    load: 11
+    peer: lon1-eri1-g1-nc5
+  - label: '#8'
+    load: 22
+    peer: rbx-g3-nc5
+  - label: '#4'
+    load: 23
+    peer: rbx-g1-nc5
+  - label: '#4'
+    load: 32
+    peer: nwk-1-n7
+  - label: '#1'
+    load: 13
+    peer: lon-thw-pb1-nc5
+  - label: '#1'
+    load: 11
+    peer: lon1-eri1-g1-nc5
+  - label: '#1'
+    load: 11
+    peer: lon1-eri1-g1-nc5
+  - label: '#1'
+    load: 11
+    peer: lon1-eri1-g1-nc5
+  - label: '#3'
+    load: 22
+    peer: rbx-g3-nc5
+  - label: '#3'
+    load: 6
+    peer: gra-g1-nc5
+  - label: '#1'
+    load: 12
+    peer: lon1-eri1-g1-nc5
+  - label: '#1'
+    load: 1
+    peer: lon-drch-sbb1-nc5
+  - label: '#1'
+    load: 12
+    peer: lon-thw-pb2-nc5
+  - label: '#1'
+    load: 12
+    peer: lon-thw-pb2-nc5
+  - label: '#9'
+    load: 22
+    peer: rbx-g1-nc5
+  - label: '#2'
+    load: 22
+    peer: rbx-g1-nc5
+  - label: '#3'
+    load: 0
+    peer: nwk-1-n7
+  - label: '#1'
+    load: 1
+    peer: lon-drch-sbb1-nc5
+  - label: '#1'
+    load: 12
+    peer: lon1-eri1-g1-nc5
+  - label: '#1'
+    load: 12
+    peer: lon-thw-pb2-nc5
+  - label: '#1'
+    load: 12
+    peer: lon-thw-pb2-nc5
+  - label: '#1'
+    load: 22
+    peer: lon-thw-pb3-nc5
+lon-thw-vcoagg1-n92:
+  links:
+  - label: '#1'
+    load: 1
+    peer: lon-thw-pb1-nc5
+lon-thw-vcoagg2-n92:
+  links:
+  - label: '#1'
+    load: 1
+    peer: lon-thw-pb2-nc5
+lon1-eri1-g1-nc5:
+  links:
+  - label: '#1'
+    load: 1
+    peer: lon1-eri1-g2-nc5
+  - label: '#1'
+    load: 17
+    peer: lon-thw-sbb1-nc5
+  - label: '#1'
+    load: 16
+    peer: lon-thw-sbb1-nc5
+  - label: '#1'
+    load: 1
+    peer: lon1-eri1-g2-nc5
+  - label: '#1'
+    load: 15
+    peer: lon-thw-sbb1-nc5
+  - label: '#1'
+    load: 16
+    peer: lon-thw-sbb1-nc5
+  - label: '#1'
+    load: 16
+    peer: lon-thw-sbb1-nc5
+  - label: '#1'
+    load: 15
+    peer: lon-thw-sbb1-nc5
+  - label: '#1'
+    load: 15
+    peer: lon-thw-sbb1-nc5
+  - label: '#1'
+    load: 16
+    peer: lon-thw-sbb1-nc5
+  - label: '#1'
+    load: 1
+    peer: lon1-eri1-g2-nc5
+  - label: '#1'
+    load: 16
+    peer: lon-thw-sbb1-nc5
+  - label: '#1'
+    load: 1
+    peer: lon1-eri1-g2-nc5
+lon1-eri1-g2-nc5:
+  links:
+  - label: '#1'
+    load: 16
+    peer: lon-drch-sbb1-nc5
+  - label: '#1'
+    load: 1
+    peer: lon1-eri1-g1-nc5
+  - label: '#1'
+    load: 17
+    peer: lon-drch-sbb1-nc5
+  - label: '#1'
+    load: 16
+    peer: lon-drch-sbb1-nc5
+  - label: '#1'
+    load: 16
+    peer: lon-drch-sbb1-nc5
+  - label: '#1'
+    load: 1
+    peer: lon1-eri1-g1-nc5
+  - label: '#1'
+    load: 16
+    peer: lon-drch-sbb1-nc5
+  - label: '#1'
+    load: 1
+    peer: lon1-eri1-g1-nc5
+  - label: '#1'
+    load: 1
+    peer: lon1-eri1-g1-nc5
+  - label: '#1'
+    load: 16
+    peer: lon-drch-sbb1-nc5
+  - label: '#1'
+    load: 16
+    peer: lon-drch-sbb1-nc5
+  - label: '#1'
+    load: 15
+    peer: lon-drch-sbb1-nc5
+  - label: '#1'
+    load: 16
+    peer: lon-drch-sbb1-nc5
+mad-2-a72:
+  links:
+  - label: '#1'
+    load: 3
+    peer: mad-mad2-pb1-ptx
+  - label: '#1'
+    load: 3
+    peer: mad-mad2-pb1-ptx
+  - label: '#1'
+    load: 5
+    peer: ESPANIX-LOWER
+  - label: '#1'
+    load: 2
+    peer: ESPANIX-UPPER
+mad-mad2-pb1-ptx:
+  links:
+  - label: '#1'
+    load: 8
+    peer: par-gsw-sbb1-nc5
+  - label: '#2'
+    load: 10
+    peer: TELXIUS
+  - label: '#1'
+    load: 1
+    peer: mad-mad2-vcoagg1-n92
+  - label: '#1'
+    load: 1
+    peer: par-th2-sbb1-nc5
+  - label: '#1'
+    load: 3
+    peer: mad-2-a72
+  - label: '#1'
+    load: 1
+    peer: par-th2-sbb1-nc5
+  - label: '#1'
+    load: 1
+    peer: par-th2-sbb1-nc5
+  - label: '#1'
+    load: 3
+    peer: COGENT
+  - label: '#1'
+    load: 9
+    peer: VODAFONE
+  - label: '#1'
+    load: 10
+    peer: par-gsw-sbb1-nc5
+  - label: '#1'
+    load: 9
+    peer: DECIX MAD
+  - label: '#1'
+    load: 4
+    peer: mad-2-a72
+  - label: '#1'
+    load: 2
+    peer: TELIA
+  - label: '#1'
+    load: 5
+    peer: OTI
+  - label: '#1'
+    load: 10
+    peer: TELXIUS
+  - label: '#1'
+    load: 7
+    peer: par-gsw-sbb1-nc5
+  - label: '#2'
+    load: 4
+    peer: OTI
+  - label: '#1'
+    load: 1
+    peer: mad-mad2-vcoagg2-n92
+  - label: '#1'
+    load: 9
+    peer: par-gsw-sbb1-nc5
+  - label: '#1'
+    load: 1
+    peer: par-th2-sbb1-nc5
+mad-mad2-vcoagg1-n92:
+  links:
+  - label: '#1'
+    load: 1
+    peer: mad-mad2-pb1-ptx
+mad-mad2-vcoagg2-n92:
+  links:
+  - label: '#1'
+    load: 1
+    peer: mad-mad2-pb1-ptx
+mil-25a-a71:
+  links:
+  - label: '#2'
+    load: 0
+    peer: mil-25b-a71
+  - label: '#2'
+    load: 1
+    peer: mil-kpn-pb1-nc5
+  - label: '#1'
+    load: 1
+    peer: mil-kpn-pb1-nc5
+  - label: '#1'
+    load: 0
+    peer: mil-25b-a71
+mil-25b-a71:
+  links:
+  - label: '#2'
+    load: 0
+    peer: mil-25a-a71
+  - label: '#2'
+    load: 1
+    peer: mil-kpn-pb1-nc5
+  - label: '#1'
+    load: 1
+    peer: mil-kpn-pb1-nc5
+  - label: '#1'
+    load: 0
+    peer: mil-25a-a71
+mil-kpn-pb1-nc5:
+  links:
+  - label: '#2'
+    load: 3
+    peer: mil-kpn-sbb1-nc5
+  - label: '#2'
+    load: 11
+    peer: SEABONE
+  - label: '#2'
+    load: 1
+    peer: mil-25b-a71
+  - label: '#2'
+    load: 2
+    peer: mil-kpn-sbb1-nc5
+  - label: '#1'
+    load: 2
+    peer: mil-kpn-sbb1-nc5
+  - label: '#2'
+    load: 1
+    peer: mil-25a-a71
+  - label: '#4'
+    load: 3
+    peer: mil-kpn-sbb1-nc5
+  - label: '#3'
+    load: 2
+    peer: mil-kpn-sbb1-nc5
+  - label: '#4'
+    load: 3
+    peer: mil-kpn-sbb1-nc5
+  - label: '#1'
+    load: 1
+    peer: TELIA
+  - label: '#1'
+    load: 12
+    peer: SEABONE
+  - label: '#1'
+    load: 1
+    peer: mil-25b-a71
+  - label: '#3'
+    load: 3
+    peer: mil-kpn-sbb1-nc5
+  - label: '#1'
+    load: 1
+    peer: mil-25a-a71
+  - label: '#1'
+    load: 19
+    peer: MIX
+  - label: '#2'
+    load: 17
+    peer: MIX
+  - label: '#1'
+    load: 3
+    peer: mil-kpn-sbb1-nc5
+mil-kpn-sbb1-nc5:
+  links:
+  - label: '#2'
+    load: 3
+    peer: sbg-g3-nc5
+  - label: '#1'
+    load: 1
+    peer: par-th2-sbb1-nc5
+  - label: '#1'
+    load: 3
+    peer: sbg-g2-nc5
+  - label: '#1'
+    load: 3
+    peer: sbg-g3-nc5
+  - label: '#2'
+    load: 7
+    peer: mil-kpn-pb1-nc5
+  - label: '#1'
+    load: 3
+    peer: sbg-g2-nc5
+  - label: '#2'
+    load: 7
+    peer: mil-kpn-pb1-nc5
+  - label: '#1'
+    load: 8
+    peer: mil-kpn-pb1-nc5
+  - label: '#1'
+    load: 1
+    peer: zrh-zh2-bb1-a72
+  - label: '#4'
+    load: 7
+    peer: mil-kpn-pb1-nc5
+  - label: '#3'
+    load: 7
+    peer: mil-kpn-pb1-nc5
+  - label: '#1'
+    load: 1
+    peer: par-th2-sbb1-nc5
+  - label: '#4'
+    load: 7
+    peer: mil-kpn-pb1-nc5
+  - label: '#2'
+    load: 3
+    peer: sbg-g2-nc5
+  - label: '#1'
+    load: 1
+    peer: par-gsw-sbb1-nc5
+  - label: '#3'
+    load: 8
+    peer: mil-kpn-pb1-nc5
+  - label: '#1'
+    load: 0
+    peer: par-gsw-sbb1-nc5
+  - label: '#1'
+    load: 3
+    peer: sbg-g3-nc5
+  - label: '#1'
+    load: 8
+    peer: mil-kpn-pb1-nc5
+mrs-mrs1-pb1-nc5:
+  links:
+  - label: '#4'
+    load: 28
+    peer: MOBILY
+  - label: '#1'
+    load: 1
+    peer: OTI
+  - label: '#1'
+    load: 3
+    peer: mrs-mrs2-sbb1-nc5
+  - label: '#1'
+    load: 3
+    peer: mrs-mrs1-sbb1-nc5
+  - label: '#1'
+    load: 3
+    peer: mrs-mrs1-sbb1-nc5
+  - label: '#1'
+    load: 16
+    peer: FRANCE-IX
+  - label: '#2'
+    load: 29
+    peer: MOBILY
+  - label: '#1'
+    load: 3
+    peer: mrs-mrs2-sbb1-nc5
+  - label: '#3'
+    load: 27
+    peer: MOBILY
+  - label: '#1'
+    load: 29
+    peer: MOBILY
+mrs-mrs1-sbb1-nc5:
+  links:
+  - label: '#2'
+    load: 38
+    peer: sin-gss1-sbb1-nc5
+  - label: '#1'
+    load: 22
+    peer: sin-sg1-sbb1-nc5
+  - label: '#1'
+    load: 7
+    peer: mrs-mrs1-pb1-nc5
+  - label: '#2'
+    load: 36
+    peer: sin-gss1-sbb1-nc5
+  - label: '#1'
+    load: 7
+    peer: mrs-mrs1-pb1-nc5
+  - label: '#1'
+    load: 9
+    peer: par-th2-sbb1-nc5
+  - label: '#1'
+    load: 1
+    peer: mrs-mrs2-sbb1-nc5
+  - label: '#1'
+    load: 22
+    peer: sin-sg1-sbb1-nc5
+  - label: '#1'
+    load: 9
+    peer: par-th2-sbb1-nc5
+  - label: '#2'
+    load: 35
+    peer: sin-gss1-sbb1-nc5
+  - label: '#1'
+    load: 1
+    peer: mrs-mrs2-sbb1-nc5
+  - label: '#1'
+    load: 22
+    peer: sin-sg1-sbb1-nc5
+mrs-mrs2-sbb1-nc5:
+  links:
+  - label: '#1'
+    load: 7
+    peer: mrs-mrs1-pb1-nc5
+  - label: '#1'
+    load: 3
+    peer: par-gsw-sbb1-nc5
+  - label: '#1'
+    load: 3
+    peer: par-gsw-sbb1-nc5
+  - label: '#1'
+    load: 1
+    peer: mrs-mrs1-sbb1-nc5
+  - label: '#1'
+    load: 7
+    peer: mrs-mrs1-pb1-nc5
+  - label: '#1'
+    load: 1
+    peer: mrs-mrs1-sbb1-nc5
+nwk-1-n7:
+  links:
+  - label: '#2'
+    load: 9
+    peer: nwk-5-n7
+  - label: '#1'
+    load: 10
+    peer: nwk-5-n7
+  - label: '#2'
+    load: 25
+    peer: lon-thw-sbb1-nc5
+  - label: '#5'
+    load: 26
+    peer: lon-thw-sbb1-nc5
+  - label: '#6'
+    load: 27
+    peer: lon-thw-sbb1-nc5
+  - label: '#1'
+    load: 29
+    peer: lon-thw-sbb1-nc5
+  - label: '#8'
+    load: 27
+    peer: lon-thw-sbb1-nc5
+  - label: '#7'
+    load: 26
+    peer: lon-thw-sbb1-nc5
+  - label: '#3'
+    load: 10
+    peer: nwk-5-n7
+  - label: '#4'
+    load: 26
+    peer: lon-thw-sbb1-nc5
+  - label: '#4'
+    load: 10
+    peer: nwk-5-n7
+  - label: '#3'
+    load: 0
+    peer: lon-thw-sbb1-nc5
+nwk-5-n7:
+  links:
+  - label: '#2'
+    load: 3
+    peer: nwk-1-n7
+  - label: '#1'
+    load: 3
+    peer: nwk-1-n7
+  - label: '#1'
+    load: 0
+    peer: lon-drch-sbb1-nc5
+  - label: '#7'
+    load: 31
+    peer: lon-drch-sbb1-nc5
+  - label: '#3'
+    load: 31
+    peer: lon-drch-sbb1-nc5
+  - label: '#2'
+    load: 31
+    peer: lon-drch-sbb1-nc5
+  - label: '#3'
+    load: 3
+    peer: nwk-1-n7
+  - label: '#4'
+    load: 30
+    peer: lon-drch-sbb1-nc5
+  - label: '#4'
+    load: 3
+    peer: nwk-1-n7
+  - label: '#6'
+    load: 34
+    peer: lon-drch-sbb1-nc5
+  - label: '#5'
+    load: 32
+    peer: lon-drch-sbb1-nc5
+pa3-25a-a71:
+  links:
+  - label: '#2'
+    load: 1
+    peer: par-pa3-pb1-nc5
+pa3-25b-a71:
+  links:
+  - label: '#1'
+    load: 1
+    peer: par-pa3-pb1-nc5
+par-gsw-pb1-nc5:
+  links:
+  - label: '#2'
+    load: 5
+    peer: par-gsw-sbb1-nc5
+  - label: '#4'
+    load: 3
+    peer: par-gsw-sbb1-nc5
+  - label: '#3'
+    load: 4
+    peer: par-gsw-sbb1-nc5
+  - label: '#1'
+    load: 2
+    peer: gsw-25a-ast
+  - label: '#1'
+    load: 1
+    peer: gsw-dsl1a-n93
+  - label: '#1'
+    load: 4
+    peer: par-gsw-sbb1-nc5
+  - label: '#1'
+    load: 1
+    peer: gsw-housing1-n93
+  - label: '#2'
+    load: 10
+    peer: FREE
+  - label: '#1'
+    load: 31
+    peer: COGENT
+  - label: '#1'
+    load: 2
+    peer: gsw-dsl2-n93
+  - label: '#1'
+    load: 42
+    peer: GOOGLE
+  - label: '#1'
+    load: 10
+    peer: FREE
+  - label: '#1'
+    load: 1
+    peer: par-gsw-vcoagg1-n92
+  - label: '#1'
+    load: 3
+    peer: ORANGE
+par-gsw-pb2-nc5:
+  links:
+  - label: '#1'
+    load: 18
+    peer: SFR
+  - label: '#1'
+    load: 26
+    peer: SCALEWAY
+  - label: '#1'
+    load: 27
+    peer: SCALEWAY
+  - label: '#3'
+    load: 10
+    peer: par-gsw-sbb1-nc5
+  - label: '#1'
+    load: 1
+    peer: gsw-housing2-n93
+  - label: '#1'
+    load: 23
+    peer: LEVEL3
+  - label: '#1'
+    load: 1
+    peer: par-gsw-voip1-a72
+  - label: '#1'
+    load: 23
+    peer: LEVEL3
+  - label: '#4'
+    load: 11
+    peer: par-gsw-sbb1-nc5
+  - label: '#1'
+    load: 1
+    peer: AKAMAI
+  - label: '#1'
+    load: 1
+    peer: par-gsw-vcoagg2-n92
+  - label: '#1'
+    load: 2
+    peer: gsw-dsl1a-n93
+  - label: '#1'
+    load: 9
+    peer: par-gsw-sbb1-nc5
+  - label: '#1'
+    load: 1
+    peer: AKAMAI
+  - label: '#2'
+    load: 10
+    peer: par-gsw-sbb1-nc5
+  - label: '#1'
+    load: 2
+    peer: gsw-dsl2-n93
+par-gsw-pb3-nc5:
+  links:
+  - label: '#1'
+    load: 1
+    peer: gsw-25b-ast
+  - label: '#1'
+    load: 1
+    peer: gsw-26-a71
+  - label: '#1'
+    load: 1
+    peer: par-gsw-voip1-a72
+  - label: '#1'
+    load: 1
+    peer: par-gsw-sbb1-nc5
+  - label: '#1'
+    load: 20
+    peer: VODAFONE
+  - label: '#2'
+    load: 1
+    peer: par-gsw-sbb1-nc5
+par-gsw-sbb1-nc5:
+  links:
+  - label: '#1'
+    load: 41
+    peer: was-cva1-sbb1-8k
+  - label: '#2'
+    load: 11
+    peer: sbg-g2-nc5
+  - label: '#3'
+    load: 7
+    peer: gra-g1-nc5
+  - label: '#1'
+    load: 15
+    peer: mad-mad2-pb1-ptx
+  - label: '#6'
+    load: 12
+    peer: rbx-g4-nc5
+  - label: '#4'
+    load: 1
+    peer: par-th2-sbb1-nc5
+  - label: '#1'
+    load: 12
+    peer: sbg-g2-nc5
+  - label: '#2'
+    load: 7
+    peer: gra-g1-nc5
+  - label: '#1'
+    load: 12
+    peer: sbg-g2-nc5
+  - label: '#2'
+    load: 13
+    peer: par-gsw-pb1-nc5
+  - label: '#4'
+    load: 13
+    peer: par-gsw-pb1-nc5
+  - label: '#2'
+    load: 19
+    peer: par-pa3-pb1-nc5
+  - label: '#5'
+    load: 13
+    peer: rbx-g2-nc5
+  - label: '#1'
+    load: 7
+    peer: mrs-mrs2-sbb1-nc5
+  - label: '#4'
+    load: 8
+    peer: gra-g1-nc5
+  - label: '#3'
+    load: 12
+    peer: par-gsw-pb1-nc5
+  - label: '#1'
+    load: 7
+    peer: mrs-mrs2-sbb1-nc5
+  - label: '#3'
+    load: 12
+    peer: rbx-g2-nc5
+  - label: '#4'
+    load: 7
+    peer: gra-g1-nc5
+  - label: '#1'
+    load: 1
+    peer: par-th2-sbb1-nc5
+  - label: '#1'
+    load: 13
+    peer: par-gsw-pb1-nc5
+  - label: '#3'
+    load: 14
+    peer: par-gsw-pb2-nc5
+  - label: '#1'
+    load: 15
+    peer: mad-mad2-pb1-ptx
+  - label: '#2'
+    load: 11
+    peer: sbg-g2-nc5
+  - label: '#8'
+    load: 13
+    peer: rbx-g4-nc5
+  - label: '#1'
+    load: 1
+    peer: par1-p19-g2-nc5
+  - label: '#2'
+    load: 1
+    peer: par-th2-sbb1-nc5
+  - label: '#4'
+    load: 1
+    peer: par-th2-sbb1-nc5
+  - label: '#2'
+    load: 8
+    peer: gra-g1-nc5
+  - label: '#4'
+    load: 16
+    peer: par-gsw-pb2-nc5
+  - label: '#1'
+    load: 19
+    peer: par-pa3-pb1-nc5
+  - label: '#1'
+    load: 14
+    peer: rbx-g2-nc5
+  - label: '#1'
+    load: 1
+    peer: par1-p19-g2-nc5
+  - label: '#1'
+    load: 12
+    peer: sbg-g2-nc5
+  - label: '#3'
+    load: 12
+    peer: sbg-g2-nc5
+  - label: '#2'
+    load: 11
+    peer: sbg-g2-nc5
+  - label: '#1'
+    load: 18
+    peer: par-pa3-pb1-nc5
+  - label: '#3'
+    load: 1
+    peer: par-th2-sbb1-nc5
+  - label: '#1'
+    load: 5
+    peer: par-gsw-pb3-nc5
+  - label: '#1'
+    load: 42
+    peer: was-cva1-sbb1-8k
+  - label: '#7'
+    load: 13
+    peer: rbx-g2-nc5
+  - label: '#2'
+    load: 13
+    peer: rbx-g4-nc5
+  - label: '#1'
+    load: 7
+    peer: gra-g1-nc5
+  - label: '#1'
+    load: 1
+    peer: mil-kpn-sbb1-nc5
+  - label: '#1'
+    load: 15
+    peer: par-gsw-pb2-nc5
+  - label: '#2'
+    load: 14
+    peer: par-gsw-pb2-nc5
+  - label: '#2'
+    load: 1
+    peer: par-th2-sbb1-nc5
+  - label: '#1'
+    load: 14
+    peer: mad-mad2-pb1-ptx
+  - label: '#3'
+    load: 1
+    peer: par-th2-sbb1-nc5
+  - label: '#1'
+    load: 0
+    peer: mil-kpn-sbb1-nc5
+  - label: '#2'
+    load: 5
+    peer: par-gsw-pb3-nc5
+  - label: '#1'
+    load: 19
+    peer: par-pa3-pb1-nc5
+  - label: '#1'
+    load: 1
+    peer: par-th2-sbb1-nc5
+  - label: '#1'
+    load: 16
+    peer: mad-mad2-pb1-ptx
+  - label: '#1'
+    load: 7
+    peer: gra-g1-nc5
+  - label: '#3'
+    load: 8
+    peer: gra-g1-nc5
+  - label: '#4'
+    load: 14
+    peer: rbx-g4-nc5
+par-gsw-vcoagg1-n92:
+  links:
+  - label: '#1'
+    load: 1
+    peer: par-gsw-pb1-nc5
+par-gsw-vcoagg2-n92:
+  links:
+  - label: '#1'
+    load: 1
+    peer: par-gsw-pb2-nc5
+par-gsw-voip1-a72:
+  links:
+  - label: '#1'
+    load: 1
+    peer: par-gsw-pb2-nc5
+  - label: '#1'
+    load: 1
+    peer: par-gsw-pb3-nc5
+par-pa3-pb1-nc5:
+  links:
+  - label: '#1'
+    load: 2
+    peer: par-pa3-vcoagg1-n92
+  - label: '#1'
+    load: 18
+    peer: TELIA
+  - label: '#1'
+    load: 23
+    peer: CHINAMOBILE
+  - label: '#2'
+    load: 2
+    peer: par-gsw-sbb1-nc5
+  - label: '#1'
+    load: 8
+    peer: TELXIUS
+  - label: '#2'
+    load: 1
+    peer: pa3-25a-a71
+  - label: '#1'
+    load: 2
+    peer: par-th2-sbb1-nc5
+  - label: '#2'
+    load: 2
+    peer: par-th2-sbb1-nc5
+  - label: '#1'
+    load: 13
+    peer: OTI
+  - label: '#1'
+    load: 2
+    peer: par-th2-sbb1-nc5
+  - label: '#1'
+    load: 14
+    peer: OTI
+  - label: '#1'
+    load: 6
+    peer: OTI
+  - label: '#1'
+    load: 2
+    peer: par-th2-sbb1-nc5
+  - label: '#1'
+    load: 2
+    peer: par-gsw-sbb1-nc5
+  - label: '#1'
+    load: 1
+    peer: par-pa3-vcoagg2-n92
+  - label: '#1'
+    load: 20
+    peer: FRANCE-IX
+  - label: '#1'
+    load: 2
+    peer: par-gsw-sbb1-nc5
+  - label: '#1'
+    load: 9
+    peer: TELXIUS
+  - label: '#1'
+    load: 7
+    peer: OTI
+  - label: '#1'
+    load: 5
+    peer: pa3-25b-a71
+  - label: '#1'
+    load: 11
+    peer: CLOUDFLARE
+  - label: '#1'
+    load: 2
+    peer: par-gsw-sbb1-nc5
+par-pa3-vcoagg1-n92:
+  links:
+  - label: '#1'
+    load: 1
+    peer: par-pa3-pb1-nc5
+par-pa3-vcoagg2-n92:
+  links:
+  - label: '#1'
+    load: 1
+    peer: par-pa3-pb1-nc5
+par-th2-pb1-nc5:
+  links:
+  - label: '#1'
+    load: 3
+    peer: ORANGE
+  - label: '#1'
+    load: 1
+    peer: th2-25a-ast
+  - label: '#1'
+    load: 17
+    peer: SEABONE
+  - label: '#1'
+    load: 1
+    peer: VERIZON
+  - label: '#1'
+    load: 18
+    peer: TELIA
+  - label: '#1'
+    load: 43
+    peer: GOOGLE
+  - label: '#3'
+    load: 8
+    peer: par-th2-sbb1-nc5
+  - label: '#1'
+    load: 8
+    peer: par-th2-sbb1-nc5
+  - label: '#2'
+    load: 9
+    peer: par-th2-sbb1-nc5
+  - label: '#4'
+    load: 8
+    peer: par-th2-sbb1-nc5
+  - label: '#1'
+    load: 10
+    peer: FREE
+  - label: '#1'
+    load: 2
+    peer: th2-dsl2-n93
+  - label: '#1'
+    load: 2
+    peer: th2-dsl1a-n93
+  - label: '#1'
+    load: 10
+    peer: FREE
+  - label: '#1'
+    load: 1
+    peer: SHADOW
+  - label: '#1'
+    load: 2
+    peer: CDN77
+  - label: '#1'
+    load: 23
+    peer: FRANCE-IX
+  - label: '#2'
+    load: 17
+    peer: SEABONE
+  - label: '#1'
+    load: 1
+    peer: par-th2-vcoagg1-n92
+par-th2-pb2-nc5:
+  links:
+  - label: '#1'
+    load: 11
+    peer: BOUYGUES
+  - label: '#3'
+    load: 11
+    peer: par-th2-sbb1-nc5
+  - label: '#4'
+    load: 11
+    peer: par-th2-sbb1-nc5
+  - label: '#1'
+    load: 24
+    peer: SCALEWAY
+  - label: '#1'
+    load: 17
+    peer: EQUINIX
+  - label: '#2'
+    load: 15
+    peer: OTI
+  - label: '#1'
+    load: 1
+    peer: CORE-BACKBONE
+  - label: '#1'
+    load: 11
+    peer: BOUYGUES
+  - label: '#1'
+    load: 1
+    peer: par-th2-voip1-a72
+  - label: '#1'
+    load: 18
+    peer: SFR
+  - label: '#1'
+    load: 24
+    peer: SCALEWAY
+  - label: '#2'
+    load: 12
+    peer: par-th2-sbb1-nc5
+  - label: '#1'
+    load: 1
+    peer: par-th2-vcoagg2-n92
+  - label: '#1'
+    load: 2
+    peer: th2-dsl2-n93
+  - label: '#1'
+    load: 1
+    peer: SHADOW
+  - label: '#1'
+    load: 31
+    peer: COGENT
+  - label: '#1'
+    load: 2
+    peer: th2-dsl1a-n93
+  - label: '#1'
+    load: 11
+    peer: par-th2-sbb1-nc5
+  - label: '#1'
+    load: 17
+    peer: OTI
+par-th2-pb3-nc5:
+  links:
+  - label: '#4'
+    load: 17
+    peer: JASTEL
+  - label: '#2'
+    load: 15
+    peer: JASTEL
+  - label: '#1'
+    load: 1
+    peer: SHADOW
+  - label: '#1'
+    load: 19
+    peer: IKOULA
+  - label: '#1'
+    load: 18
+    peer: JASTEL
+  - label: '#3'
+    load: 17
+    peer: JASTEL
+  - label: '#1'
+    load: 1
+    peer: par-th2-voip1-a72
+  - label: '#1'
+    load: 1
+    peer: th2-26-a71
+  - label: '#1'
+    load: 21
+    peer: AMAZON
+  - label: '#1'
+    load: 8
+    peer: par-th2-sbb1-nc5
+  - label: '#1'
+    load: 1
+    peer: th2-25b-ast
+  - label: '#2'
+    load: 8
+    peer: par-th2-sbb1-nc5
+par-th2-sbb1-nc5:
+  links:
+  - label: '#1'
+    load: 11
+    peer: rbx-g1-nc5
+  - label: '#3'
+    load: 7
+    peer: gra-g2-nc5
+  - label: '#2'
+    load: 12
+    peer: sbg-g3-nc5
+  - label: '#1'
+    load: 1
+    peer: mil-kpn-sbb1-nc5
+  - label: '#3'
+    load: 21
+    peer: par-th2-pb2-nc5
+  - label: '#4'
+    load: 22
+    peer: par-th2-pb2-nc5
+  - label: '#1'
+    load: 1
+    peer: mad-mad2-pb1-ptx
+  - label: '#2'
+    load: 25
+    peer: was-nva1-sbb1-8k
+  - label: '#4'
+    load: 3
+    peer: par-gsw-sbb1-nc5
+  - label: '#1'
+    load: 7
+    peer: gra-g2-nc5
+  - label: '#1'
+    load: 11
+    peer: sbg-g3-nc5
+  - label: '#7'
+    load: 13
+    peer: rbx-g3-nc5
+  - label: '#8'
+    load: 12
+    peer: rbx-g1-nc5
+  - label: '#1'
+    load: 6
+    peer: gra-g2-nc5
+  - label: '#1'
+    load: 1
+    peer: mad-mad2-pb1-ptx
+  - label: '#2'
+    load: 11
+    peer: sbg-g3-nc5
+  - label: '#1'
+    load: 14
+    peer: par-pa3-pb1-nc5
+  - label: '#3'
+    load: 18
+    peer: par-th2-pb1-nc5
+  - label: '#1'
+    load: 18
+    peer: par-th2-pb1-nc5
+  - label: '#2'
+    load: 13
+    peer: par-pa3-pb1-nc5
+  - label: '#1'
+    load: 1
+    peer: mad-mad2-pb1-ptx
+  - label: '#1'
+    load: 4
+    peer: par-gsw-sbb1-nc5
+  - label: '#1'
+    load: 1
+    peer: par1-p19-g1-nc5
+  - label: '#2'
+    load: 12
+    peer: rbx-g3-nc5
+  - label: '#1'
+    load: 24
+    peer: was-nva1-sbb1-8k
+  - label: '#2'
+    load: 6
+    peer: gra-g2-nc5
+  - label: '#1'
+    load: 13
+    peer: par-pa3-pb1-nc5
+  - label: '#2'
+    load: 18
+    peer: par-th2-pb1-nc5
+  - label: '#3'
+    load: 7
+    peer: gra-g2-nc5
+  - label: '#1'
+    load: 15
+    peer: mrs-mrs1-sbb1-nc5
+  - label: '#4'
+    load: 19
+    peer: par-th2-pb1-nc5
+  - label: '#2'
+    load: 4
+    peer: par-gsw-sbb1-nc5
+  - label: '#4'
+    load: 3
+    peer: par-gsw-sbb1-nc5
+  - label: '#3'
+    load: 24
+    peer: was-nva1-sbb1-8k
+  - label: '#2'
+    load: 6
+    peer: gra-g2-nc5
+  - label: '#1'
+    load: 15
+    peer: par-pa3-pb1-nc5
+  - label: '#3'
+    load: 12
+    peer: rbx-g1-nc5
+  - label: '#1'
+    load: 10
+    peer: sbg-g3-nc5
+  - label: '#1'
+    load: 1
+    peer: mil-kpn-sbb1-nc5
+  - label: '#1'
+    load: 16
+    peer: mrs-mrs1-sbb1-nc5
+  - label: '#4'
+    load: 12
+    peer: rbx-g1-nc5
+  - label: '#3'
+    load: 4
+    peer: par-gsw-sbb1-nc5
+  - label: '#1'
+    load: 7
+    peer: gra-g2-nc5
+  - label: '#2'
+    load: 21
+    peer: par-th2-pb2-nc5
+  - label: '#3'
+    load: 10
+    peer: sbg-g3-nc5
+  - label: '#2'
+    load: 11
+    peer: sbg-g3-nc5
+  - label: '#2'
+    load: 4
+    peer: par-gsw-sbb1-nc5
+  - label: '#5'
+    load: 12
+    peer: rbx-g3-nc5
+  - label: '#3'
+    load: 4
+    peer: par-gsw-sbb1-nc5
+  - label: '#1'
+    load: 1
+    peer: par1-p19-g1-nc5
+  - label: '#1'
+    load: 13
+    peer: par-th2-pb3-nc5
+  - label: '#1'
+    load: 4
+    peer: par-gsw-sbb1-nc5
+  - label: '#1'
+    load: 11
+    peer: sbg-g3-nc5
+  - label: '#1'
+    load: 21
+    peer: par-th2-pb2-nc5
+  - label: '#6'
+    load: 11
+    peer: rbx-g3-nc5
+  - label: '#1'
+    load: 1
+    peer: mad-mad2-pb1-ptx
+  - label: '#1'
+    load: 6
+    peer: gra-g2-nc5
+  - label: '#2'
+    load: 13
+    peer: par-th2-pb3-nc5
+par-th2-vcoagg1-n92:
+  links:
+  - label: '#1'
+    load: 1
+    peer: par-th2-pb1-nc5
+par-th2-vcoagg2-n92:
+  links:
+  - label: '#1'
+    load: 1
+    peer: par-th2-pb2-nc5
+par-th2-voip1-a72:
+  links:
+  - label: '#1'
+    load: 1
+    peer: par-th2-pb2-nc5
+  - label: '#1'
+    load: 1
+    peer: par-th2-pb3-nc5
+par1-p19-g1-nc5:
+  links:
+  - label: '#1'
+    load: 1
+    peer: par1-p19-g2-nc5
+  - label: '#1'
+    load: 2
+    peer: par-th2-sbb1-nc5
+  - label: '#1'
+    load: 1
+    peer: par1-p19-g2-nc5
+  - label: '#1'
+    load: 2
+    peer: par-th2-sbb1-nc5
+par1-p19-g2-nc5:
+  links:
+  - label: '#1'
+    load: 1
+    peer: par1-p19-g1-nc5
+  - label: '#1'
+    load: 1
+    peer: par1-p19-g1-nc5
+  - label: '#1'
+    load: 2
+    peer: par-gsw-sbb1-nc5
+  - label: '#1'
+    load: 1
+    peer: par-gsw-sbb1-nc5
+prg-sitl-pb1-nc5:
+  links:
+  - label: '#1'
+    load: 17
+    peer: NIX
+  - label: '#1'
+    load: 18
+    peer: NIX
+  - label: '#1'
+    load: 4
+    peer: waw-atm-sbb1-nc5
+  - label: '#4'
+    load: 17
+    peer: vie-vie2-sbb1-8k
+  - label: '#1'
+    load: 22
+    peer: PEERING.CZ
+rbx-5-a72:
+  links:
+  - label: '#1'
+    load: 1
+    peer: ORANGE
+  - label: '#1'
+    load: 1
+    peer: rbx-g2-nc5
+  - label: '#1'
+    load: 1
+    peer: LILLIX
+  - label: '#2'
+    load: 2
+    peer: eur-1-4m
+  - label: '#1'
+    load: 1
+    peer: rbx-g1-nc5
+rbx-g1-nc5:
+  links:
+  - label: '#1'
+    load: 28
+    peer: par-th2-sbb1-nc5
+  - label: '#1'
+    load: 29
+    peer: fra-fr5-sbb1-nc5
+  - label: '#1'
+    load: 29
+    peer: fra-fr5-sbb1-nc5
+  - label: '#5'
+    load: 24
+    peer: ams-1-n7
+  - label: '#8'
+    load: 30
+    peer: par-th2-sbb1-nc5
+  - label: '#1'
+    load: 30
+    peer: fra-fr5-sbb1-nc5
+  - label: '#5'
+    load: 25
+    peer: ams-1-n7
+  - label: '#10'
+    load: 29
+    peer: lon-thw-sbb1-nc5
+  - label: '#7'
+    load: 26
+    peer: lon-thw-sbb1-nc5
+  - label: '#1'
+    load: 22
+    peer: ams-1-n7
+  - label: '#4'
+    load: 33
+    peer: lon-thw-sbb1-nc5
+  - label: '#3'
+    load: 28
+    peer: par-th2-sbb1-nc5
+  - label: '#4'
+    load: 28
+    peer: par-th2-sbb1-nc5
+  - label: '#9'
+    load: 31
+    peer: lon-thw-sbb1-nc5
+  - label: '#2'
+    load: 27
+    peer: lon-thw-sbb1-nc5
+  - label: '#1'
+    load: 1
+    peer: rbx-5-a72
+  - label: '#1'
+    load: 7
+    peer: bru-bru1-bb2-a72
+  - label: '#1'
+    load: 29
+    peer: fra-fr5-sbb1-nc5
+rbx-g2-nc5:
+  links:
+  - label: '#5'
+    load: 24
+    peer: ams-5-n7
+  - label: '#2'
+    load: 34
+    peer: lon-drch-sbb1-nc5
+  - label: '#10'
+    load: 33
+    peer: lon-drch-sbb1-nc5
+  - label: '#1'
+    load: 28
+    peer: fra-fr5-sbb2-nc5
+  - label: '#9'
+    load: 33
+    peer: lon-drch-sbb1-nc5
+  - label: '#5'
+    load: 28
+    peer: par-gsw-sbb1-nc5
+  - label: '#3'
+    load: 29
+    peer: par-gsw-sbb1-nc5
+  - label: '#1'
+    load: 1
+    peer: rbx-5-a72
+  - label: '#1'
+    load: 28
+    peer: fra-fr5-sbb2-nc5
+  - label: '#1'
+    load: 29
+    peer: fra-fr5-sbb2-nc5
+  - label: '#7'
+    load: 32
+    peer: lon-drch-sbb1-nc5
+  - label: '#1'
+    load: 28
+    peer: par-gsw-sbb1-nc5
+  - label: '#1'
+    load: 6
+    peer: bru-1-a72
+  - label: '#1'
+    load: 23
+    peer: ams-5-n7
+  - label: '#1'
+    load: 28
+    peer: fra-fr5-sbb2-nc5
+  - label: '#7'
+    load: 28
+    peer: par-gsw-sbb1-nc5
+  - label: '#4'
+    load: 32
+    peer: lon-drch-sbb1-nc5
+  - label: '#1'
+    load: 31
+    peer: fra-fr5-sbb2-nc5
+  - label: '#3'
+    load: 24
+    peer: ams-5-n7
+rbx-g3-nc5:
+  links:
+  - label: '#1'
+    load: 27
+    peer: fra-fr5-sbb1-nc5
+  - label: '#5'
+    load: 29
+    peer: lon-thw-sbb1-nc5
+  - label: '#1'
+    load: 27
+    peer: lon-thw-sbb1-nc5
+  - label: '#6'
+    load: 29
+    peer: lon-thw-sbb1-nc5
+  - label: '#1'
+    load: 28
+    peer: fra-fr5-sbb1-nc5
+  - label: '#7'
+    load: 30
+    peer: par-th2-sbb1-nc5
+  - label: '#3'
+    load: 23
+    peer: ams-1-n7
+  - label: '#4'
+    load: 23
+    peer: ams-1-n7
+  - label: '#1'
+    load: 27
+    peer: fra-fr5-sbb1-nc5
+  - label: '#2'
+    load: 29
+    peer: par-th2-sbb1-nc5
+  - label: '#2'
+    load: 25
+    peer: ams-1-n7
+  - label: '#1'
+    load: 29
+    peer: fra-fr5-sbb1-nc5
+  - label: '#8'
+    load: 28
+    peer: lon-thw-sbb1-nc5
+  - label: '#3'
+    load: 28
+    peer: lon-thw-sbb1-nc5
+  - label: '#1'
+    load: 28
+    peer: fra-fr5-sbb1-nc5
+  - label: '#5'
+    load: 30
+    peer: par-th2-sbb1-nc5
+  - label: '#6'
+    load: 29
+    peer: par-th2-sbb1-nc5
+rbx-g4-nc5:
+  links:
+  - label: '#1'
+    load: 28
+    peer: fra-fr5-sbb2-nc5
+  - label: '#4'
+    load: 23
+    peer: ams-5-n7
+  - label: '#6'
+    load: 30
+    peer: par-gsw-sbb1-nc5
+  - label: '#2'
+    load: 23
+    peer: ams-5-n7
+  - label: '#1'
+    load: 33
+    peer: lon-drch-sbb1-nc5
+  - label: '#8'
+    load: 32
+    peer: lon-drch-sbb1-nc5
+  - label: '#8'
+    load: 29
+    peer: par-gsw-sbb1-nc5
+  - label: '#2'
+    load: 23
+    peer: ams-5-n7
+  - label: '#1'
+    load: 29
+    peer: fra-fr5-sbb2-nc5
+  - label: '#2'
+    load: 29
+    peer: par-gsw-sbb1-nc5
+  - label: '#1'
+    load: 29
+    peer: fra-fr5-sbb2-nc5
+  - label: '#1'
+    load: 29
+    peer: fra-fr5-sbb2-nc5
+  - label: '#6'
+    load: 33
+    peer: lon-drch-sbb1-nc5
+  - label: '#1'
+    load: 29
+    peer: fra-fr5-sbb2-nc5
+  - label: '#5'
+    load: 31
+    peer: lon-drch-sbb1-nc5
+  - label: '#4'
+    load: 28
+    peer: par-gsw-sbb1-nc5
+  - label: '#3'
+    load: 32
+    peer: lon-drch-sbb1-nc5
+sbg-g2-nc5:
+  links:
+  - label: '#2'
+    load: 16
+    peer: par-gsw-sbb1-nc5
+  - label: '#6'
+    load: 22
+    peer: fra-fr5-sbb2-nc5
+  - label: '#1'
+    load: 10
+    peer: mil-kpn-sbb1-nc5
+  - label: '#3'
+    load: 23
+    peer: fra-fr5-sbb2-nc5
+  - label: '#1'
+    load: 16
+    peer: par-gsw-sbb1-nc5
+  - label: '#2'
+    load: 1
+    peer: sbg-g3-nc5
+  - label: '#1'
+    load: 1
+    peer: sbg-g3-nc5
+  - label: '#1'
+    load: 10
+    peer: mil-kpn-sbb1-nc5
+  - label: '#1'
+    load: 17
+    peer: par-gsw-sbb1-nc5
+  - label: '#2'
+    load: 21
+    peer: fra-fr5-sbb2-nc5
+  - label: '#7'
+    load: 26
+    peer: fra-fr5-sbb2-nc5
+  - label: '#2'
+    load: 17
+    peer: par-gsw-sbb1-nc5
+  - label: '#8'
+    load: 27
+    peer: fra-fr5-sbb2-nc5
+  - label: '#3'
+    load: 22
+    peer: fra-fr5-sbb2-nc5
+  - label: '#1'
+    load: 1
+    peer: sbg-g3-nc5
+  - label: '#1'
+    load: 16
+    peer: par-gsw-sbb1-nc5
+  - label: '#2'
+    load: 9
+    peer: mil-kpn-sbb1-nc5
+  - label: '#3'
+    load: 16
+    peer: par-gsw-sbb1-nc5
+  - label: '#2'
+    load: 17
+    peer: par-gsw-sbb1-nc5
+  - label: '#1'
+    load: 21
+    peer: fra-fr5-sbb2-nc5
+  - label: '#2'
+    load: 1
+    peer: sbg-g3-nc5
+  - label: '#1'
+    load: 1
+    peer: sbg-g3-nc5
+  - label: '#5'
+    load: 22
+    peer: fra-fr5-sbb2-nc5
+  - label: '#2'
+    load: 1
+    peer: sbg-g3-nc5
+sbg-g3-nc5:
+  links:
+  - label: '#2'
+    load: 10
+    peer: mil-kpn-sbb1-nc5
+  - label: '#2'
+    load: 17
+    peer: par-th2-sbb1-nc5
+  - label: '#7'
+    load: 23
+    peer: fra-fr5-sbb1-nc5
+  - label: '#1'
+    load: 24
+    peer: fra-fr5-sbb1-nc5
+  - label: '#1'
+    load: 10
+    peer: mil-kpn-sbb1-nc5
+  - label: '#3'
+    load: 23
+    peer: fra-fr5-sbb1-nc5
+  - label: '#1'
+    load: 17
+    peer: par-th2-sbb1-nc5
+  - label: '#2'
+    load: 1
+    peer: sbg-g2-nc5
+  - label: '#1'
+    load: 1
+    peer: sbg-g2-nc5
+  - label: '#8'
+    load: 23
+    peer: fra-fr5-sbb1-nc5
+  - label: '#2'
+    load: 17
+    peer: par-th2-sbb1-nc5
+  - label: '#3'
+    load: 23
+    peer: fra-fr5-sbb1-nc5
+  - label: '#1'
+    load: 17
+    peer: par-th2-sbb1-nc5
+  - label: '#1'
+    load: 1
+    peer: sbg-g2-nc5
+  - label: '#2'
+    load: 1
+    peer: sbg-g2-nc5
+  - label: '#3'
+    load: 17
+    peer: par-th2-sbb1-nc5
+  - label: '#2'
+    load: 16
+    peer: par-th2-sbb1-nc5
+  - label: '#2'
+    load: 22
+    peer: fra-fr5-sbb1-nc5
+  - label: '#1'
+    load: 1
+    peer: sbg-g2-nc5
+  - label: '#5'
+    load: 23
+    peer: fra-fr5-sbb1-nc5
+  - label: '#1'
+    load: 10
+    peer: mil-kpn-sbb1-nc5
+  - label: '#1'
+    load: 17
+    peer: par-th2-sbb1-nc5
+  - label: '#2'
+    load: 1
+    peer: sbg-g2-nc5
+  - label: '#1'
+    load: 3
+    peer: zrh-zh2-bb1-a72
+  - label: '#6'
+    load: 24
+    peer: fra-fr5-sbb1-nc5
+sin-gss1-sbb1-nc5:
+  links:
+  - label: '#2'
+    load: 26
+    peer: mrs-mrs1-sbb1-nc5
+  - label: '#1'
+    load: 50
+    peer: sin-sg1-sbb1-nc5
+  - label: '#2'
+    load: 0
+    peer: syd-sy2-bb2-a72
+  - label: '#2'
+    load: 26
+    peer: mrs-mrs1-sbb1-nc5
+  - label: '#2'
+    load: 26
+    peer: mrs-mrs1-sbb1-nc5
+  - label: '#1'
+    load: 63
+    peer: syd-sy2-bb2-a72
+sin-sg1-sbb1-nc5:
+  links:
+  - label: '#1'
+    load: 17
+    peer: mrs-mrs1-sbb1-nc5
+  - label: '#1'
+    load: 15
+    peer: sin-gss1-sbb1-nc5
+  - label: '#1'
+    load: 0
+    peer: syd-sy2-bb1-a72
+  - label: '#2'
+    load: 0
+    peer: syd-sy2-bb1-a72
+  - label: '#1'
+    load: 16
+    peer: mrs-mrs1-sbb1-nc5
+  - label: '#1'
+    load: 16
+    peer: mrs-mrs1-sbb1-nc5
+syd-sy2-bb1-a72:
+  links:
+  - label: '#1'
+    load: 0
+    peer: sin-sg1-sbb1-nc5
+  - label: '#1'
+    load: 1
+    peer: syd-sy2-bb2-a72
+  - label: '#1'
+    load: 1
+    peer: syd-sy2-bb2-a72
+  - label: '#2'
+    load: 0
+    peer: sin-sg1-sbb1-nc5
+syd-sy2-bb2-a72:
+  links:
+  - label: '#1'
+    load: 1
+    peer: syd-sy2-bb1-a72
+  - label: '#2'
+    load: 0
+    peer: sin-gss1-sbb1-nc5
+  - label: '#1'
+    load: 1
+    peer: syd-sy2-bb1-a72
+  - label: '#1'
+    load: 38
+    peer: sin-gss1-sbb1-nc5
+th2-25a-ast:
+  links:
+  - label: '#1'
+    load: 1
+    peer: par-th2-pb1-nc5
+th2-25b-ast:
+  links:
+  - label: '#1'
+    load: 1
+    peer: par-th2-pb3-nc5
+th2-26-a71:
+  links:
+  - label: '#1'
+    load: 1
+    peer: par-th2-pb3-nc5
+th2-dsl1a-n93:
+  links:
+  - label: '#1'
+    load: 1
+    peer: par-th2-pb1-nc5
+  - label: '#1'
+    load: 1
+    peer: par-th2-pb2-nc5
+th2-dsl2-n93:
+  links:
+  - label: '#1'
+    load: 1
+    peer: par-th2-pb1-nc5
+  - label: '#1'
+    load: 1
+    peer: par-th2-pb2-nc5
+vie-vie2-pb1-nc5:
+  links:
+  - label: '#1'
+    load: 9
+    peer: A1TEL
+  - label: '#2'
+    load: 1
+    peer: vie-vie2-sbb1-8k
+  - label: '#1'
+    load: 1
+    peer: vie-vie2-sbb1-8k
+  - label: '#2'
+    load: 1
+    peer: vie-vie2-sbb1-8k
+  - label: '#1'
+    load: 1
+    peer: vie-vie2-sbb1-8k
+  - label: '#1'
+    load: 1
+    peer: vie-vie2-sbb1-8k
+  - label: '#2'
+    load: 1
+    peer: vie-vie2-sbb1-8k
+  - label: '#1'
+    load: 12
+    peer: VIX
+  - label: '#1'
+    load: 1
+    peer: vie-vie2-sbb1-8k
+  - label: '#2'
+    load: 1
+    peer: vie-vie2-sbb1-8k
+vie-vie2-sbb1-8k:
+  links:
+  - label: '#2'
+    load: 3
+    peer: vie-vie2-pb1-nc5
+  - label: '#1'
+    load: 3
+    peer: vie-vie2-pb1-nc5
+  - label: '#2'
+    load: 3
+    peer: vie-vie2-pb1-nc5
+  - label: '#1'
+    load: 3
+    peer: vie-vie2-pb1-nc5
+  - label: '#1'
+    load: 5
+    peer: fra-fr5-sbb2-nc5
+  - label: '#2'
+    load: 5
+    peer: fra-fr5-sbb2-nc5
+  - label: '#4'
+    load: 7
+    peer: fra-fr5-sbb1-nc5
+  - label: '#4'
+    load: 7
+    peer: fra-fr5-sbb1-nc5
+  - label: '#1'
+    load: 3
+    peer: vie-vie2-pb1-nc5
+  - label: '#2'
+    load: 3
+    peer: vie-vie2-pb1-nc5
+  - label: '#1'
+    load: 24
+    peer: prg-sitl-pb1-nc5
+  - label: '#1'
+    load: 3
+    peer: vie-vie2-pb1-nc5
+  - label: '#2'
+    load: 3
+    peer: vie-vie2-pb1-nc5
+was-cva1-sbb1-8k:
+  links:
+  - label: '#1'
+    load: 17
+    peer: par-gsw-sbb1-nc5
+  - label: '#4'
+    load: 1
+    peer: was-nva1-sbb1-8k
+  - label: '#7'
+    load: 1
+    peer: was-nva1-sbb1-8k
+  - label: '#1'
+    load: 1
+    peer: was-nva1-sbb1-8k
+  - label: '#6'
+    load: 1
+    peer: was-nva1-sbb1-8k
+  - label: '#1'
+    load: 17
+    peer: par-gsw-sbb1-nc5
+  - label: '#5'
+    load: 1
+    peer: was-nva1-sbb1-8k
+  - label: '#2'
+    load: 1
+    peer: was-nva1-sbb1-8k
+  - label: '#3'
+    load: 1
+    peer: was-nva1-sbb1-8k
+  - label: '#8'
+    load: 1
+    peer: was-nva1-sbb1-8k
+was-nva1-sbb1-8k:
+  links:
+  - label: '#2'
+    load: 11
+    peer: par-th2-sbb1-nc5
+  - label: '#4'
+    load: 1
+    peer: was-cva1-sbb1-8k
+  - label: '#1'
+    load: 11
+    peer: par-th2-sbb1-nc5
+  - label: '#3'
+    load: 11
+    peer: par-th2-sbb1-nc5
+  - label: '#7'
+    load: 1
+    peer: was-cva1-sbb1-8k
+  - label: '#1'
+    load: 1
+    peer: was-cva1-sbb1-8k
+  - label: '#6'
+    load: 1
+    peer: was-cva1-sbb1-8k
+  - label: '#5'
+    load: 1
+    peer: was-cva1-sbb1-8k
+  - label: '#2'
+    load: 1
+    peer: was-cva1-sbb1-8k
+  - label: '#3'
+    load: 1
+    peer: was-cva1-sbb1-8k
+  - label: '#8'
+    load: 1
+    peer: was-cva1-sbb1-8k
+waw-atm-pb1-nc5:
+  links:
+  - label: '#5'
+    load: 1
+    peer: waw-atm-sbb1-nc5
+  - label: '#1'
+    load: 5
+    peer: EXATEL
+  - label: '#1'
+    load: 1
+    peer: waw-atm-sbb1-nc5
+  - label: '#2'
+    load: 1
+    peer: waw-atm-sbb1-nc5
+  - label: '#7'
+    load: 1
+    peer: waw-atm-sbb1-nc5
+  - label: '#4'
+    load: 1
+    peer: waw-atm-sbb1-nc5
+  - label: '#1'
+    load: 11
+    peer: THINX
+  - label: '#8'
+    load: 1
+    peer: waw-atm-sbb1-nc5
+  - label: '#3'
+    load: 1
+    peer: waw-atm-sbb1-nc5
+  - label: '#6'
+    load: 1
+    peer: waw-atm-sbb1-nc5
+waw-atm-sbb1-nc5:
+  links:
+  - label: '#1'
+    load: 5
+    peer: waw1-oza1-g2-nc5
+  - label: '#3'
+    load: 1
+    peer: waw-wa2-sbb1-nc5
+  - label: '#5'
+    load: 1
+    peer: waw-atm-pb1-nc5
+  - label: '#2'
+    load: 6
+    peer: ams-1-n7
+  - label: '#1'
+    load: 5
+    peer: waw1-oza1-g2-nc5
+  - label: '#1'
+    load: 6
+    peer: waw1-oza1-g2-nc5
+  - label: '#1'
+    load: 6
+    peer: ams-1-n7
+  - label: '#1'
+    load: 6
+    peer: waw-wa1-pb1-nc5
+  - label: '#2'
+    load: 1
+    peer: waw-wa2-sbb1-nc5
+  - label: '#1'
+    load: 6
+    peer: waw-wa1-pb1-nc5
+  - label: '#1'
+    load: 1
+    peer: waw-wa2-sbb1-nc5
+  - label: '#4'
+    load: 1
+    peer: waw-wa2-sbb1-nc5
+  - label: '#1'
+    load: 5
+    peer: waw1-oza1-g2-nc5
+  - label: '#4'
+    load: 1
+    peer: waw-wa2-sbb1-nc5
+  - label: '#3'
+    load: 1
+    peer: waw-wa2-sbb1-nc5
+  - label: '#4'
+    load: 34
+    peer: fra-fr5-sbb2-nc5
+  - label: '#1'
+    load: 6
+    peer: ams-1-n7
+  - label: '#1'
+    load: 6
+    peer: waw-wa1-pb1-nc5
+  - label: '#1'
+    load: 1
+    peer: waw-atm-pb1-nc5
+  - label: '#1'
+    load: 5
+    peer: waw1-oza1-g2-nc5
+  - label: '#1'
+    load: 6
+    peer: waw-wa1-pb1-nc5
+  - label: '#2'
+    load: 1
+    peer: waw-atm-pb1-nc5
+  - label: '#7'
+    load: 1
+    peer: waw-atm-pb1-nc5
+  - label: '#4'
+    load: 1
+    peer: waw-atm-pb1-nc5
+  - label: '#1'
+    load: 1
+    peer: waw-wa2-sbb1-nc5
+  - label: '#1'
+    load: 5
+    peer: waw1-oza1-g2-nc5
+  - label: '#1'
+    load: 6
+    peer: waw-wa1-pb1-nc5
+  - label: '#8'
+    load: 1
+    peer: waw-atm-pb1-nc5
+  - label: '#1'
+    load: 6
+    peer: waw1-oza1-g2-nc5
+  - label: '#2'
+    load: 35
+    peer: fra-fr5-sbb2-nc5
+  - label: '#1'
+    load: 5
+    peer: waw1-oza1-g2-nc5
+  - label: '#1'
+    load: 6
+    peer: waw-wa1-pb1-nc5
+  - label: '#3'
+    load: 1
+    peer: waw-atm-pb1-nc5
+  - label: '#3'
+    load: 34
+    peer: fra-fr5-sbb2-nc5
+  - label: '#4'
+    load: 1
+    peer: prg-sitl-pb1-nc5
+  - label: '#6'
+    load: 1
+    peer: waw-atm-pb1-nc5
+  - label: '#2'
+    load: 1
+    peer: waw-wa2-sbb1-nc5
+  - label: '#1'
+    load: 5
+    peer: waw1-oza1-g2-nc5
+  - label: '#1'
+    load: 6
+    peer: waw-wa1-pb1-nc5
+  - label: '#1'
+    load: 6
+    peer: waw-wa1-pb1-nc5
+  - label: '#1'
+    load: 35
+    peer: fra-fr5-sbb2-nc5
+  - label: '#1'
+    load: 5
+    peer: waw1-oza1-g2-nc5
+  - label: '#1'
+    load: 5
+    peer: waw1-oza1-g2-nc5
+  - label: '#1'
+    load: 5
+    peer: waw1-oza1-g2-nc5
+waw-wa1-pb1-nc5:
+  links:
+  - label: '#1'
+    load: 5
+    peer: NETIA
+  - label: '#1'
+    load: 3
+    peer: waw-wa2-sbb1-nc5
+  - label: '#1'
+    load: 2
+    peer: waw-atm-sbb1-nc5
+  - label: '#1'
+    load: 8
+    peer: TPIX
+  - label: '#1'
+    load: 2
+    peer: waw-atm-sbb1-nc5
+  - label: '#1'
+    load: 2
+    peer: waw-wa2-sbb1-nc5
+  - label: '#1'
+    load: 10
+    peer: PLIX
+  - label: '#1'
+    load: 21
+    peer: RETN
+  - label: '#1'
+    load: 2
+    peer: waw-wa2-sbb1-nc5
+  - label: '#1'
+    load: 3
+    peer: waw-atm-sbb1-nc5
+  - label: '#1'
+    load: 2
+    peer: waw-atm-sbb1-nc5
+  - label: '#1'
+    load: 3
+    peer: waw-wa2-sbb1-nc5
+  - label: '#1'
+    load: 15
+    peer: TELIA
+  - label: '#1'
+    load: 11
+    peer: COGENT
+  - label: '#1'
+    load: 2
+    peer: waw-wa2-sbb1-nc5
+  - label: '#1'
+    load: 2
+    peer: waw-wa2-sbb1-nc5
+  - label: '#1'
+    load: 2
+    peer: waw-atm-sbb1-nc5
+  - label: '#2'
+    load: 16
+    peer: PLUS
+  - label: '#1'
+    load: 2
+    peer: FIORD
+  - label: '#1'
+    load: 10
+    peer: TPSA
+  - label: '#1'
+    load: 3
+    peer: waw-atm-sbb1-nc5
+  - label: '#1'
+    load: 16
+    peer: PLUS
+  - label: '#4'
+    load: 16
+    peer: PLUS
+  - label: '#1'
+    load: 2
+    peer: waw-wa2-sbb1-nc5
+  - label: '#1'
+    load: 8
+    peer: UPC
+  - label: '#1'
+    load: 3
+    peer: waw-atm-sbb1-nc5
+  - label: '#1'
+    load: 3
+    peer: waw-atm-sbb1-nc5
+  - label: '#3'
+    load: 16
+    peer: PLUS
+  - label: '#1'
+    load: 2
+    peer: waw-wa2-sbb1-nc5
+waw-wa2-pb1-nc5:
+  links:
+  - label: '#1'
+    load: 25
+    peer: DTEL-IX
+  - label: '#1'
+    load: 1
+    peer: waw-wa2-vcoagg2-n92
+  - label: '#5'
+    load: 4
+    peer: waw-wa2-sbb1-nc5
+  - label: '#1'
+    load: 10
+    peer: PLIX
+  - label: '#8'
+    load: 4
+    peer: waw-wa2-sbb1-nc5
+  - label: '#1'
+    load: 32
+    peer: MSK-IX
+  - label: '#2'
+    load: 4
+    peer: waw-wa2-sbb1-nc5
+  - label: '#1'
+    load: 4
+    peer: waw-wa2-sbb1-nc5
+  - label: '#1'
+    load: 26
+    peer: DTEL-IX
+  - label: '#4'
+    load: 4
+    peer: waw-wa2-sbb1-nc5
+  - label: '#6'
+    load: 4
+    peer: waw-wa2-sbb1-nc5
+  - label: '#3'
+    load: 4
+    peer: waw-wa2-sbb1-nc5
+  - label: '#1'
+    load: 1
+    peer: waw-wa2-vcoagg1-n92
+  - label: '#1'
+    load: 7
+    peer: TPIX
+  - label: '#1'
+    load: 12
+    peer: TPSA
+  - label: '#7'
+    load: 3
+    peer: waw-wa2-sbb1-nc5
+waw-wa2-sbb1-nc5:
+  links:
+  - label: '#2'
+    load: 33
+    peer: fra-fr5-sbb1-nc5
+  - label: '#3'
+    load: 1
+    peer: waw-atm-sbb1-nc5
+  - label: '#1'
+    load: 6
+    peer: waw-wa1-pb1-nc5
+  - label: '#1'
+    load: 5
+    peer: waw1-oza1-g1-nc5
+  - label: '#1'
+    load: 34
+    peer: fra-fr5-sbb1-nc5
+  - label: '#2'
+    load: 1
+    peer: waw-atm-sbb1-nc5
+  - label: '#1'
+    load: 1
+    peer: waw-atm-sbb1-nc5
+  - label: '#4'
+    load: 1
+    peer: waw-atm-sbb1-nc5
+  - label: '#1'
+    load: 6
+    peer: waw-wa1-pb1-nc5
+  - label: '#5'
+    load: 7
+    peer: waw-wa2-pb1-nc5
+  - label: '#4'
+    load: 1
+    peer: waw-atm-sbb1-nc5
+  - label: '#3'
+    load: 1
+    peer: waw-atm-sbb1-nc5
+  - label: '#1'
+    load: 6
+    peer: waw1-oza1-g1-nc5
+  - label: '#1'
+    load: 5
+    peer: waw1-oza1-g1-nc5
+  - label: '#1'
+    load: 6
+    peer: waw-wa1-pb1-nc5
+  - label: '#1'
+    load: 5
+    peer: waw1-oza1-g1-nc5
+  - label: '#1'
+    load: 5
+    peer: waw1-oza1-g1-nc5
+  - label: '#8'
+    load: 7
+    peer: waw-wa2-pb1-nc5
+  - label: '#1'
+    load: 5
+    peer: waw1-oza1-g1-nc5
+  - label: '#1'
+    load: 5
+    peer: waw1-oza1-g1-nc5
+  - label: '#1'
+    load: 5
+    peer: waw1-oza1-g1-nc5
+  - label: '#2'
+    load: 7
+    peer: waw-wa2-pb1-nc5
+  - label: '#2'
+    load: 6
+    peer: ams-5-n7
+  - label: '#1'
+    load: 7
+    peer: waw-wa2-pb1-nc5
+  - label: '#2'
+    load: 0
+    peer: fra-fr5-sbb1-nc5
+  - label: '#1'
+    load: 5
+    peer: waw1-oza1-g1-nc5
+  - label: '#1'
+    load: 6
+    peer: waw-wa1-pb1-nc5
+  - label: '#1'
+    load: 34
+    peer: fra-fr5-sbb1-nc5
+  - label: '#1'
+    load: 6
+    peer: waw-wa1-pb1-nc5
+  - label: '#1'
+    load: 0
+    peer: fra-fr5-sbb1-nc5
+  - label: '#1'
+    load: 6
+    peer: waw-wa1-pb1-nc5
+  - label: '#1'
+    load: 1
+    peer: waw-atm-sbb1-nc5
+  - label: '#4'
+    load: 7
+    peer: waw-wa2-pb1-nc5
+  - label: '#1'
+    load: 6
+    peer: waw1-oza1-g1-nc5
+  - label: '#6'
+    load: 8
+    peer: waw-wa2-pb1-nc5
+  - label: '#2'
+    load: 7
+    peer: ams-5-n7
+  - label: '#1'
+    load: 6
+    peer: waw1-oza1-g1-nc5
+  - label: '#3'
+    load: 7
+    peer: waw-wa2-pb1-nc5
+  - label: '#2'
+    load: 33
+    peer: fra-fr5-sbb1-nc5
+  - label: '#1'
+    load: 5
+    peer: waw1-oza1-g1-nc5
+  - label: '#2'
+    load: 1
+    peer: waw-atm-sbb1-nc5
+  - label: '#1'
+    load: 6
+    peer: waw-wa1-pb1-nc5
+  - label: '#7'
+    load: 7
+    peer: waw-wa2-pb1-nc5
+  - label: '#4'
+    load: 1
+    peer: fra-fr5-sbb1-nc5
+  - label: '#1'
+    load: 7
+    peer: ams-5-n7
+  - label: '#1'
+    load: 6
+    peer: waw-wa1-pb1-nc5
+  - label: '#3'
+    load: 1
+    peer: fra-fr5-sbb1-nc5
+waw-wa2-vcoagg1-n92:
+  links:
+  - label: '#1'
+    load: 1
+    peer: waw-wa2-pb1-nc5
+waw-wa2-vcoagg2-n92:
+  links:
+  - label: '#1'
+    load: 1
+    peer: waw-wa2-pb1-nc5
+waw1-oza1-g1-nc5:
+  links:
+  - label: '#2'
+    load: 1
+    peer: waw1-oza1-g2-nc5
+  - label: '#2'
+    load: 1
+    peer: waw1-oza1-g2-nc5
+  - label: '#1'
+    load: 14
+    peer: waw-wa2-sbb1-nc5
+  - label: '#1'
+    load: 15
+    peer: waw-wa2-sbb1-nc5
+  - label: '#1'
+    load: 15
+    peer: waw-wa2-sbb1-nc5
+  - label: '#1'
+    load: 15
+    peer: waw-wa2-sbb1-nc5
+  - label: '#1'
+    load: 14
+    peer: waw-wa2-sbb1-nc5
+  - label: '#1'
+    load: 1
+    peer: waw1-oza1-g2-nc5
+  - label: '#1'
+    load: 15
+    peer: waw-wa2-sbb1-nc5
+  - label: '#1'
+    load: 14
+    peer: waw-wa2-sbb1-nc5
+  - label: '#1'
+    load: 14
+    peer: waw-wa2-sbb1-nc5
+  - label: '#1'
+    load: 14
+    peer: waw-wa2-sbb1-nc5
+  - label: '#1'
+    load: 1
+    peer: waw1-oza1-g2-nc5
+  - label: '#1'
+    load: 15
+    peer: waw-wa2-sbb1-nc5
+  - label: '#1'
+    load: 15
+    peer: waw-wa2-sbb1-nc5
+  - label: '#1'
+    load: 14
+    peer: waw-wa2-sbb1-nc5
+waw1-oza1-g2-nc5:
+  links:
+  - label: '#1'
+    load: 15
+    peer: waw-atm-sbb1-nc5
+  - label: '#2'
+    load: 1
+    peer: waw1-oza1-g1-nc5
+  - label: '#2'
+    load: 1
+    peer: waw1-oza1-g1-nc5
+  - label: '#1'
+    load: 14
+    peer: waw-atm-sbb1-nc5
+  - label: '#1'
+    load: 15
+    peer: waw-atm-sbb1-nc5
+  - label: '#1'
+    load: 15
+    peer: waw-atm-sbb1-nc5
+  - label: '#1'
+    load: 1
+    peer: waw1-oza1-g1-nc5
+  - label: '#1'
+    load: 14
+    peer: waw-atm-sbb1-nc5
+  - label: '#1'
+    load: 1
+    peer: waw1-oza1-g1-nc5
+  - label: '#1'
+    load: 14
+    peer: waw-atm-sbb1-nc5
+  - label: '#1'
+    load: 14
+    peer: waw-atm-sbb1-nc5
+  - label: '#1'
+    load: 15
+    peer: waw-atm-sbb1-nc5
+  - label: '#1'
+    load: 14
+    peer: waw-atm-sbb1-nc5
+  - label: '#1'
+    load: 15
+    peer: waw-atm-sbb1-nc5
+  - label: '#1'
+    load: 15
+    peer: waw-atm-sbb1-nc5
+  - label: '#1'
+    load: 14
+    peer: waw-atm-sbb1-nc5
+zrh-zh2-bb1-a72:
+  links:
+  - label: '#6'
+    load: 15
+    peer: zrh-zh2-bb1-a9
+  - label: '#1'
+    load: 14
+    peer: TIX
+  - label: '#4'
+    load: 13
+    peer: zrh-zh2-bb1-a9
+  - label: '#11'
+    load: 16
+    peer: zrh-zh2-bb1-a9
+  - label: '#12'
+    load: 15
+    peer: zrh-zh2-bb1-a9
+  - label: '#1'
+    load: 3
+    peer: UPC
+  - label: '#8'
+    load: 13
+    peer: zrh-zh2-bb1-a9
+  - label: '#5'
+    load: 14
+    peer: zrh-zh2-bb1-a9
+  - label: '#7'
+    load: 15
+    peer: zrh-zh2-bb1-a9
+  - label: '#1'
+    load: 1
+    peer: mil-kpn-sbb1-nc5
+  - label: '#3'
+    load: 12
+    peer: TIX
+  - label: '#2'
+    load: 12
+    peer: TIX
+  - label: '#2'
+    load: 14
+    peer: zrh-zh2-bb1-a9
+  - label: '#1'
+    load: 14
+    peer: zrh-zh2-bb1-a9
+  - label: '#1'
+    load: 3
+    peer: fra-fr5-sbb1-nc5
+  - label: '#9'
+    load: 18
+    peer: zrh-zh2-bb1-a9
+  - label: '#4'
+    load: 12
+    peer: TIX
+  - label: '#1'
+    load: 5
+    peer: SUNRISE
+  - label: '#10'
+    load: 15
+    peer: zrh-zh2-bb1-a9
+  - label: '#2'
+    load: 1
+    peer: SWISSCOM
+  - label: '#1'
+    load: 1
+    peer: SWISSCOM
+  - label: '#3'
+    load: 13
+    peer: zrh-zh2-bb1-a9
+  - label: '#1'
+    load: 1
+    peer: sbg-g3-nc5
+zrh-zh2-bb1-a9:
+  links:
+  - label: '#6'
+    load: 15
+    peer: zrh-zh2-bb1-a72
+  - label: '#4'
+    load: 15
+    peer: zrh-zh2-bb1-a72
+  - label: '#11'
+    load: 14
+    peer: zrh-zh2-bb1-a72
+  - label: '#12'
+    load: 13
+    peer: zrh-zh2-bb1-a72
+  - label: '#8'
+    load: 16
+    peer: zrh-zh2-bb1-a72
+  - label: '#5'
+    load: 17
+    peer: zrh-zh2-bb1-a72
+  - label: '#7'
+    load: 13
+    peer: zrh-zh2-bb1-a72
+  - label: '#2'
+    load: 13
+    peer: zrh-zh2-bb1-a72
+  - label: '#1'
+    load: 16
+    peer: zrh-zh2-bb1-a72
+  - label: '#9'
+    load: 16
+    peer: zrh-zh2-bb1-a72
+  - label: '#10'
+    load: 13
+    peer: zrh-zh2-bb1-a72
+  - label: '#3'
+    load: 13
+    peer: zrh-zh2-bb1-a72

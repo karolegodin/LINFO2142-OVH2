@@ -1,0 +1,682 @@
+BBIX:
+  links:
+  - label: '#1'
+    load: 11
+    peer: sin-sg1-pb1-nc5
+EDGE-IX:
+  links:
+  - label: '#1'
+    load: 1
+    peer: syd-sy2-bb2-a72
+EQUINIX:
+  links:
+  - label: '#1'
+    load: 18
+    peer: sin-sg1-pb1-nc5
+  - label: '#1'
+    load: 18
+    peer: sin-sg1-pb1-nc5
+  - label: '#1'
+    load: 6
+    peer: syd-sy2-bb2-a72
+EXTREME-IX:
+  links:
+  - label: '#1'
+    load: 1
+    peer: bom-gpx1-pb1-nc5
+FACEBOOK:
+  links:
+  - label: '#1'
+    load: 1
+    peer: syd-sy2-bb2-a72
+GOOGLE:
+  links:
+  - label: '#1'
+    load: 4
+    peer: sin-gss1-pb1-nc5
+  - label: '#1'
+    load: 1
+    peer: syd-sy2-bb1-a72
+  - label: '#1'
+    load: 4
+    peer: sin-sg1-pb1-nc5
+IX AUS NSW:
+  links:
+  - label: '#1'
+    load: 13
+    peer: syd-sy2-bb1-a72
+NTT:
+  links:
+  - label: '#1'
+    load: 4
+    peer: sin-sg1-pb1-nc5
+  - label: '#1'
+    load: 1
+    peer: syd-sy2-bb1-a72
+  - label: '#1'
+    load: 1
+    peer: syd-sy2-bb2-a72
+RELIANCE:
+  links:
+  - label: '#1'
+    load: 1
+    peer: sin-sg1-pb1-nc5
+  - label: '#1'
+    load: 1
+    peer: sin-sg1-pb1-nc5
+  - label: '#1'
+    load: 1
+    peer: sin-sg1-pb1-nc5
+  - label: '#1'
+    load: 1
+    peer: sin-sg1-pb1-nc5
+SGIX:
+  links:
+  - label: '#1'
+    load: 7
+    peer: sin-gss1-pb1-nc5
+TATA:
+  links:
+  - label: '#1'
+    load: 10
+    peer: sin-gss1-pb1-nc5
+TEL MALAYSIA:
+  links:
+  - label: '#1'
+    load: 2
+    peer: sin-sg1-pb1-nc5
+  - label: '#1'
+    load: 3
+    peer: sin-sg1-pb1-nc5
+  - label: '#1'
+    load: 2
+    peer: sin-sg1-pb1-nc5
+  - label: '#1'
+    load: 3
+    peer: sin-sg1-pb1-nc5
+TELSTRA:
+  links:
+  - label: '#1'
+    load: 1
+    peer: syd-sy2-bb2-a72
+  - label: '#1'
+    load: 1
+    peer: sin-gss1-pb1-nc5
+  - label: '#1'
+    load: 1
+    peer: sin-gss1-pb1-nc5
+  - label: '#1'
+    load: 1
+    peer: sin-gss1-pb1-nc5
+  - label: '#1'
+    load: 1
+    peer: sin-gss1-pb1-nc5
+  - label: '#1'
+    load: 2
+    peer: syd-sy2-bb1-a72
+TPG:
+  links:
+  - label: '#1'
+    load: 1
+    peer: syd-sy2-bb2-a72
+  - label: '#1'
+    load: 1
+    peer: syd-sy2-bb1-a72
+VOCUS:
+  links:
+  - label: '#1'
+    load: 1
+    peer: syd-sy2-bb2-a72
+  - label: '#1'
+    load: 1
+    peer: syd-sy2-bb1-a72
+VODAFONE:
+  links:
+  - label: '#1'
+    load: 6
+    peer: sin-gss1-pb1-nc5
+bom-gpx1-pb1-nc5:
+  links:
+  - label: '#1'
+    load: 1
+    peer: sin-sg1-sbb1-nc5
+  - label: '#1'
+    load: 9
+    peer: EXTREME-IX
+  - label: '#1'
+    load: 1
+    peer: sin-gss1-sbb1-nc5
+lax-la1-bb1-n7:
+  links:
+  - label: '#1'
+    load: 11
+    peer: syd-sy2-bb2-a72
+  - label: '#1'
+    load: 11
+    peer: syd-sy2-bb2-a72
+mrs-mrs1-sbb1-nc5:
+  links:
+  - label: '#1'
+    load: 0
+    peer: sin-sg1-sbb1-nc5
+  - label: '#1'
+    load: 52
+    peer: sin-sg1-sbb1-nc5
+  - label: '#1'
+    load: 30
+    peer: sin-gss1-sbb1-nc5
+  - label: '#1'
+    load: 0
+    peer: sin-sg1-sbb1-nc5
+  - label: '#1'
+    load: 30
+    peer: sin-gss1-sbb1-nc5
+  - label: '#1'
+    load: 30
+    peer: sin-gss1-sbb1-nc5
+sin-gss1-pb1-nc5:
+  links:
+  - label: '#1'
+    load: 1
+    peer: TELSTRA
+  - label: '#1'
+    load: 1
+    peer: TELSTRA
+  - label: '#1'
+    load: 9
+    peer: SGIX
+  - label: '#1'
+    load: 6
+    peer: sin-gss1-sbb1-nc5
+  - label: '#1'
+    load: 4
+    peer: TATA
+  - label: '#1'
+    load: 1
+    peer: TELSTRA
+  - label: '#1'
+    load: 1
+    peer: GOOGLE
+  - label: '#1'
+    load: 6
+    peer: sin-gss1-sbb1-nc5
+  - label: '#1'
+    load: 1
+    peer: TELSTRA
+  - label: '#1'
+    load: 6
+    peer: sin-gss1-sbb1-nc5
+  - label: '#1'
+    load: 6
+    peer: sin-gss1-sbb1-nc5
+  - label: '#1'
+    load: 12
+    peer: VODAFONE
+sin-gss1-sbb1-nc5:
+  links:
+  - label: '#1'
+    load: 8
+    peer: sin1-sgcs2-g2-nc5
+  - label: '#2'
+    load: 17
+    peer: sjo-sv5-bb1-n7
+  - label: '#1'
+    load: 28
+    peer: mrs-mrs1-sbb1-nc5
+  - label: '#1'
+    load: 5
+    peer: sin-gss1-pb1-nc5
+  - label: '#1'
+    load: 25
+    peer: syd-sy2-bb2-a72
+  - label: '#1'
+    load: 7
+    peer: sin1-sgcs2-g2-nc5
+  - label: '#1'
+    load: 5
+    peer: sin-gss1-pb1-nc5
+  - label: '#1'
+    load: 6
+    peer: sin-gss1-pb1-nc5
+  - label: '#1'
+    load: 9
+    peer: bom-gpx1-pb1-nc5
+  - label: '#1'
+    load: 30
+    peer: mrs-mrs1-sbb1-nc5
+  - label: '#1'
+    load: 8
+    peer: sin1-sgcs2-g2-nc5
+  - label: '#1'
+    load: 5
+    peer: sin-gss1-pb1-nc5
+  - label: '#1'
+    load: 31
+    peer: mrs-mrs1-sbb1-nc5
+  - label: '#2'
+    load: 31
+    peer: syd-sy2-bb2-a72
+  - label: '#1'
+    load: 27
+    peer: sin-sg1-sbb1-nc5
+  - label: '#1'
+    load: 18
+    peer: sjo-sv5-bb1-n7
+  - label: '#1'
+    load: 8
+    peer: sin1-sgcs2-g2-nc5
+sin-sg1-pb1-nc5:
+  links:
+  - label: '#1'
+    load: 12
+    peer: RELIANCE
+  - label: '#1'
+    load: 14
+    peer: TEL MALAYSIA
+  - label: '#1'
+    load: 21
+    peer: EQUINIX
+  - label: '#1'
+    load: 12
+    peer: sin-sg1-sbb1-nc5
+  - label: '#1'
+    load: 10
+    peer: RELIANCE
+  - label: '#1'
+    load: 12
+    peer: RELIANCE
+  - label: '#1'
+    load: 10
+    peer: RELIANCE
+  - label: '#1'
+    load: 15
+    peer: TEL MALAYSIA
+  - label: '#1'
+    load: 12
+    peer: sin-sg1-sbb1-nc5
+  - label: '#1'
+    load: 5
+    peer: NTT
+  - label: '#1'
+    load: 12
+    peer: sin-sg1-sbb1-nc5
+  - label: '#1'
+    load: 13
+    peer: TEL MALAYSIA
+  - label: '#1'
+    load: 12
+    peer: sin-sg1-sbb1-nc5
+  - label: '#1'
+    load: 22
+    peer: EQUINIX
+  - label: '#1'
+    load: 1
+    peer: GOOGLE
+  - label: '#1'
+    load: 14
+    peer: TEL MALAYSIA
+  - label: '#1'
+    load: 20
+    peer: BBIX
+sin-sg1-sbb1-nc5:
+  links:
+  - label: '#1'
+    load: 0
+    peer: mrs-mrs1-sbb1-nc5
+  - label: '#1'
+    load: 51
+    peer: mrs-mrs1-sbb1-nc5
+  - label: '#2'
+    load: 0
+    peer: syd-sy2-bb1-a72
+  - label: '#1'
+    load: 16
+    peer: sin-sg1-pb1-nc5
+  - label: '#1'
+    load: 13
+    peer: sin1-sgcs2-g1-nc5
+  - label: '#1'
+    load: 13
+    peer: sin1-sgcs2-g1-nc5
+  - label: '#1'
+    load: 15
+    peer: sin-sg1-pb1-nc5
+  - label: '#1'
+    load: 1
+    peer: bom-gpx1-pb1-nc5
+  - label: '#1'
+    load: 13
+    peer: sin1-sgcs2-g1-nc5
+  - label: '#1'
+    load: 15
+    peer: sin-sg1-pb1-nc5
+  - label: '#1'
+    load: 13
+    peer: sin1-sgcs2-g1-nc5
+  - label: '#1'
+    load: 0
+    peer: mrs-mrs1-sbb1-nc5
+  - label: '#1'
+    load: 15
+    peer: sin-sg1-pb1-nc5
+  - label: '#1'
+    load: 9
+    peer: sin-gss1-sbb1-nc5
+  - label: '#1'
+    load: 0
+    peer: syd-sy2-bb1-a72
+sin1-sgcs2-g1-nc5:
+  links:
+  - label: '#1'
+    load: 12
+    peer: sin-sg1-sbb1-nc5
+  - label: '#1'
+    load: 12
+    peer: sin-sg1-sbb1-nc5
+  - label: '#2'
+    load: 1
+    peer: sin1-sgcs2-g2-nc5
+  - label: '#1'
+    load: 1
+    peer: sin1-sgcs2-g2-nc5
+  - label: '#1'
+    load: 12
+    peer: sin-sg1-sbb1-nc5
+  - label: '#1'
+    load: 1
+    peer: syd1-sy2-g1-nc5
+  - label: '#1'
+    load: 12
+    peer: sin-sg1-sbb1-nc5
+  - label: '#2'
+    load: 1
+    peer: sin1-sgcs2-g2-nc5
+  - label: '#1'
+    load: 1
+    peer: sin1-sgcs2-g2-nc5
+sin1-sgcs2-g2-nc5:
+  links:
+  - label: '#1'
+    load: 12
+    peer: sin-gss1-sbb1-nc5
+  - label: '#2'
+    load: 1
+    peer: sin1-sgcs2-g1-nc5
+  - label: '#1'
+    load: 1
+    peer: sin1-sgcs2-g1-nc5
+  - label: '#1'
+    load: 12
+    peer: sin-gss1-sbb1-nc5
+  - label: '#2'
+    load: 1
+    peer: sin1-sgcs2-g1-nc5
+  - label: '#1'
+    load: 1
+    peer: sin1-sgcs2-g1-nc5
+  - label: '#1'
+    load: 12
+    peer: sin-gss1-sbb1-nc5
+  - label: '#1'
+    load: 12
+    peer: sin-gss1-sbb1-nc5
+sjo-sv5-bb1-n7:
+  links:
+  - label: '#2'
+    load: 7
+    peer: sin-gss1-sbb1-nc5
+  - label: '#1'
+    load: 6
+    peer: sin-gss1-sbb1-nc5
+syd-sy2-bb1-a72:
+  links:
+  - label: '#1'
+    load: 16
+    peer: TELSTRA
+  - label: '#1'
+    load: 1
+    peer: GOOGLE
+  - label: '#2'
+    load: 8
+    peer: syd-sy2-bb1-a9
+  - label: '#1'
+    load: 14
+    peer: TPG
+  - label: '#2'
+    load: 8
+    peer: syd-sy2-bb1-a9
+  - label: '#2'
+    load: 0
+    peer: sin-sg1-sbb1-nc5
+  - label: '#2'
+    load: 9
+    peer: syd-sy2-bb1-a9
+  - label: '#2'
+    load: 9
+    peer: syd-sy2-bb1-a9
+  - label: '#1'
+    load: 3
+    peer: VOCUS
+  - label: '#2'
+    load: 9
+    peer: syd-sy2-bb1-a9
+  - label: '#2'
+    load: 10
+    peer: syd-sy2-bb1-a9
+  - label: '#2'
+    load: 9
+    peer: syd-sy2-bb1-a9
+  - label: '#2'
+    load: 10
+    peer: syd-sy2-bb1-a9
+  - label: '#1'
+    load: 7
+    peer: NTT
+  - label: '#2'
+    load: 9
+    peer: syd-sy2-bb1-a9
+  - label: '#2'
+    load: 9
+    peer: syd-sy2-bb1-a9
+  - label: '#1'
+    load: 1
+    peer: syd-sy2-bb2-a72
+  - label: '#2'
+    load: 9
+    peer: syd-sy2-bb1-a9
+  - label: '#2'
+    load: 9
+    peer: syd-sy2-bb1-a9
+  - label: '#1'
+    load: 1
+    peer: syd-sy2-bb2-a72
+  - label: '#1'
+    load: 10
+    peer: IX AUS NSW
+  - label: '#1'
+    load: 0
+    peer: sin-sg1-sbb1-nc5
+  - label: '#1'
+    load: 3
+    peer: syd1-sy2-g1-nc5
+syd-sy2-bb1-a9:
+  links:
+  - label: '#2'
+    load: 8
+    peer: syd-sy2-bb1-a72
+  - label: '#2'
+    load: 8
+    peer: syd-sy2-bb1-a72
+  - label: '#2'
+    load: 9
+    peer: syd-sy2-bb1-a72
+  - label: '#2'
+    load: 9
+    peer: syd-sy2-bb1-a72
+  - label: '#2'
+    load: 10
+    peer: syd-sy2-bb1-a72
+  - label: '#2'
+    load: 9
+    peer: syd-sy2-bb1-a72
+  - label: '#2'
+    load: 9
+    peer: syd-sy2-bb1-a72
+  - label: '#2'
+    load: 9
+    peer: syd-sy2-bb1-a72
+  - label: '#2'
+    load: 9
+    peer: syd-sy2-bb1-a72
+  - label: '#2'
+    load: 9
+    peer: syd-sy2-bb1-a72
+  - label: '#2'
+    load: 9
+    peer: syd-sy2-bb1-a72
+  - label: '#2'
+    load: 9
+    peer: syd-sy2-bb1-a72
+syd-sy2-bb2-a72:
+  links:
+  - label: '#1'
+    load: 11
+    peer: EQUINIX
+  - label: '#1'
+    load: 1
+    peer: EDGE-IX
+  - label: '#2'
+    load: 18
+    peer: syd-sy2-bb2-a9
+  - label: '#2'
+    load: 17
+    peer: syd-sy2-bb2-a9
+  - label: '#2'
+    load: 18
+    peer: syd-sy2-bb2-a9
+  - label: '#2'
+    load: 16
+    peer: syd-sy2-bb2-a9
+  - label: '#2'
+    load: 18
+    peer: syd-sy2-bb2-a9
+  - label: '#1'
+    load: 1
+    peer: FACEBOOK
+  - label: '#1'
+    load: 16
+    peer: TELSTRA
+  - label: '#2'
+    load: 17
+    peer: syd-sy2-bb2-a9
+  - label: '#1'
+    load: 9
+    peer: lax-la1-bb1-n7
+  - label: '#1'
+    load: 21
+    peer: sin-gss1-sbb1-nc5
+  - label: '#2'
+    load: 17
+    peer: syd-sy2-bb2-a9
+  - label: '#1'
+    load: 8
+    peer: NTT
+  - label: '#1'
+    load: 9
+    peer: syd1-sy2-g2-nc5
+  - label: '#2'
+    load: 16
+    peer: syd-sy2-bb2-a9
+  - label: '#2'
+    load: 16
+    peer: syd-sy2-bb2-a9
+  - label: '#1'
+    load: 3
+    peer: VOCUS
+  - label: '#2'
+    load: 16
+    peer: syd-sy2-bb2-a9
+  - label: '#1'
+    load: 14
+    peer: TPG
+  - label: '#2'
+    load: 17
+    peer: syd-sy2-bb2-a9
+  - label: '#2'
+    load: 18
+    peer: syd-sy2-bb2-a9
+  - label: '#2'
+    load: 21
+    peer: sin-gss1-sbb1-nc5
+  - label: '#1'
+    load: 1
+    peer: syd-sy2-bb1-a72
+  - label: '#1'
+    load: 10
+    peer: lax-la1-bb1-n7
+  - label: '#1'
+    load: 1
+    peer: syd-sy2-bb1-a72
+syd-sy2-bb2-a9:
+  links:
+  - label: '#2'
+    load: 18
+    peer: syd-sy2-bb2-a72
+  - label: '#2'
+    load: 17
+    peer: syd-sy2-bb2-a72
+  - label: '#2'
+    load: 16
+    peer: syd-sy2-bb2-a72
+  - label: '#2'
+    load: 17
+    peer: syd-sy2-bb2-a72
+  - label: '#2'
+    load: 16
+    peer: syd-sy2-bb2-a72
+  - label: '#2'
+    load: 16
+    peer: syd-sy2-bb2-a72
+  - label: '#2'
+    load: 17
+    peer: syd-sy2-bb2-a72
+  - label: '#2'
+    load: 18
+    peer: syd-sy2-bb2-a72
+  - label: '#2'
+    load: 17
+    peer: syd-sy2-bb2-a72
+  - label: '#2'
+    load: 17
+    peer: syd-sy2-bb2-a72
+  - label: '#2'
+    load: 18
+    peer: syd-sy2-bb2-a72
+  - label: '#2'
+    load: 16
+    peer: syd-sy2-bb2-a72
+syd1-sy2-g1-nc5:
+  links:
+  - label: '#1'
+    load: 1
+    peer: syd1-sy2-g2-nc5
+  - label: '#1'
+    load: 0
+    peer: sin1-sgcs2-g1-nc5
+  - label: '#1'
+    load: 1
+    peer: syd1-sy2-g2-nc5
+  - label: '#1'
+    load: 7
+    peer: syd-sy2-bb1-a72
+syd1-sy2-g2-nc5:
+  links:
+  - label: '#1'
+    load: 1
+    peer: syd1-sy2-g1-nc5
+  - label: '#1'
+    load: 9
+    peer: syd-sy2-bb2-a72
+  - label: '#1'
+    load: 1
+    peer: syd1-sy2-g1-nc5

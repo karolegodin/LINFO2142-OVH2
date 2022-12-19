@@ -1,0 +1,430 @@
+lax-la1-bb1-n7:
+  links:
+  - label: '#1'
+    load: 10
+    peer: was-cva1-sbb1-8k
+  - label: '#1'
+    load: 11
+    peer: syd-sy2-bb2-a72
+  - label: '#1'
+    load: 8
+    peer: was-nva1-sbb1-8k
+  - label: '#1'
+    load: 11
+    peer: was-cva1-sbb1-8k
+  - label: '#3'
+    load: 12
+    peer: sjo-sv5-bb1-n7
+  - label: '#1'
+    load: 8
+    peer: was-nva1-sbb1-8k
+  - label: '#1'
+    load: 8
+    peer: was-nva1-sbb1-8k
+  - label: '#2'
+    load: 11
+    peer: syd-sy2-bb2-a72
+  - label: '#4'
+    load: 12
+    peer: sjo-sv5-bb1-n7
+  - label: '#2'
+    load: 12
+    peer: sjo-sv5-bb1-n7
+  - label: '#2'
+    load: 12
+    peer: sjo-sv5-bb1-n7
+  - label: '#1'
+    load: 11
+    peer: was-cva1-sbb1-8k
+lon-drch-sbb1-nc5:
+  links:
+  - label: '#5'
+    load: 48
+    peer: nwk-5-n7
+  - label: '#7'
+    load: 47
+    peer: nwk-5-n7
+  - label: '#2'
+    load: 46
+    peer: nwk-5-n7
+  - label: '#1'
+    load: 0
+    peer: nwk-5-n7
+  - label: '#4'
+    load: 45
+    peer: nwk-5-n7
+  - label: '#3'
+    load: 47
+    peer: nwk-5-n7
+  - label: '#6'
+    load: 46
+    peer: nwk-5-n7
+lon-thw-sbb1-nc5:
+  links:
+  - label: '#5'
+    load: 35
+    peer: nwk-1-n7
+  - label: '#6'
+    load: 36
+    peer: nwk-1-n7
+  - label: '#7'
+    load: 36
+    peer: nwk-1-n7
+  - label: '#4'
+    load: 35
+    peer: nwk-1-n7
+  - label: '#1'
+    load: 36
+    peer: nwk-1-n7
+  - label: '#6'
+    load: 36
+    peer: nwk-1-n7
+  - label: '#2'
+    load: 35
+    peer: nwk-1-n7
+  - label: '#3'
+    load: 0
+    peer: nwk-1-n7
+mrs-mrs1-bb1-a72:
+  links:
+  - label: '#1'
+    load: 35
+    peer: sin-gss1-sbb1-nc5
+  - label: '#1'
+    load: 3
+    peer: par-gsw-sbb1-nc5
+  - label: '#1'
+    load: 0
+    peer: sin-sg1-sbb1-nc5
+  - label: '#1'
+    load: 37
+    peer: sin-gss1-sbb1-nc5
+  - label: '#1'
+    load: 10
+    peer: par-th2-sbb1-nc5
+  - label: '#1'
+    load: 0
+    peer: sin-sg1-sbb1-nc5
+  - label: '#1'
+    load: 37
+    peer: sin-gss1-sbb1-nc5
+  - label: '#1'
+    load: 68
+    peer: sin-sg1-sbb1-nc5
+nwk-1-n7:
+  links:
+  - label: '#5'
+    load: 29
+    peer: lon-thw-sbb1-nc5
+  - label: '#1'
+    load: 44
+    peer: was-cva1-sbb1-8k
+  - label: '#1'
+    load: 43
+    peer: was-cva1-sbb1-8k
+  - label: '#8'
+    load: 26
+    peer: lon-thw-sbb1-nc5
+  - label: '#2'
+    load: 48
+    peer: was-cva1-sbb1-8k
+  - label: '#3'
+    load: 47
+    peer: was-cva1-sbb1-8k
+  - label: '#7'
+    load: 26
+    peer: lon-thw-sbb1-nc5
+  - label: '#4'
+    load: 28
+    peer: lon-thw-sbb1-nc5
+  - label: '#1'
+    load: 26
+    peer: lon-thw-sbb1-nc5
+  - label: '#2'
+    load: 46
+    peer: was-cva1-sbb1-8k
+  - label: '#6'
+    load: 27
+    peer: lon-thw-sbb1-nc5
+  - label: '#2'
+    load: 27
+    peer: lon-thw-sbb1-nc5
+  - label: '#3'
+    load: 0
+    peer: lon-thw-sbb1-nc5
+nwk-5-n7:
+  links:
+  - label: '#5'
+    load: 29
+    peer: lon-drch-sbb1-nc5
+  - label: '#2'
+    load: 31
+    peer: was-nva1-sbb1-8k
+  - label: '#2'
+    load: 31
+    peer: was-nva1-sbb1-8k
+  - label: '#3'
+    load: 30
+    peer: was-nva1-sbb1-8k
+  - label: '#1'
+    load: 31
+    peer: was-nva1-sbb1-8k
+  - label: '#7'
+    load: 30
+    peer: lon-drch-sbb1-nc5
+  - label: '#1'
+    load: 31
+    peer: was-nva1-sbb1-8k
+  - label: '#2'
+    load: 30
+    peer: lon-drch-sbb1-nc5
+  - label: '#1'
+    load: 0
+    peer: lon-drch-sbb1-nc5
+  - label: '#1'
+    load: 31
+    peer: was-nva1-sbb1-8k
+  - label: '#4'
+    load: 31
+    peer: lon-drch-sbb1-nc5
+  - label: '#3'
+    load: 29
+    peer: lon-drch-sbb1-nc5
+  - label: '#6'
+    load: 31
+    peer: lon-drch-sbb1-nc5
+par-gsw-sbb1-nc5:
+  links:
+  - label: '#1'
+    load: 8
+    peer: mrs-mrs1-bb1-a72
+  - label: '#1'
+    load: 57
+    peer: was-cva1-sbb1-8k
+  - label: '#1'
+    load: 56
+    peer: was-cva1-sbb1-8k
+par-th2-sbb1-nc5:
+  links:
+  - label: '#3'
+    load: 25
+    peer: was-nva1-sbb1-8k
+  - label: '#1'
+    load: 16
+    peer: mrs-mrs1-bb1-a72
+  - label: '#2'
+    load: 25
+    peer: was-nva1-sbb1-8k
+  - label: '#1'
+    load: 24
+    peer: was-nva1-sbb1-8k
+sin-gss1-sbb1-nc5:
+  links:
+  - label: '#1'
+    load: 27
+    peer: mrs-mrs1-bb1-a72
+  - label: '#2'
+    load: 25
+    peer: sjo-sv5-bb1-n7
+  - label: '#1'
+    load: 26
+    peer: mrs-mrs1-bb1-a72
+  - label: '#1'
+    load: 29
+    peer: syd-sy2-bb2-a72
+  - label: '#2'
+    load: 32
+    peer: syd-sy2-bb2-a72
+  - label: '#1'
+    load: 31
+    peer: mrs-mrs1-bb1-a72
+  - label: '#1'
+    load: 29
+    peer: sjo-sv5-bb1-n7
+  - label: '#1'
+    load: 58
+    peer: sin-sg1-sbb1-nc5
+sin-sg1-sbb1-nc5:
+  links:
+  - label: '#2'
+    load: 0
+    peer: syd-sy2-bb1-a72
+  - label: '#1'
+    load: 0
+    peer: mrs-mrs1-bb1-a72
+  - label: '#1'
+    load: 23
+    peer: sin1-sgcs2-g1-nc5
+  - label: '#1'
+    load: 0
+    peer: mrs-mrs1-bb1-a72
+  - label: '#1'
+    load: 23
+    peer: sin1-sgcs2-g1-nc5
+  - label: '#1'
+    load: 24
+    peer: sin1-sgcs2-g1-nc5
+  - label: '#1'
+    load: 23
+    peer: sin1-sgcs2-g1-nc5
+  - label: '#1'
+    load: 16
+    peer: sin-gss1-sbb1-nc5
+  - label: '#1'
+    load: 56
+    peer: mrs-mrs1-bb1-a72
+  - label: '#1'
+    load: 0
+    peer: syd-sy2-bb1-a72
+sin1-sgcs2-g1-nc5:
+  links:
+  - label: '#1'
+    load: 23
+    peer: sin-sg1-sbb1-nc5
+  - label: '#1'
+    load: 23
+    peer: sin-sg1-sbb1-nc5
+  - label: '#1'
+    load: 23
+    peer: sin-sg1-sbb1-nc5
+  - label: '#1'
+    load: 1
+    peer: syd1-sy2-g1-nc5
+  - label: '#1'
+    load: 23
+    peer: sin-sg1-sbb1-nc5
+sjo-sv5-bb1-n7:
+  links:
+  - label: '#2'
+    load: 10
+    peer: sin-gss1-sbb1-nc5
+  - label: '#3'
+    load: 12
+    peer: lax-la1-bb1-n7
+  - label: '#4'
+    load: 12
+    peer: lax-la1-bb1-n7
+  - label: '#2'
+    load: 11
+    peer: lax-la1-bb1-n7
+  - label: '#1'
+    load: 10
+    peer: sin-gss1-sbb1-nc5
+  - label: '#2'
+    load: 11
+    peer: lax-la1-bb1-n7
+syd-sy2-bb1-a72:
+  links:
+  - label: '#2'
+    load: 0
+    peer: sin-sg1-sbb1-nc5
+  - label: '#1'
+    load: 3
+    peer: syd1-sy2-g1-nc5
+  - label: '#1'
+    load: 1
+    peer: syd-sy2-bb2-a72
+  - label: '#1'
+    load: 0
+    peer: sin-sg1-sbb1-nc5
+  - label: '#1'
+    load: 1
+    peer: syd-sy2-bb2-a72
+syd-sy2-bb2-a72:
+  links:
+  - label: '#1'
+    load: 12
+    peer: lax-la1-bb1-n7
+  - label: '#1'
+    load: 19
+    peer: sin-gss1-sbb1-nc5
+  - label: '#2'
+    load: 20
+    peer: sin-gss1-sbb1-nc5
+  - label: '#2'
+    load: 12
+    peer: lax-la1-bb1-n7
+  - label: '#1'
+    load: 1
+    peer: syd-sy2-bb1-a72
+  - label: '#1'
+    load: 1
+    peer: syd-sy2-bb1-a72
+syd1-sy2-g1-nc5:
+  links:
+  - label: '#1'
+    load: 10
+    peer: syd-sy2-bb1-a72
+  - label: '#1'
+    load: 0
+    peer: sin1-sgcs2-g1-nc5
+was-cva1-sbb1-8k:
+  links:
+  - label: '#1'
+    load: 20
+    peer: nwk-1-n7
+  - label: '#1'
+    load: 19
+    peer: nwk-1-n7
+  - label: '#1'
+    load: 44
+    peer: lax-la1-bb1-n7
+  - label: '#1'
+    load: 24
+    peer: par-gsw-sbb1-nc5
+  - label: '#1'
+    load: 44
+    peer: lax-la1-bb1-n7
+  - label: '#2'
+    load: 21
+    peer: nwk-1-n7
+  - label: '#3'
+    load: 20
+    peer: nwk-1-n7
+  - label: '#1'
+    load: 23
+    peer: par-gsw-sbb1-nc5
+  - label: '#2'
+    load: 21
+    peer: nwk-1-n7
+  - label: '#1'
+    load: 46
+    peer: lax-la1-bb1-n7
+was-nva1-sbb1-8k:
+  links:
+  - label: '#2'
+    load: 8
+    peer: nwk-5-n7
+  - label: '#2'
+    load: 8
+    peer: nwk-5-n7
+  - label: '#3'
+    load: 8
+    peer: nwk-5-n7
+  - label: '#1'
+    load: 8
+    peer: nwk-5-n7
+  - label: '#1'
+    load: 39
+    peer: lax-la1-bb1-n7
+  - label: '#3'
+    load: 6
+    peer: par-th2-sbb1-nc5
+  - label: '#1'
+    load: 38
+    peer: lax-la1-bb1-n7
+  - label: '#1'
+    load: 38
+    peer: lax-la1-bb1-n7
+  - label: '#1'
+    load: 8
+    peer: nwk-5-n7
+  - label: '#2'
+    load: 6
+    peer: par-th2-sbb1-nc5
+  - label: '#1'
+    load: 8
+    peer: nwk-5-n7
+  - label: '#1'
+    load: 6
+    peer: par-th2-sbb1-nc5
